@@ -1,0 +1,10 @@
+fastf1
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+python-dotenv
+joblib
+pyarrow
