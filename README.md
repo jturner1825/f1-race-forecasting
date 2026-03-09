@@ -58,13 +58,10 @@ The repository is organized as a modular analytics pipeline.
 ```
 f1-race-forecasting/
 │
-├── config/
 ├── data/
 │   ├── raw/
 │   ├── processed/
-│   └── exports/
 │
-├── notebooks/
 │
 ├── src/
 │   ├── ingest/
@@ -74,12 +71,6 @@ f1-race-forecasting/
 │   ├── simulation/
 │   ├── data_access/
 │   └── common/
-│
-├── db/
-│   └── oracle/
-│
-├── tests/
-└── outputs/
 ```
 
 Each module handles a specific part of the pipeline.
@@ -367,6 +358,11 @@ python src/simulation/race_simulator.py
 # Repository Structure
 
 ```
+data/
+|
+├── raw/
+└── processed/
+
 src/
 │
 ├── ingest/        # FastF1 data ingestion
