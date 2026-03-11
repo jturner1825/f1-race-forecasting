@@ -23,5 +23,6 @@ def fetch_schedule(year: int):
     schedule_df.to_csv(RAW_DIR / f'{year}_schedule.csv', index=False)
 
 if __name__ == "__main__":
-    fetch_schedule(2024)
-    fetch_schedule(2023)
+    for year in [2023, 2024]:
+        fetch_schedule(year)
+        print(f'{year} schedule saved.')
