@@ -6,7 +6,7 @@ PROCESSED_DIR = Path('C:/VS Code/f1-race-forecasting/data/processed')
 
 def clean_laps(laps_df: pd.DataFrame) -> pd.DataFrame:
     # Drop deleted / inaccurate laps
-    cleaned_laps = laps_df[~laps_df['Deleted'] & laps_df['IsAccurate']].copy()
+    cleaned_laps = laps_df[~laps_df['Deleted'] & (laps_df['IsAccurate'] | (laps_df['PitInTime'].notna() | laps_df['PitOutTime'].notna()))].copy()
     
     # Convert time columns to seconds
     time_cols = ['LapTime', 'Sector1Time', 'Sector2Time', 'Sector3Time']
@@ -15,6 +15,11 @@ def clean_laps(laps_df: pd.DataFrame) -> pd.DataFrame:
         
     # Determine if the lap was a pit lap
     cleaned_laps['IsPitLap'] = cleaned_laps['PitInTime'].notna() | cleaned_laps['PitOutTime'].notna()
+    
+    # Calculate total pit time for pit laps
+    # Group by driver and shift PitOutTime up by one row
+    next_pit_out = cleaned_laps.groupby('Driver')['PitOutTime'].shift(-1)
+    cleaned_laps['PitTime'] = (pd.to_timedelta(next_pit_out) - pd.to_timedelta(cleaned_laps['PitInTime'])).dt.total_seconds()
     
     # Drop original time columns that are no longer needed
     cleaned_laps = cleaned_laps.drop(columns=['PitInTime', 'PitOutTime', 'Deleted', 'IsAccurate'])
