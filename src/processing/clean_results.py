@@ -1,8 +1,6 @@
 import pandas as pd
 from pathlib import Path
-
-RAW_DIR = Path('C:/VS Code/f1-race-forecasting/data/raw')
-PROCESSED_DIR = Path('C:/VS Code/f1-race-forecasting/data/processed')
+from src.common.setup_directories import setup_directories, PROCESSED_DIR, RAW_DIR
 
 def clean_results(results_df: pd.DataFrame) -> pd.DataFrame:
     # Drop duplicate results (e.g. where Year, RoundNumber & DriverNumber are same)
@@ -21,6 +19,7 @@ def clean_results(results_df: pd.DataFrame) -> pd.DataFrame:
     return cleaned_results
 
 if __name__ == "__main__":
+    setup_directories()
     results_df = pd.read_csv(RAW_DIR / 'Race_results.csv')
     cleaned_results_df = clean_results(results_df)
     cleaned_results_df.to_csv(PROCESSED_DIR / 'Race_results_cleaned.csv', index=False)  

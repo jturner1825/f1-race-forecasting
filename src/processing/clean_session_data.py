@@ -1,8 +1,6 @@
 import pandas as pd
 from pathlib import Path
-
-RAW_DIR = Path('C:/VS Code/f1-race-forecasting/data/raw')
-PROCESSED_DIR = Path('C:/VS Code/f1-race-forecasting/data/processed')
+from src.common.setup_directories import setup_directories, PROCESSED_DIR, RAW_DIR
 
 def clean_session_data(session_data_df: pd.DataFrame) -> pd.DataFrame:
     # Drop duplicate sessions (e.g. where Year & RoundNumber are same)
@@ -19,6 +17,7 @@ def clean_session_data(session_data_df: pd.DataFrame) -> pd.DataFrame:
     return cleaned_session_data
 
 if __name__ == "__main__":
+    setup_directories()
     session_data_df = pd.read_csv(RAW_DIR / 'Race_session_data.csv')
     cleaned_session_data_df = clean_session_data(session_data_df)
     cleaned_session_data_df.to_csv(PROCESSED_DIR / 'Race_session_data_cleaned.csv', index=False)

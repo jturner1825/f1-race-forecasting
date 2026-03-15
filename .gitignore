@@ -1,5 +1,6 @@
 # Data
-data/
+data/cache/
+data/raw/
 
 # FastF1 cache
 cache/
@@ -16,7 +17,6 @@ venv/
 env/
 
 # IDEs
-.vscode/
 .idea/
 
 # OS

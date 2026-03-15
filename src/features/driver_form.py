@@ -1,8 +1,5 @@
 import pandas as pd
-from pathlib import Path
-
-PROCESSED_DIR = Path('C:/VS Code/f1-race-forecasting/data/processed')
-FEATURES_DIR = Path('C:/VS Code/f1-race-forecasting/data/features')
+from src.common.setup_directories import PROCESSED_DIR, FEATURES_DIR
 
 def calc_finish_features(results_df: pd.DataFrame) -> pd.DataFrame:
     results_df = results_df.sort_values(by=['Year', 'RoundNumber']).reset_index(drop=True)

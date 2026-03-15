@@ -1,8 +1,6 @@
 import pandas as pd
 from pathlib import Path
-
-RAW_DIR = Path('C:/VS Code/f1-race-forecasting/data/raw')
-PROCESSED_DIR = Path('C:/VS Code/f1-race-forecasting/data/processed')
+from src.common.setup_directories import setup_directories, PROCESSED_DIR, RAW_DIR
 
 def clean_laps(laps_df: pd.DataFrame) -> pd.DataFrame:
     # Drop deleted / inaccurate laps
@@ -33,6 +31,7 @@ def clean_laps(laps_df: pd.DataFrame) -> pd.DataFrame:
     return cleaned_laps
 
 if __name__ == "__main__":
+    setup_directories()
     laps_df = pd.read_csv(RAW_DIR / 'Race_laps.csv')
     cleaned_laps_df = clean_laps(laps_df)
     cleaned_laps_df.to_csv(PROCESSED_DIR / 'Race_laps_cleaned.csv', index=False)
