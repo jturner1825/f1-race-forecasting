@@ -1,10 +1,14 @@
 import fastf1
 import pandas as pd
-from src.common.setup_directories import setup_directories, setup_cache, RAW_DIR
+from src.common.setup_directories import setup_directories, setup_cache, RAW_DIR, START_YEAR, END_YEAR
 
 def fetch_session_data(year: int, round_number: int, session_type: str = 'R'):
-    session = fastf1.get_session(year, round_number, session_type)
-    session.load(weather=True, laps=True)
+    try:
+        session = fastf1.get_session(year, round_number, session_type)
+        session.load(weather=True, laps=True)
+    except Exception as e:
+        print(f'Skipping {year} round {round_number}: {e}')
+        return
 
     session_data = {
         'Year': year,
@@ -22,17 +26,20 @@ def fetch_session_data(year: int, round_number: int, session_type: str = 'R'):
     
     session_df = pd.DataFrame([session_data])
         
-    if (RAW_DIR / f'{session.name}_session_data.csv').exists():
-        session_df.to_csv(RAW_DIR / f'{session.name}_session_data.csv', mode='a', header=False, index=False)
+    csv_path = RAW_DIR / f'{session.name}_session_data.csv'
+    if csv_path.exists():
+        existing_df = pd.read_csv(csv_path)
+        if not ((existing_df['Year'] == year) & (existing_df['RoundNumber'] == round_number)).any():
+            session_df.to_csv(csv_path, mode='a', header=False, index=False)
     else:
-        session_df.to_csv(RAW_DIR / f'{session.name}_session_data.csv', index=False)
+        session_df.to_csv(csv_path, index=False)
 
 if __name__ == "__main__":
     setup_directories()
     setup_cache()
-    for year in [2023, 2024]:
+    for year in range(START_YEAR, END_YEAR + 1):
         schedule = fastf1.get_event_schedule(year)
-        schedule = schedule[~schedule['EventName'].str.contains('Test')]
+        schedule = schedule[~schedule['EventName'].str.contains('Test') & (schedule['RoundNumber'] > 0)]
         for round_number in schedule['RoundNumber']:
             fetch_session_data(year, round_number)
         print(f'{year} session data saved.')

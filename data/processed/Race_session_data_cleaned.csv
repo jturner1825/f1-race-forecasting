@@ -45,3 +45,27 @@ Year,Event,RoundNumber,SessionType,TotalLaps,TrackTemp,AirTemp,Rainfall,SafetyCa
 2024,Las Vegas,22,Race,50.0,17.72,17.83,0.0,False,False,False
 2024,Qatar,23,Race,57.0,22.77,18.93,0.0,True,True,False
 2024,Abu Dhabi,24,Race,58.0,31.81,26.77,0.0,False,True,False
+2025,Australian,1,Race,57.0,18.94,15.71,0.33,True,False,False
+2025,Chinese,2,Race,56.0,35.82,27.22,0.0,False,False,False
+2025,Japanese,3,Race,53.0,20.51,14.43,0.0,False,False,False
+2025,Bahrain,4,Race,57.0,31.87,27.05,0.0,True,False,False
+2025,Saudi Arabian,5,Race,50.0,37.82,29.48,0.0,True,False,False
+2025,Miami,6,Race,57.0,38.69,26.57,0.03,False,True,False
+2025,Emilia Romagna,7,Race,63.0,42.66,23.96,0.0,True,True,False
+2025,Monaco,8,Race,78.0,43.32,22.21,0.0,False,True,False
+2025,Spanish,9,Race,66.0,48.54,29.12,0.0,True,False,False
+2025,Canadian,10,Race,70.0,49.25,24.04,0.01,True,False,False
+2025,Austrian,11,Race,70.0,49.17,30.35,0.0,True,False,False
+2025,British,12,Race,52.0,23.58,17.92,0.18,True,True,False
+2025,Belgian,13,Race,44.0,24.09,17.03,0.46,True,False,True
+2025,Hungarian,14,Race,70.0,32.73,22.08,0.0,False,False,False
+2025,Dutch,15,Race,72.0,27.96,20.08,0.0,True,True,False
+2025,Italian,16,Race,53.0,43.29,26.76,0.0,False,False,False
+2025,Azerbaijan,17,Race,51.0,26.11,20.55,0.0,True,False,False
+2025,Singapore,18,Race,62.0,33.85,29.07,0.04,False,False,False
+2025,United States,19,Race,56.0,45.04,28.27,0.0,False,True,False
+2025,Mexico City,20,Race,71.0,50.59,26.41,0.0,False,True,False
+2025,São Paulo,21,Race,71.0,30.69,17.35,0.0,True,True,False
+2025,Las Vegas,22,Race,50.0,19.53,16.73,0.0,False,True,False
+2025,Qatar,23,Race,57.0,28.16,22.6,0.0,True,False,False
+2025,Abu Dhabi,24,Race,58.0,31.06,26.67,0.0,False,False,False

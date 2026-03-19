@@ -1,5 +1,8 @@
+from pathlib import Path
 from sim.season import Season
 from services.loader import load_teams, load_drivers, load_circuits
+
+DATA_DIR = Path(__file__).parent / "data"
 
 def print_menu():
     lines = []
@@ -16,10 +19,10 @@ def print_menu():
     return "\n".join(lines)
 
 def main():  
-    teams_by_id = load_teams("simulator/data/teams.json")
+    teams_by_id = load_teams(DATA_DIR / "teams.json")
     teams = list(teams_by_id.values())
-    drivers = load_drivers("simulator/data/drivers.json", teams_by_id)
-    circuits = load_circuits("simulator/data/circuits_2025.json")
+    drivers = load_drivers(DATA_DIR / "drivers.json", teams_by_id)
+    circuits = load_circuits(DATA_DIR / "circuits_2025.json")
     round = 0
 
     season = Season(drivers, teams, circuits)

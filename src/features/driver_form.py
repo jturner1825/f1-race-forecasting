@@ -60,8 +60,8 @@ def build_driver_form(results_df: pd.DataFrame, laps_df: pd.DataFrame) -> pd.Dat
     
     driver_form_df = finish_features.merge(lap_time_features, on=['DriverNumber', 'Year', 'RoundNumber'], how='left')
     driver_form_df = driver_form_df.merge(pit_features, on=['DriverNumber', 'Year', 'RoundNumber'], how='left')
-    
-    return driver_form_df
+
+    return driver_form_df.round(3)
 
 if __name__ == "__main__":
     results_df = pd.read_csv(PROCESSED_DIR / 'Race_results_cleaned.csv')

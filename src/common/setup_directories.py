@@ -1,11 +1,16 @@
 import fastf1
 from pathlib import Path
 
+# Paths
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 CACHE_DIR = PROJECT_ROOT / 'data' / 'cache'
 RAW_DIR = PROJECT_ROOT / 'data' / 'raw'
 PROCESSED_DIR = PROJECT_ROOT / 'data' / 'processed'
 FEATURES_DIR = PROJECT_ROOT / 'data' / 'features'
+
+# Data config
+START_YEAR = 2023
+END_YEAR = 2025
 
 def setup_directories() -> None:
     try:
