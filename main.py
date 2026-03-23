@@ -8,7 +8,7 @@ from src.ingest.fetch_results import fetch_session_results
 from src.ingest.fetch_session_data import fetch_session_data
 from src.ingest.fetch_circuit_info import fetch_circuit_info
 from src.processing.clean_laps import clean_laps
-from src.processing.clean_results import clean_results
+from src.processing.clean_results import clean_race_results
 from src.processing.clean_session_data import clean_session_data
 from src.features.driver_form import build_driver_form
 from src.features.team_performance import build_team_performance
@@ -42,8 +42,8 @@ def run_processing():
     cleaned_laps.to_csv(PROCESSED_DIR / 'Race_laps_cleaned.csv', index=False)
 
     results_df = pd.read_csv(RAW_DIR / 'Race_results.csv')
-    cleaned_results = clean_results(results_df)
-    cleaned_results.to_csv(PROCESSED_DIR / 'Race_results_cleaned.csv', index=False)
+    cleaned_race_results = clean_race_results(results_df)
+    cleaned_race_results.to_csv(PROCESSED_DIR / 'Race_results_cleaned.csv', index=False)
 
     session_data_df = pd.read_csv(RAW_DIR / 'Race_session_data.csv')
     cleaned_session_data = clean_session_data(session_data_df)

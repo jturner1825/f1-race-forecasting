@@ -10,7 +10,10 @@ def fetch_session_results(year: int, round_number: int, session_type: str = 'R')
         print(f'Skipping {year} round {round_number}: {e}')
         return
 
-    results_df = session.results[['DriverNumber', 'Abbreviation', 'TeamName', 'GridPosition', 'Position', 'Status']].copy()
+    if session_type == 'R':
+        results_df = session.results[['DriverNumber', 'Abbreviation', 'TeamName', 'GridPosition', 'Position', 'Status']].copy()
+    else:
+        results_df = session.results[['DriverNumber', 'Abbreviation', 'TeamName', 'Q1', 'Q2', 'Q3', 'Position']].copy()
     results_df['Year'] = year
     results_df['Event'] = session.event['EventName'].replace(' Grand Prix', "")
     results_df['RoundNumber'] = session.event['RoundNumber']
@@ -32,4 +35,6 @@ if __name__ == "__main__":
         schedule = schedule[~schedule['EventName'].str.contains('Test') & (schedule['RoundNumber'] > 0)]
         for round_number in schedule['RoundNumber']:
             fetch_session_results(year, round_number)
+            fetch_session_results(year, round_number, 'Q')
+            
         print(f'{year} results saved.')

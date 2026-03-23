@@ -1,0 +1,1400 @@
+DriverNumber,Abbreviation,TeamName,Q1,Q2,Q3,Position,Year,Event,RoundNumber,SessionType
+1,VER,Red Bull Racing,91.295,90.503,89.708,1.0,2023,Bahrain,1,Qualifying
+11,PER,Red Bull Racing,91.479,90.746,89.846,2.0,2023,Bahrain,1,Qualifying
+16,LEC,Ferrari,91.094,90.282,90.0,3.0,2023,Bahrain,1,Qualifying
+55,SAI,Ferrari,90.993,90.515,90.154,4.0,2023,Bahrain,1,Qualifying
+14,ALO,Aston Martin,91.158,90.645,90.336,5.0,2023,Bahrain,1,Qualifying
+63,RUS,Mercedes,91.057,90.507,90.34,6.0,2023,Bahrain,1,Qualifying
+44,HAM,Mercedes,91.543,90.513,90.384,7.0,2023,Bahrain,1,Qualifying
+18,STR,Aston Martin,91.184,91.127,90.836,8.0,2023,Bahrain,1,Qualifying
+31,OCO,Alpine,91.508,90.914,90.984,9.0,2023,Bahrain,1,Qualifying
+27,HUL,Haas F1 Team,91.204,90.809,,10.0,2023,Bahrain,1,Qualifying
+4,NOR,McLaren,91.652,91.381,,11.0,2023,Bahrain,1,Qualifying
+77,BOT,Alfa Romeo,91.504,91.443,,12.0,2023,Bahrain,1,Qualifying
+24,ZHO,Alfa Romeo,91.615,91.473,,13.0,2023,Bahrain,1,Qualifying
+22,TSU,AlphaTauri,91.4,92.51,,14.0,2023,Bahrain,1,Qualifying
+23,ALB,Williams,91.461,,,15.0,2023,Bahrain,1,Qualifying
+2,SAR,Williams,91.652,,,16.0,2023,Bahrain,1,Qualifying
+20,MAG,Haas F1 Team,91.892,,,17.0,2023,Bahrain,1,Qualifying
+81,PIA,McLaren,92.101,,,18.0,2023,Bahrain,1,Qualifying
+21,DEV,AlphaTauri,92.121,,,19.0,2023,Bahrain,1,Qualifying
+10,GAS,Alpine,92.181,,,20.0,2023,Bahrain,1,Qualifying
+11,PER,Red Bull Racing,89.244,88.635,88.265,1.0,2023,Saudi Arabian,2,Qualifying
+16,LEC,Ferrari,89.376,88.903,88.42,2.0,2023,Saudi Arabian,2,Qualifying
+14,ALO,Aston Martin,89.298,88.757,88.73,3.0,2023,Saudi Arabian,2,Qualifying
+63,RUS,Mercedes,89.592,89.132,88.857,4.0,2023,Saudi Arabian,2,Qualifying
+55,SAI,Ferrari,89.411,88.957,88.931,5.0,2023,Saudi Arabian,2,Qualifying
+18,STR,Aston Martin,89.335,88.962,88.945,6.0,2023,Saudi Arabian,2,Qualifying
+31,OCO,Alpine,89.707,89.255,89.078,7.0,2023,Saudi Arabian,2,Qualifying
+44,HAM,Mercedes,89.689,89.374,89.223,8.0,2023,Saudi Arabian,2,Qualifying
+81,PIA,McLaren,89.706,89.378,89.243,9.0,2023,Saudi Arabian,2,Qualifying
+10,GAS,Alpine,89.89,89.411,89.357,10.0,2023,Saudi Arabian,2,Qualifying
+27,HUL,Haas F1 Team,89.547,89.451,,11.0,2023,Saudi Arabian,2,Qualifying
+24,ZHO,Alfa Romeo,89.654,89.461,,12.0,2023,Saudi Arabian,2,Qualifying
+20,MAG,Haas F1 Team,89.744,89.634,,13.0,2023,Saudi Arabian,2,Qualifying
+77,BOT,Alfa Romeo,89.929,89.668,,14.0,2023,Saudi Arabian,2,Qualifying
+1,VER,Red Bull Racing,88.761,109.953,,15.0,2023,Saudi Arabian,2,Qualifying
+22,TSU,AlphaTauri,89.939,,,16.0,2023,Saudi Arabian,2,Qualifying
+23,ALB,Williams,89.994,,,17.0,2023,Saudi Arabian,2,Qualifying
+21,DEV,AlphaTauri,90.244,,,18.0,2023,Saudi Arabian,2,Qualifying
+4,NOR,McLaren,90.447,,,19.0,2023,Saudi Arabian,2,Qualifying
+2,SAR,Williams,128.51,,,20.0,2023,Saudi Arabian,2,Qualifying
+1,VER,Red Bull Racing,77.384,77.056,76.732,1.0,2023,Australian,3,Qualifying
+63,RUS,Mercedes,77.654,77.513,76.968,2.0,2023,Australian,3,Qualifying
+44,HAM,Mercedes,77.689,77.551,77.104,3.0,2023,Australian,3,Qualifying
+14,ALO,Aston Martin,77.832,77.283,77.139,4.0,2023,Australian,3,Qualifying
+55,SAI,Ferrari,77.928,77.349,77.27,5.0,2023,Australian,3,Qualifying
+18,STR,Aston Martin,77.873,77.616,77.308,6.0,2023,Australian,3,Qualifying
+16,LEC,Ferrari,78.218,77.39,77.369,7.0,2023,Australian,3,Qualifying
+23,ALB,Williams,77.962,77.761,77.609,8.0,2023,Australian,3,Qualifying
+10,GAS,Alpine,78.312,77.574,77.675,9.0,2023,Australian,3,Qualifying
+27,HUL,Haas F1 Team,78.029,77.412,77.735,10.0,2023,Australian,3,Qualifying
+31,OCO,Alpine,77.77,77.768,,11.0,2023,Australian,3,Qualifying
+22,TSU,AlphaTauri,78.471,78.099,,12.0,2023,Australian,3,Qualifying
+4,NOR,McLaren,78.243,78.119,,13.0,2023,Australian,3,Qualifying
+20,MAG,Haas F1 Team,78.159,78.129,,14.0,2023,Australian,3,Qualifying
+21,DEV,AlphaTauri,78.45,78.335,,15.0,2023,Australian,3,Qualifying
+81,PIA,McLaren,78.517,,,16.0,2023,Australian,3,Qualifying
+24,ZHO,Alfa Romeo,78.54,,,17.0,2023,Australian,3,Qualifying
+2,SAR,Williams,78.557,,,18.0,2023,Australian,3,Qualifying
+77,BOT,Alfa Romeo,78.714,,,19.0,2023,Australian,3,Qualifying
+11,PER,Red Bull Racing,,,,20.0,2023,Australian,3,Qualifying
+16,LEC,Ferrari,101.269,101.037,100.203,1.0,2023,Azerbaijan,4,Qualifying
+1,VER,Red Bull Racing,101.398,100.822,100.391,2.0,2023,Azerbaijan,4,Qualifying
+11,PER,Red Bull Racing,101.756,101.131,100.495,3.0,2023,Azerbaijan,4,Qualifying
+55,SAI,Ferrari,102.197,101.369,101.016,4.0,2023,Azerbaijan,4,Qualifying
+44,HAM,Mercedes,102.113,101.65,101.177,5.0,2023,Azerbaijan,4,Qualifying
+14,ALO,Aston Martin,101.72,101.37,101.253,6.0,2023,Azerbaijan,4,Qualifying
+4,NOR,McLaren,102.154,101.485,101.281,7.0,2023,Azerbaijan,4,Qualifying
+22,TSU,AlphaTauri,102.234,101.569,101.581,8.0,2023,Azerbaijan,4,Qualifying
+18,STR,Aston Martin,102.524,101.576,101.611,9.0,2023,Azerbaijan,4,Qualifying
+81,PIA,McLaren,102.455,101.636,101.611,10.0,2023,Azerbaijan,4,Qualifying
+63,RUS,Mercedes,102.073,101.654,,11.0,2023,Azerbaijan,4,Qualifying
+31,OCO,Alpine,102.622,101.798,,12.0,2023,Azerbaijan,4,Qualifying
+23,ALB,Williams,102.171,101.818,,13.0,2023,Azerbaijan,4,Qualifying
+77,BOT,Alfa Romeo,102.582,102.259,,14.0,2023,Azerbaijan,4,Qualifying
+2,SAR,Williams,102.242,102.395,,15.0,2023,Azerbaijan,4,Qualifying
+24,ZHO,Alfa Romeo,102.642,,,16.0,2023,Azerbaijan,4,Qualifying
+27,HUL,Haas F1 Team,102.755,,,17.0,2023,Azerbaijan,4,Qualifying
+20,MAG,Haas F1 Team,103.417,,,18.0,2023,Azerbaijan,4,Qualifying
+10,GAS,Alpine,104.853,,,19.0,2023,Azerbaijan,4,Qualifying
+21,DEV,AlphaTauri,115.282,,,20.0,2023,Azerbaijan,4,Qualifying
+11,PER,Red Bull Racing,87.713,87.328,86.841,1.0,2023,Miami,5,Qualifying
+14,ALO,Aston Martin,88.179,87.097,87.202,2.0,2023,Miami,5,Qualifying
+55,SAI,Ferrari,87.686,87.148,87.349,3.0,2023,Miami,5,Qualifying
+20,MAG,Haas F1 Team,87.809,87.673,87.767,4.0,2023,Miami,5,Qualifying
+10,GAS,Alpine,88.061,87.612,87.786,5.0,2023,Miami,5,Qualifying
+63,RUS,Mercedes,88.086,87.743,87.804,6.0,2023,Miami,5,Qualifying
+16,LEC,Ferrari,87.713,86.964,87.861,7.0,2023,Miami,5,Qualifying
+31,OCO,Alpine,87.872,87.444,87.935,8.0,2023,Miami,5,Qualifying
+1,VER,Red Bull Racing,87.363,86.814,,9.0,2023,Miami,5,Qualifying
+77,BOT,Alfa Romeo,87.864,87.564,,10.0,2023,Miami,5,Qualifying
+23,ALB,Williams,88.234,87.795,,11.0,2023,Miami,5,Qualifying
+27,HUL,Haas F1 Team,87.945,87.903,,12.0,2023,Miami,5,Qualifying
+44,HAM,Mercedes,87.846,87.975,,13.0,2023,Miami,5,Qualifying
+24,ZHO,Alfa Romeo,88.18,88.091,,14.0,2023,Miami,5,Qualifying
+21,DEV,AlphaTauri,88.325,88.395,,15.0,2023,Miami,5,Qualifying
+4,NOR,McLaren,88.394,,,16.0,2023,Miami,5,Qualifying
+22,TSU,AlphaTauri,88.429,,,17.0,2023,Miami,5,Qualifying
+18,STR,Aston Martin,88.476,,,18.0,2023,Miami,5,Qualifying
+81,PIA,McLaren,88.484,,,19.0,2023,Miami,5,Qualifying
+2,SAR,Williams,88.577,,,20.0,2023,Miami,5,Qualifying
+1,VER,Red Bull Racing,72.386,71.908,71.365,1.0,2023,Monaco,6,Qualifying
+14,ALO,Aston Martin,72.886,72.107,71.449,2.0,2023,Monaco,6,Qualifying
+16,LEC,Ferrari,72.912,72.103,71.471,3.0,2023,Monaco,6,Qualifying
+31,OCO,Alpine,72.967,72.248,71.553,4.0,2023,Monaco,6,Qualifying
+55,SAI,Ferrari,72.717,72.21,71.63,5.0,2023,Monaco,6,Qualifying
+44,HAM,Mercedes,72.872,72.156,71.725,6.0,2023,Monaco,6,Qualifying
+10,GAS,Alpine,73.033,72.169,71.933,7.0,2023,Monaco,6,Qualifying
+63,RUS,Mercedes,72.769,72.151,71.964,8.0,2023,Monaco,6,Qualifying
+22,TSU,AlphaTauri,72.642,72.249,72.082,9.0,2023,Monaco,6,Qualifying
+4,NOR,McLaren,72.877,72.377,72.254,10.0,2023,Monaco,6,Qualifying
+81,PIA,McLaren,73.006,72.395,,11.0,2023,Monaco,6,Qualifying
+21,DEV,AlphaTauri,73.054,72.428,,12.0,2023,Monaco,6,Qualifying
+23,ALB,Williams,72.706,72.527,,13.0,2023,Monaco,6,Qualifying
+18,STR,Aston Martin,72.722,72.623,,14.0,2023,Monaco,6,Qualifying
+77,BOT,Alfa Romeo,73.038,72.625,,15.0,2023,Monaco,6,Qualifying
+2,SAR,Williams,73.113,,,16.0,2023,Monaco,6,Qualifying
+20,MAG,Haas F1 Team,73.27,,,17.0,2023,Monaco,6,Qualifying
+27,HUL,Haas F1 Team,73.279,,,18.0,2023,Monaco,6,Qualifying
+24,ZHO,Alfa Romeo,73.523,,,19.0,2023,Monaco,6,Qualifying
+11,PER,Red Bull Racing,73.85,,,20.0,2023,Monaco,6,Qualifying
+1,VER,Red Bull Racing,73.615,72.76,72.272,1.0,2023,Spanish,7,Qualifying
+55,SAI,Ferrari,73.411,72.79,72.734,2.0,2023,Spanish,7,Qualifying
+4,NOR,McLaren,73.295,72.776,72.792,3.0,2023,Spanish,7,Qualifying
+10,GAS,Alpine,73.471,73.186,72.816,4.0,2023,Spanish,7,Qualifying
+44,HAM,Mercedes,72.937,72.999,72.818,5.0,2023,Spanish,7,Qualifying
+18,STR,Aston Martin,73.766,73.082,72.994,6.0,2023,Spanish,7,Qualifying
+31,OCO,Alpine,73.433,73.001,73.083,7.0,2023,Spanish,7,Qualifying
+27,HUL,Haas F1 Team,73.42,73.283,73.229,8.0,2023,Spanish,7,Qualifying
+14,ALO,Aston Martin,73.747,73.098,73.507,9.0,2023,Spanish,7,Qualifying
+81,PIA,McLaren,73.691,73.059,73.682,10.0,2023,Spanish,7,Qualifying
+11,PER,Red Bull Racing,73.874,73.334,,11.0,2023,Spanish,7,Qualifying
+63,RUS,Mercedes,73.326,73.447,,12.0,2023,Spanish,7,Qualifying
+24,ZHO,Alfa Romeo,73.677,73.521,,13.0,2023,Spanish,7,Qualifying
+21,DEV,AlphaTauri,73.581,74.083,,14.0,2023,Spanish,7,Qualifying
+22,TSU,AlphaTauri,73.862,74.477,,15.0,2023,Spanish,7,Qualifying
+77,BOT,Alfa Romeo,73.977,,,16.0,2023,Spanish,7,Qualifying
+20,MAG,Haas F1 Team,74.042,,,17.0,2023,Spanish,7,Qualifying
+23,ALB,Williams,74.063,,,18.0,2023,Spanish,7,Qualifying
+16,LEC,Ferrari,74.079,,,19.0,2023,Spanish,7,Qualifying
+2,SAR,Williams,74.699,,,20.0,2023,Spanish,7,Qualifying
+1,VER,Red Bull Racing,80.851,79.092,85.858,1.0,2023,Canadian,8,Qualifying
+27,HUL,Haas F1 Team,82.73,80.305,87.102,2.0,2023,Canadian,8,Qualifying
+14,ALO,Aston Martin,81.481,79.776,87.286,3.0,2023,Canadian,8,Qualifying
+44,HAM,Mercedes,81.554,80.426,87.627,4.0,2023,Canadian,8,Qualifying
+63,RUS,Mercedes,81.798,80.098,87.893,5.0,2023,Canadian,8,Qualifying
+31,OCO,Alpine,82.114,80.406,87.945,6.0,2023,Canadian,8,Qualifying
+4,NOR,McLaren,81.998,79.347,88.046,7.0,2023,Canadian,8,Qualifying
+55,SAI,Ferrari,82.248,79.856,89.294,8.0,2023,Canadian,8,Qualifying
+81,PIA,McLaren,82.19,79.659,91.349,9.0,2023,Canadian,8,Qualifying
+23,ALB,Williams,81.938,78.725,,10.0,2023,Canadian,8,Qualifying
+16,LEC,Ferrari,81.843,80.615,,11.0,2023,Canadian,8,Qualifying
+11,PER,Red Bull Racing,82.151,80.959,,12.0,2023,Canadian,8,Qualifying
+18,STR,Aston Martin,82.677,81.484,,13.0,2023,Canadian,8,Qualifying
+20,MAG,Haas F1 Team,82.351,81.678,,14.0,2023,Canadian,8,Qualifying
+77,BOT,Alfa Romeo,82.332,81.821,,15.0,2023,Canadian,8,Qualifying
+22,TSU,AlphaTauri,82.746,,,16.0,2023,Canadian,8,Qualifying
+10,GAS,Alpine,82.886,,,17.0,2023,Canadian,8,Qualifying
+21,DEV,AlphaTauri,83.137,,,18.0,2023,Canadian,8,Qualifying
+2,SAR,Williams,83.337,,,19.0,2023,Canadian,8,Qualifying
+24,ZHO,Alfa Romeo,83.342,,,20.0,2023,Canadian,8,Qualifying
+1,VER,Red Bull Racing,65.116,64.951,64.391,1.0,2023,Austrian,9,Qualifying
+16,LEC,Ferrari,65.577,65.087,64.439,2.0,2023,Austrian,9,Qualifying
+55,SAI,Ferrari,65.339,64.975,64.581,3.0,2023,Austrian,9,Qualifying
+4,NOR,McLaren,65.617,65.038,64.658,4.0,2023,Austrian,9,Qualifying
+44,HAM,Mercedes,65.673,65.188,64.819,5.0,2023,Austrian,9,Qualifying
+18,STR,Aston Martin,65.71,65.121,64.893,6.0,2023,Austrian,9,Qualifying
+14,ALO,Aston Martin,65.655,65.181,64.911,7.0,2023,Austrian,9,Qualifying
+27,HUL,Haas F1 Team,65.74,65.362,65.09,8.0,2023,Austrian,9,Qualifying
+10,GAS,Alpine,65.515,65.308,65.17,9.0,2023,Austrian,9,Qualifying
+23,ALB,Williams,65.673,65.387,65.823,10.0,2023,Austrian,9,Qualifying
+63,RUS,Mercedes,65.686,65.428,,11.0,2023,Austrian,9,Qualifying
+31,OCO,Alpine,65.729,65.453,,12.0,2023,Austrian,9,Qualifying
+81,PIA,McLaren,65.683,65.605,,13.0,2023,Austrian,9,Qualifying
+77,BOT,Alfa Romeo,65.763,65.68,,14.0,2023,Austrian,9,Qualifying
+11,PER,Red Bull Racing,65.177,126.688,,15.0,2023,Austrian,9,Qualifying
+22,TSU,AlphaTauri,65.784,,,16.0,2023,Austrian,9,Qualifying
+24,ZHO,Alfa Romeo,65.818,,,17.0,2023,Austrian,9,Qualifying
+2,SAR,Williams,65.948,,,18.0,2023,Austrian,9,Qualifying
+20,MAG,Haas F1 Team,65.971,,,19.0,2023,Austrian,9,Qualifying
+21,DEV,AlphaTauri,65.974,,,20.0,2023,Austrian,9,Qualifying
+1,VER,Red Bull Racing,89.428,87.702,86.72,1.0,2023,British,10,Qualifying
+4,NOR,McLaren,88.917,88.042,86.961,2.0,2023,British,10,Qualifying
+81,PIA,McLaren,89.874,87.845,87.092,3.0,2023,British,10,Qualifying
+16,LEC,Ferrari,89.143,88.361,87.136,4.0,2023,British,10,Qualifying
+55,SAI,Ferrari,89.865,88.265,87.148,5.0,2023,British,10,Qualifying
+63,RUS,Mercedes,89.412,88.782,87.155,6.0,2023,British,10,Qualifying
+44,HAM,Mercedes,89.415,88.545,87.211,7.0,2023,British,10,Qualifying
+23,ALB,Williams,89.466,88.067,87.53,8.0,2023,British,10,Qualifying
+14,ALO,Aston Martin,89.949,88.368,87.659,9.0,2023,British,10,Qualifying
+10,GAS,Alpine,89.533,88.751,87.689,10.0,2023,British,10,Qualifying
+27,HUL,Haas F1 Team,89.603,88.896,,11.0,2023,British,10,Qualifying
+18,STR,Aston Martin,89.448,88.935,,12.0,2023,British,10,Qualifying
+31,OCO,Alpine,89.7,88.956,,13.0,2023,British,10,Qualifying
+2,SAR,Williams,89.873,89.031,,14.0,2023,British,10,Qualifying
+77,BOT,Alfa Romeo,89.798,,,15.0,2023,British,10,Qualifying
+11,PER,Red Bull Racing,89.968,,,15.0,2023,British,10,Qualifying
+22,TSU,AlphaTauri,90.025,,,16.0,2023,British,10,Qualifying
+24,ZHO,Alfa Romeo,90.123,,,17.0,2023,British,10,Qualifying
+21,DEV,AlphaTauri,90.513,,,18.0,2023,British,10,Qualifying
+20,MAG,Haas F1 Team,92.378,,,19.0,2023,British,10,Qualifying
+44,HAM,Mercedes,78.577,77.427,76.609,1.0,2023,Hungarian,11,Qualifying
+1,VER,Red Bull Racing,78.318,77.547,76.612,2.0,2023,Hungarian,11,Qualifying
+4,NOR,McLaren,78.697,77.328,76.694,3.0,2023,Hungarian,11,Qualifying
+81,PIA,McLaren,78.464,77.571,76.905,4.0,2023,Hungarian,11,Qualifying
+24,ZHO,Alfa Romeo,78.143,77.7,76.971,5.0,2023,Hungarian,11,Qualifying
+16,LEC,Ferrari,78.44,77.58,76.992,6.0,2023,Hungarian,11,Qualifying
+77,BOT,Alfa Romeo,78.775,77.563,77.034,7.0,2023,Hungarian,11,Qualifying
+14,ALO,Aston Martin,78.58,77.701,77.035,8.0,2023,Hungarian,11,Qualifying
+11,PER,Red Bull Racing,78.36,77.675,77.045,9.0,2023,Hungarian,11,Qualifying
+27,HUL,Haas F1 Team,78.695,77.652,77.186,10.0,2023,Hungarian,11,Qualifying
+55,SAI,Ferrari,78.393,77.703,,11.0,2023,Hungarian,11,Qualifying
+31,OCO,Alpine,78.854,77.841,,12.0,2023,Hungarian,11,Qualifying
+3,RIC,AlphaTauri,78.906,78.002,,13.0,2023,Hungarian,11,Qualifying
+18,STR,Aston Martin,78.782,78.144,,14.0,2023,Hungarian,11,Qualifying
+10,GAS,Alpine,78.743,78.217,,15.0,2023,Hungarian,11,Qualifying
+23,ALB,Williams,78.917,,,16.0,2023,Hungarian,11,Qualifying
+22,TSU,AlphaTauri,78.919,,,17.0,2023,Hungarian,11,Qualifying
+63,RUS,Mercedes,79.027,,,18.0,2023,Hungarian,11,Qualifying
+20,MAG,Haas F1 Team,79.206,,,19.0,2023,Hungarian,11,Qualifying
+2,SAR,Williams,79.248,,,20.0,2023,Hungarian,11,Qualifying
+1,VER,Red Bull Racing,118.515,112.784,106.168,1.0,2023,Belgian,12,Qualifying
+16,LEC,Ferrari,118.3,112.017,106.988,2.0,2023,Belgian,12,Qualifying
+11,PER,Red Bull Racing,118.899,112.353,107.045,3.0,2023,Belgian,12,Qualifying
+44,HAM,Mercedes,118.563,112.345,107.087,4.0,2023,Belgian,12,Qualifying
+55,SAI,Ferrari,118.688,111.711,107.152,5.0,2023,Belgian,12,Qualifying
+81,PIA,McLaren,118.872,111.534,107.365,6.0,2023,Belgian,12,Qualifying
+4,NOR,McLaren,119.981,112.252,107.669,7.0,2023,Belgian,12,Qualifying
+63,RUS,Mercedes,119.035,112.605,107.805,8.0,2023,Belgian,12,Qualifying
+14,ALO,Aston Martin,118.834,112.751,107.843,9.0,2023,Belgian,12,Qualifying
+18,STR,Aston Martin,119.663,112.193,108.841,10.0,2023,Belgian,12,Qualifying
+22,TSU,AlphaTauri,119.044,113.148,,11.0,2023,Belgian,12,Qualifying
+10,GAS,Alpine,119.511,113.671,,12.0,2023,Belgian,12,Qualifying
+20,MAG,Haas F1 Team,120.02,114.16,,13.0,2023,Belgian,12,Qualifying
+77,BOT,Alfa Romeo,119.484,114.694,,14.0,2023,Belgian,12,Qualifying
+31,OCO,Alpine,119.634,116.372,,15.0,2023,Belgian,12,Qualifying
+23,ALB,Williams,120.314,,,16.0,2023,Belgian,12,Qualifying
+24,ZHO,Alfa Romeo,120.832,,,17.0,2023,Belgian,12,Qualifying
+2,SAR,Williams,121.535,,,18.0,2023,Belgian,12,Qualifying
+3,RIC,AlphaTauri,122.159,,,19.0,2023,Belgian,12,Qualifying
+27,HUL,Haas F1 Team,123.166,,,20.0,2023,Belgian,12,Qualifying
+1,VER,Red Bull Racing,80.965,78.856,70.567,1.0,2023,Dutch,13,Qualifying
+4,NOR,McLaren,81.276,79.769,71.104,2.0,2023,Dutch,13,Qualifying
+63,RUS,Mercedes,81.345,79.62,71.294,3.0,2023,Dutch,13,Qualifying
+23,ALB,Williams,80.939,79.399,71.419,4.0,2023,Dutch,13,Qualifying
+14,ALO,Aston Martin,81.84,79.429,71.506,5.0,2023,Dutch,13,Qualifying
+55,SAI,Ferrari,81.321,79.929,71.754,6.0,2023,Dutch,13,Qualifying
+11,PER,Red Bull Racing,81.972,79.856,71.88,7.0,2023,Dutch,13,Qualifying
+81,PIA,McLaren,81.231,79.392,71.938,8.0,2023,Dutch,13,Qualifying
+16,LEC,Ferrari,82.019,79.6,72.665,9.0,2023,Dutch,13,Qualifying
+2,SAR,Williams,82.036,80.067,76.748,10.0,2023,Dutch,13,Qualifying
+18,STR,Aston Martin,81.57,80.121,,11.0,2023,Dutch,13,Qualifying
+10,GAS,Alpine,81.735,80.128,,12.0,2023,Dutch,13,Qualifying
+44,HAM,Mercedes,81.919,80.151,,13.0,2023,Dutch,13,Qualifying
+22,TSU,AlphaTauri,81.781,80.23,,14.0,2023,Dutch,13,Qualifying
+27,HUL,Haas F1 Team,81.891,80.25,,15.0,2023,Dutch,13,Qualifying
+24,ZHO,Alfa Romeo,82.067,,,16.0,2023,Dutch,13,Qualifying
+31,OCO,Alpine,82.11,,,17.0,2023,Dutch,13,Qualifying
+20,MAG,Haas F1 Team,82.192,,,18.0,2023,Dutch,13,Qualifying
+77,BOT,Alfa Romeo,82.26,,,19.0,2023,Dutch,13,Qualifying
+40,LAW,AlphaTauri,83.42,,,20.0,2023,Dutch,13,Qualifying
+55,SAI,Ferrari,81.965,80.991,80.294,1.0,2023,Italian,14,Qualifying
+1,VER,Red Bull Racing,81.573,80.937,80.307,2.0,2023,Italian,14,Qualifying
+16,LEC,Ferrari,81.788,80.977,80.361,3.0,2023,Italian,14,Qualifying
+63,RUS,Mercedes,82.148,81.382,80.671,4.0,2023,Italian,14,Qualifying
+11,PER,Red Bull Racing,81.911,81.24,80.688,5.0,2023,Italian,14,Qualifying
+23,ALB,Williams,81.661,81.272,80.76,6.0,2023,Italian,14,Qualifying
+81,PIA,McLaren,82.106,81.527,80.785,7.0,2023,Italian,14,Qualifying
+44,HAM,Mercedes,81.977,81.369,80.82,8.0,2023,Italian,14,Qualifying
+4,NOR,McLaren,81.995,81.581,80.979,9.0,2023,Italian,14,Qualifying
+14,ALO,Aston Martin,82.043,81.543,81.417,10.0,2023,Italian,14,Qualifying
+22,TSU,AlphaTauri,81.852,81.594,,11.0,2023,Italian,14,Qualifying
+40,LAW,AlphaTauri,82.112,81.758,,12.0,2023,Italian,14,Qualifying
+27,HUL,Haas F1 Team,82.343,81.776,,13.0,2023,Italian,14,Qualifying
+77,BOT,Alfa Romeo,82.249,81.94,,14.0,2023,Italian,14,Qualifying
+2,SAR,Williams,81.93,81.944,,15.0,2023,Italian,14,Qualifying
+24,ZHO,Alfa Romeo,82.39,,,16.0,2023,Italian,14,Qualifying
+10,GAS,Alpine,82.545,,,17.0,2023,Italian,14,Qualifying
+31,OCO,Alpine,82.548,,,18.0,2023,Italian,14,Qualifying
+20,MAG,Haas F1 Team,82.592,,,19.0,2023,Italian,14,Qualifying
+18,STR,Aston Martin,82.86,,,20.0,2023,Italian,14,Qualifying
+55,SAI,Ferrari,92.339,91.439,90.984,1.0,2023,Singapore,15,Qualifying
+63,RUS,Mercedes,92.331,91.743,91.056,2.0,2023,Singapore,15,Qualifying
+16,LEC,Ferrari,92.406,92.012,91.063,3.0,2023,Singapore,15,Qualifying
+4,NOR,McLaren,92.483,91.951,91.27,4.0,2023,Singapore,15,Qualifying
+44,HAM,Mercedes,92.651,92.019,91.485,5.0,2023,Singapore,15,Qualifying
+20,MAG,Haas F1 Team,92.242,91.892,91.575,6.0,2023,Singapore,15,Qualifying
+14,ALO,Aston Martin,92.584,91.835,91.615,7.0,2023,Singapore,15,Qualifying
+31,OCO,Alpine,92.369,92.089,91.673,8.0,2023,Singapore,15,Qualifying
+27,HUL,Haas F1 Team,92.1,91.994,91.808,9.0,2023,Singapore,15,Qualifying
+40,LAW,AlphaTauri,92.215,92.166,92.268,10.0,2023,Singapore,15,Qualifying
+1,VER,Red Bull Racing,92.398,92.173,,11.0,2023,Singapore,15,Qualifying
+10,GAS,Alpine,92.452,92.274,,12.0,2023,Singapore,15,Qualifying
+11,PER,Red Bull Racing,92.099,92.31,,13.0,2023,Singapore,15,Qualifying
+23,ALB,Williams,92.668,93.719,,14.0,2023,Singapore,15,Qualifying
+22,TSU,AlphaTauri,91.991,,,15.0,2023,Singapore,15,Qualifying
+77,BOT,Alfa Romeo,92.809,,,16.0,2023,Singapore,15,Qualifying
+81,PIA,McLaren,92.902,,,17.0,2023,Singapore,15,Qualifying
+2,SAR,Williams,93.252,,,18.0,2023,Singapore,15,Qualifying
+24,ZHO,Alfa Romeo,93.258,,,19.0,2023,Singapore,15,Qualifying
+18,STR,Aston Martin,93.397,,,20.0,2023,Singapore,15,Qualifying
+1,VER,Red Bull Racing,89.878,89.964,88.877,1.0,2023,Japanese,16,Qualifying
+81,PIA,McLaren,90.439,90.122,89.458,2.0,2023,Japanese,16,Qualifying
+4,NOR,McLaren,90.063,90.296,89.493,3.0,2023,Japanese,16,Qualifying
+16,LEC,Ferrari,90.393,89.94,89.542,4.0,2023,Japanese,16,Qualifying
+11,PER,Red Bull Racing,90.652,89.965,89.65,5.0,2023,Japanese,16,Qualifying
+55,SAI,Ferrari,90.651,90.067,89.85,6.0,2023,Japanese,16,Qualifying
+44,HAM,Mercedes,90.811,90.04,89.908,7.0,2023,Japanese,16,Qualifying
+63,RUS,Mercedes,90.811,90.268,90.219,8.0,2023,Japanese,16,Qualifying
+22,TSU,AlphaTauri,90.733,90.204,90.303,9.0,2023,Japanese,16,Qualifying
+14,ALO,Aston Martin,90.971,90.465,90.56,10.0,2023,Japanese,16,Qualifying
+40,LAW,AlphaTauri,90.425,90.508,,11.0,2023,Japanese,16,Qualifying
+10,GAS,Alpine,90.843,90.509,,12.0,2023,Japanese,16,Qualifying
+23,ALB,Williams,90.941,90.537,,13.0,2023,Japanese,16,Qualifying
+31,OCO,Alpine,90.96,90.586,,14.0,2023,Japanese,16,Qualifying
+20,MAG,Haas F1 Team,90.976,90.665,,15.0,2023,Japanese,16,Qualifying
+77,BOT,Alfa Romeo,91.049,,,16.0,2023,Japanese,16,Qualifying
+18,STR,Aston Martin,91.181,,,17.0,2023,Japanese,16,Qualifying
+27,HUL,Haas F1 Team,91.299,,,18.0,2023,Japanese,16,Qualifying
+24,ZHO,Alfa Romeo,91.398,,,19.0,2023,Japanese,16,Qualifying
+2,SAR,Williams,,,,20.0,2023,Japanese,16,Qualifying
+1,VER,Red Bull Racing,85.007,84.483,83.778,1.0,2023,Qatar,17,Qualifying
+63,RUS,Mercedes,85.334,84.827,84.219,2.0,2023,Qatar,17,Qualifying
+44,HAM,Mercedes,86.076,84.381,84.305,3.0,2023,Qatar,17,Qualifying
+14,ALO,Aston Martin,85.223,85.241,84.369,4.0,2023,Qatar,17,Qualifying
+16,LEC,Ferrari,85.452,85.079,84.424,5.0,2023,Qatar,17,Qualifying
+81,PIA,McLaren,85.266,84.724,84.54,6.0,2023,Qatar,17,Qualifying
+10,GAS,Alpine,85.566,84.918,84.553,7.0,2023,Qatar,17,Qualifying
+31,OCO,Alpine,85.711,84.928,84.763,8.0,2023,Qatar,17,Qualifying
+77,BOT,Alfa Romeo,86.038,85.297,85.058,9.0,2023,Qatar,17,Qualifying
+4,NOR,McLaren,85.131,84.685,,10.0,2023,Qatar,17,Qualifying
+22,TSU,AlphaTauri,86.058,85.301,,11.0,2023,Qatar,17,Qualifying
+55,SAI,Ferrari,85.808,85.328,,12.0,2023,Qatar,17,Qualifying
+11,PER,Red Bull Racing,85.991,85.462,,13.0,2023,Qatar,17,Qualifying
+23,ALB,Williams,86.118,85.707,,14.0,2023,Qatar,17,Qualifying
+27,HUL,Haas F1 Team,85.904,85.783,,15.0,2023,Qatar,17,Qualifying
+2,SAR,Williams,86.21,,,16.0,2023,Qatar,17,Qualifying
+18,STR,Aston Martin,86.345,,,17.0,2023,Qatar,17,Qualifying
+40,LAW,AlphaTauri,86.635,,,18.0,2023,Qatar,17,Qualifying
+20,MAG,Haas F1 Team,87.046,,,19.0,2023,Qatar,17,Qualifying
+24,ZHO,Alfa Romeo,87.432,,,20.0,2023,Qatar,17,Qualifying
+16,LEC,Ferrari,96.061,95.004,94.723,1.0,2023,United States,18,Qualifying
+4,NOR,McLaren,95.11,95.441,94.853,2.0,2023,United States,18,Qualifying
+44,HAM,Mercedes,95.091,95.24,94.862,3.0,2023,United States,18,Qualifying
+55,SAI,Ferrari,95.824,95.302,94.945,4.0,2023,United States,18,Qualifying
+63,RUS,Mercedes,96.165,95.606,95.079,5.0,2023,United States,18,Qualifying
+1,VER,Red Bull Racing,95.346,95.008,95.081,6.0,2023,United States,18,Qualifying
+10,GAS,Alpine,96.158,95.496,95.089,7.0,2023,United States,18,Qualifying
+31,OCO,Alpine,96.131,95.413,95.154,8.0,2023,United States,18,Qualifying
+11,PER,Red Bull Racing,95.989,95.679,95.173,9.0,2023,United States,18,Qualifying
+81,PIA,McLaren,96.064,95.576,95.467,10.0,2023,United States,18,Qualifying
+22,TSU,AlphaTauri,95.913,95.697,,11.0,2023,United States,18,Qualifying
+24,ZHO,Alfa Romeo,96.052,95.698,,12.0,2023,United States,18,Qualifying
+77,BOT,Alfa Romeo,96.082,95.858,,13.0,2023,United States,18,Qualifying
+20,MAG,Haas F1 Team,96.009,95.88,,14.0,2023,United States,18,Qualifying
+3,RIC,AlphaTauri,96.213,95.974,,15.0,2023,United States,18,Qualifying
+27,HUL,Haas F1 Team,96.235,,,16.0,2023,United States,18,Qualifying
+14,ALO,Aston Martin,96.268,,,17.0,2023,United States,18,Qualifying
+23,ALB,Williams,96.315,,,18.0,2023,United States,18,Qualifying
+18,STR,Aston Martin,96.589,,,19.0,2023,United States,18,Qualifying
+2,SAR,Williams,96.827,,,20.0,2023,United States,18,Qualifying
+16,LEC,Ferrari,78.401,77.901,77.166,1.0,2023,Mexico City,19,Qualifying
+55,SAI,Ferrari,78.755,78.382,77.233,2.0,2023,Mexico City,19,Qualifying
+1,VER,Red Bull Racing,78.099,77.625,77.263,3.0,2023,Mexico City,19,Qualifying
+3,RIC,AlphaTauri,78.341,77.706,77.382,4.0,2023,Mexico City,19,Qualifying
+11,PER,Red Bull Racing,78.553,78.124,77.423,5.0,2023,Mexico City,19,Qualifying
+44,HAM,Mercedes,78.677,77.571,77.454,6.0,2023,Mexico City,19,Qualifying
+81,PIA,McLaren,78.241,77.874,77.623,7.0,2023,Mexico City,19,Qualifying
+63,RUS,Mercedes,78.893,77.673,77.674,8.0,2023,Mexico City,19,Qualifying
+77,BOT,Alfa Romeo,78.429,78.016,78.032,9.0,2023,Mexico City,19,Qualifying
+24,ZHO,Alfa Romeo,79.016,78.44,78.05,10.0,2023,Mexico City,19,Qualifying
+10,GAS,Alpine,78.945,78.521,,11.0,2023,Mexico City,19,Qualifying
+27,HUL,Haas F1 Team,78.969,78.524,,12.0,2023,Mexico City,19,Qualifying
+14,ALO,Aston Martin,78.848,78.738,,13.0,2023,Mexico City,19,Qualifying
+23,ALB,Williams,78.828,79.147,,14.0,2023,Mexico City,19,Qualifying
+22,TSU,AlphaTauri,78.89,,,15.0,2023,Mexico City,19,Qualifying
+31,OCO,Alpine,79.08,,,16.0,2023,Mexico City,19,Qualifying
+20,MAG,Haas F1 Team,79.163,,,17.0,2023,Mexico City,19,Qualifying
+18,STR,Aston Martin,79.227,,,18.0,2023,Mexico City,19,Qualifying
+4,NOR,McLaren,81.554,,,19.0,2023,Mexico City,19,Qualifying
+2,SAR,Williams,,,,20.0,2023,Mexico City,19,Qualifying
+1,VER,Red Bull Racing,70.436,70.162,70.727,1.0,2023,São Paulo,20,Qualifying
+16,LEC,Ferrari,70.472,70.303,71.021,2.0,2023,São Paulo,20,Qualifying
+18,STR,Aston Martin,70.551,70.375,71.344,3.0,2023,São Paulo,20,Qualifying
+14,ALO,Aston Martin,70.557,70.237,71.387,4.0,2023,São Paulo,20,Qualifying
+44,HAM,Mercedes,70.604,70.266,71.469,5.0,2023,São Paulo,20,Qualifying
+63,RUS,Mercedes,70.34,70.316,71.59,6.0,2023,São Paulo,20,Qualifying
+4,NOR,McLaren,70.623,70.021,71.987,7.0,2023,São Paulo,20,Qualifying
+55,SAI,Ferrari,70.624,70.254,71.989,8.0,2023,São Paulo,20,Qualifying
+11,PER,Red Bull Racing,70.668,70.219,72.321,9.0,2023,São Paulo,20,Qualifying
+81,PIA,McLaren,70.519,70.33,,10.0,2023,São Paulo,20,Qualifying
+27,HUL,Haas F1 Team,70.475,70.547,,11.0,2023,São Paulo,20,Qualifying
+31,OCO,Alpine,70.763,70.562,,12.0,2023,São Paulo,20,Qualifying
+10,GAS,Alpine,70.793,70.567,,13.0,2023,São Paulo,20,Qualifying
+20,MAG,Haas F1 Team,70.602,70.723,,14.0,2023,São Paulo,20,Qualifying
+23,ALB,Williams,70.621,70.84,,15.0,2023,São Paulo,20,Qualifying
+22,TSU,AlphaTauri,70.837,,,16.0,2023,São Paulo,20,Qualifying
+3,RIC,AlphaTauri,70.843,,,17.0,2023,São Paulo,20,Qualifying
+77,BOT,Alfa Romeo,70.955,,,18.0,2023,São Paulo,20,Qualifying
+2,SAR,Williams,71.035,,,19.0,2023,São Paulo,20,Qualifying
+24,ZHO,Alfa Romeo,71.275,,,20.0,2023,São Paulo,20,Qualifying
+16,LEC,Ferrari,93.617,92.775,92.726,1.0,2023,Las Vegas,21,Qualifying
+55,SAI,Ferrari,93.851,93.338,92.77,2.0,2023,Las Vegas,21,Qualifying
+1,VER,Red Bull Racing,94.19,93.572,93.104,3.0,2023,Las Vegas,21,Qualifying
+63,RUS,Mercedes,94.137,93.351,93.112,4.0,2023,Las Vegas,21,Qualifying
+10,GAS,Alpine,94.272,93.494,93.239,5.0,2023,Las Vegas,21,Qualifying
+23,ALB,Williams,94.634,93.588,93.323,6.0,2023,Las Vegas,21,Qualifying
+2,SAR,Williams,94.525,93.733,93.513,7.0,2023,Las Vegas,21,Qualifying
+77,BOT,Alfa Romeo,94.305,93.809,93.525,8.0,2023,Las Vegas,21,Qualifying
+20,MAG,Haas F1 Team,94.337,93.664,93.537,9.0,2023,Las Vegas,21,Qualifying
+14,ALO,Aston Martin,94.422,93.617,93.555,10.0,2023,Las Vegas,21,Qualifying
+44,HAM,Mercedes,94.307,93.837,,11.0,2023,Las Vegas,21,Qualifying
+11,PER,Red Bull Racing,94.574,93.855,,12.0,2023,Las Vegas,21,Qualifying
+27,HUL,Haas F1 Team,94.265,93.979,,13.0,2023,Las Vegas,21,Qualifying
+18,STR,Aston Martin,94.504,94.199,,14.0,2023,Las Vegas,21,Qualifying
+3,RIC,AlphaTauri,94.683,94.308,,15.0,2023,Las Vegas,21,Qualifying
+4,NOR,McLaren,94.703,,,16.0,2023,Las Vegas,21,Qualifying
+31,OCO,Alpine,94.834,,,17.0,2023,Las Vegas,21,Qualifying
+24,ZHO,Alfa Romeo,94.849,,,18.0,2023,Las Vegas,21,Qualifying
+81,PIA,McLaren,94.85,,,19.0,2023,Las Vegas,21,Qualifying
+22,TSU,AlphaTauri,96.447,,,20.0,2023,Las Vegas,21,Qualifying
+1,VER,Red Bull Racing,84.16,83.74,83.445,1.0,2023,Abu Dhabi,22,Qualifying
+16,LEC,Ferrari,84.459,83.969,83.584,2.0,2023,Abu Dhabi,22,Qualifying
+81,PIA,McLaren,84.487,84.278,83.782,3.0,2023,Abu Dhabi,22,Qualifying
+63,RUS,Mercedes,84.337,84.013,83.788,4.0,2023,Abu Dhabi,22,Qualifying
+4,NOR,McLaren,84.368,83.92,83.816,5.0,2023,Abu Dhabi,22,Qualifying
+22,TSU,AlphaTauri,84.286,84.207,83.968,6.0,2023,Abu Dhabi,22,Qualifying
+14,ALO,Aston Martin,84.501,84.131,84.084,7.0,2023,Abu Dhabi,22,Qualifying
+27,HUL,Haas F1 Team,84.425,84.213,84.108,8.0,2023,Abu Dhabi,22,Qualifying
+11,PER,Red Bull Racing,84.209,84.116,84.171,9.0,2023,Abu Dhabi,22,Qualifying
+10,GAS,Alpine,84.6,84.078,84.548,10.0,2023,Abu Dhabi,22,Qualifying
+44,HAM,Mercedes,84.437,84.359,,11.0,2023,Abu Dhabi,22,Qualifying
+31,OCO,Alpine,84.565,84.391,,12.0,2023,Abu Dhabi,22,Qualifying
+18,STR,Aston Martin,84.405,84.422,,13.0,2023,Abu Dhabi,22,Qualifying
+23,ALB,Williams,84.298,84.439,,14.0,2023,Abu Dhabi,22,Qualifying
+3,RIC,AlphaTauri,84.461,84.442,,15.0,2023,Abu Dhabi,22,Qualifying
+55,SAI,Ferrari,84.738,,,16.0,2023,Abu Dhabi,22,Qualifying
+20,MAG,Haas F1 Team,84.764,,,17.0,2023,Abu Dhabi,22,Qualifying
+77,BOT,Alfa Romeo,84.788,,,18.0,2023,Abu Dhabi,22,Qualifying
+24,ZHO,Alfa Romeo,85.159,,,19.0,2023,Abu Dhabi,22,Qualifying
+2,SAR,Williams,,,,20.0,2023,Abu Dhabi,22,Qualifying
+1,VER,Red Bull Racing,90.031,89.374,89.179,1.0,2024,Bahrain,1,Qualifying
+16,LEC,Ferrari,90.243,89.165,89.407,2.0,2024,Bahrain,1,Qualifying
+63,RUS,Mercedes,90.35,89.922,89.485,3.0,2024,Bahrain,1,Qualifying
+55,SAI,Ferrari,89.909,89.573,89.507,4.0,2024,Bahrain,1,Qualifying
+11,PER,Red Bull Racing,90.221,89.932,89.537,5.0,2024,Bahrain,1,Qualifying
+14,ALO,Aston Martin,90.179,89.801,89.542,6.0,2024,Bahrain,1,Qualifying
+4,NOR,McLaren,90.143,89.941,89.614,7.0,2024,Bahrain,1,Qualifying
+81,PIA,McLaren,90.531,90.122,89.683,8.0,2024,Bahrain,1,Qualifying
+44,HAM,Mercedes,90.451,89.718,89.71,9.0,2024,Bahrain,1,Qualifying
+27,HUL,Haas F1 Team,90.566,89.851,90.502,10.0,2024,Bahrain,1,Qualifying
+22,TSU,RB,90.481,90.129,,11.0,2024,Bahrain,1,Qualifying
+18,STR,Aston Martin,89.965,90.2,,12.0,2024,Bahrain,1,Qualifying
+23,ALB,Williams,90.397,90.221,,13.0,2024,Bahrain,1,Qualifying
+3,RIC,RB,90.562,90.278,,14.0,2024,Bahrain,1,Qualifying
+20,MAG,Haas F1 Team,90.646,90.529,,15.0,2024,Bahrain,1,Qualifying
+77,BOT,Kick Sauber,90.756,,,16.0,2024,Bahrain,1,Qualifying
+24,ZHO,Kick Sauber,90.757,,,17.0,2024,Bahrain,1,Qualifying
+2,SAR,Williams,90.77,,,18.0,2024,Bahrain,1,Qualifying
+31,OCO,Alpine,90.793,,,19.0,2024,Bahrain,1,Qualifying
+10,GAS,Alpine,90.948,,,20.0,2024,Bahrain,1,Qualifying
+1,VER,Red Bull Racing,88.171,88.033,87.472,1.0,2024,Saudi Arabian,2,Qualifying
+16,LEC,Ferrari,88.318,88.112,87.791,2.0,2024,Saudi Arabian,2,Qualifying
+11,PER,Red Bull Racing,88.638,88.467,87.807,3.0,2024,Saudi Arabian,2,Qualifying
+14,ALO,Aston Martin,88.706,88.122,87.846,4.0,2024,Saudi Arabian,2,Qualifying
+81,PIA,McLaren,88.755,88.343,88.089,5.0,2024,Saudi Arabian,2,Qualifying
+4,NOR,McLaren,88.805,88.479,88.132,6.0,2024,Saudi Arabian,2,Qualifying
+63,RUS,Mercedes,88.749,88.448,88.316,7.0,2024,Saudi Arabian,2,Qualifying
+44,HAM,Mercedes,88.994,88.606,88.46,8.0,2024,Saudi Arabian,2,Qualifying
+22,TSU,RB,88.988,88.564,88.547,9.0,2024,Saudi Arabian,2,Qualifying
+18,STR,Aston Martin,88.25,88.578,88.572,10.0,2024,Saudi Arabian,2,Qualifying
+38,BEA,Ferrari,88.984,88.642,,11.0,2024,Saudi Arabian,2,Qualifying
+23,ALB,Williams,89.107,88.98,,12.0,2024,Saudi Arabian,2,Qualifying
+20,MAG,Haas F1 Team,89.069,89.02,,13.0,2024,Saudi Arabian,2,Qualifying
+3,RIC,RB,89.065,89.025,,14.0,2024,Saudi Arabian,2,Qualifying
+27,HUL,Haas F1 Team,89.055,,,15.0,2024,Saudi Arabian,2,Qualifying
+77,BOT,Kick Sauber,89.179,,,16.0,2024,Saudi Arabian,2,Qualifying
+31,OCO,Alpine,89.475,,,17.0,2024,Saudi Arabian,2,Qualifying
+10,GAS,Alpine,89.479,,,18.0,2024,Saudi Arabian,2,Qualifying
+2,SAR,Williams,89.526,,,19.0,2024,Saudi Arabian,2,Qualifying
+24,ZHO,Kick Sauber,,,,20.0,2024,Saudi Arabian,2,Qualifying
+1,VER,Red Bull Racing,76.819,76.387,75.915,1.0,2024,Australian,3,Qualifying
+55,SAI,Ferrari,76.731,76.189,76.185,2.0,2024,Australian,3,Qualifying
+11,PER,Red Bull Racing,76.805,76.631,76.274,3.0,2024,Australian,3,Qualifying
+4,NOR,McLaren,77.43,76.75,76.315,4.0,2024,Australian,3,Qualifying
+16,LEC,Ferrari,76.984,76.304,76.435,5.0,2024,Australian,3,Qualifying
+81,PIA,McLaren,77.369,76.601,76.572,6.0,2024,Australian,3,Qualifying
+63,RUS,Mercedes,77.062,76.901,76.724,7.0,2024,Australian,3,Qualifying
+22,TSU,RB,77.356,76.791,76.788,8.0,2024,Australian,3,Qualifying
+18,STR,Aston Martin,77.376,76.78,77.072,9.0,2024,Australian,3,Qualifying
+14,ALO,Aston Martin,76.991,76.71,77.552,10.0,2024,Australian,3,Qualifying
+44,HAM,Mercedes,77.499,76.96,,11.0,2024,Australian,3,Qualifying
+23,ALB,Williams,77.13,77.167,,12.0,2024,Australian,3,Qualifying
+77,BOT,Kick Sauber,77.543,77.34,,13.0,2024,Australian,3,Qualifying
+20,MAG,Haas F1 Team,77.709,77.427,,14.0,2024,Australian,3,Qualifying
+31,OCO,Alpine,77.617,77.697,,15.0,2024,Australian,3,Qualifying
+27,HUL,Haas F1 Team,77.976,,,16.0,2024,Australian,3,Qualifying
+10,GAS,Alpine,77.982,,,17.0,2024,Australian,3,Qualifying
+3,RIC,RB,78.085,,,18.0,2024,Australian,3,Qualifying
+24,ZHO,Kick Sauber,78.188,,,19.0,2024,Australian,3,Qualifying
+1,VER,Red Bull Racing,88.866,88.74,88.197,1.0,2024,Japanese,4,Qualifying
+11,PER,Red Bull Racing,89.303,88.752,88.263,2.0,2024,Japanese,4,Qualifying
+4,NOR,McLaren,89.536,88.94,88.489,3.0,2024,Japanese,4,Qualifying
+55,SAI,Ferrari,89.513,89.099,88.682,4.0,2024,Japanese,4,Qualifying
+14,ALO,Aston Martin,89.254,89.082,88.686,5.0,2024,Japanese,4,Qualifying
+81,PIA,McLaren,89.425,89.148,88.76,6.0,2024,Japanese,4,Qualifying
+44,HAM,Mercedes,89.661,88.887,88.766,7.0,2024,Japanese,4,Qualifying
+16,LEC,Ferrari,89.338,89.196,88.786,8.0,2024,Japanese,4,Qualifying
+63,RUS,Mercedes,89.799,89.14,89.008,9.0,2024,Japanese,4,Qualifying
+22,TSU,RB,89.775,89.417,89.413,10.0,2024,Japanese,4,Qualifying
+3,RIC,RB,89.727,89.472,,11.0,2024,Japanese,4,Qualifying
+27,HUL,Haas F1 Team,89.821,89.494,,12.0,2024,Japanese,4,Qualifying
+77,BOT,Kick Sauber,89.602,89.593,,13.0,2024,Japanese,4,Qualifying
+23,ALB,Williams,89.963,89.714,,14.0,2024,Japanese,4,Qualifying
+31,OCO,Alpine,89.811,89.816,,15.0,2024,Japanese,4,Qualifying
+18,STR,Aston Martin,90.024,,,16.0,2024,Japanese,4,Qualifying
+10,GAS,Alpine,90.119,,,17.0,2024,Japanese,4,Qualifying
+20,MAG,Haas F1 Team,90.131,,,18.0,2024,Japanese,4,Qualifying
+2,SAR,Williams,90.139,,,19.0,2024,Japanese,4,Qualifying
+24,ZHO,Kick Sauber,90.143,,,20.0,2024,Japanese,4,Qualifying
+1,VER,Red Bull Racing,94.742,93.794,93.66,1.0,2024,Chinese,5,Qualifying
+11,PER,Red Bull Racing,95.457,94.026,93.982,2.0,2024,Chinese,5,Qualifying
+14,ALO,Aston Martin,95.116,94.652,94.148,3.0,2024,Chinese,5,Qualifying
+4,NOR,McLaren,94.842,94.46,94.165,4.0,2024,Chinese,5,Qualifying
+81,PIA,McLaren,95.014,94.659,94.273,5.0,2024,Chinese,5,Qualifying
+16,LEC,Ferrari,94.797,94.399,94.289,6.0,2024,Chinese,5,Qualifying
+55,SAI,Ferrari,94.97,94.368,94.297,7.0,2024,Chinese,5,Qualifying
+63,RUS,Mercedes,95.084,94.609,94.433,8.0,2024,Chinese,5,Qualifying
+27,HUL,Haas F1 Team,95.068,94.667,94.604,9.0,2024,Chinese,5,Qualifying
+77,BOT,Kick Sauber,95.169,94.769,94.665,10.0,2024,Chinese,5,Qualifying
+18,STR,Aston Martin,95.334,94.838,,11.0,2024,Chinese,5,Qualifying
+3,RIC,RB,95.443,94.934,,12.0,2024,Chinese,5,Qualifying
+31,OCO,Alpine,95.356,95.223,,13.0,2024,Chinese,5,Qualifying
+23,ALB,Williams,95.384,95.241,,14.0,2024,Chinese,5,Qualifying
+10,GAS,Alpine,95.287,95.463,,15.0,2024,Chinese,5,Qualifying
+24,ZHO,Kick Sauber,95.505,,,16.0,2024,Chinese,5,Qualifying
+20,MAG,Haas F1 Team,95.516,,,17.0,2024,Chinese,5,Qualifying
+44,HAM,Mercedes,95.573,,,18.0,2024,Chinese,5,Qualifying
+22,TSU,RB,95.746,,,19.0,2024,Chinese,5,Qualifying
+2,SAR,Williams,96.358,,,20.0,2024,Chinese,5,Qualifying
+1,VER,Red Bull Racing,87.689,87.566,87.241,1.0,2024,Miami,6,Qualifying
+16,LEC,Ferrari,88.081,87.533,87.382,2.0,2024,Miami,6,Qualifying
+55,SAI,Ferrari,87.937,87.941,87.455,3.0,2024,Miami,6,Qualifying
+11,PER,Red Bull Racing,87.772,87.839,87.46,4.0,2024,Miami,6,Qualifying
+4,NOR,McLaren,87.913,87.871,87.594,5.0,2024,Miami,6,Qualifying
+81,PIA,McLaren,88.032,87.721,87.675,6.0,2024,Miami,6,Qualifying
+63,RUS,Mercedes,88.159,88.095,88.067,7.0,2024,Miami,6,Qualifying
+44,HAM,Mercedes,88.167,87.697,88.107,8.0,2024,Miami,6,Qualifying
+27,HUL,Haas F1 Team,88.383,88.2,88.146,9.0,2024,Miami,6,Qualifying
+22,TSU,RB,88.324,88.167,88.192,10.0,2024,Miami,6,Qualifying
+18,STR,Aston Martin,88.177,88.222,,11.0,2024,Miami,6,Qualifying
+10,GAS,Alpine,87.976,88.324,,12.0,2024,Miami,6,Qualifying
+31,OCO,Alpine,88.209,88.371,,13.0,2024,Miami,6,Qualifying
+23,ALB,Williams,88.343,88.413,,14.0,2024,Miami,6,Qualifying
+14,ALO,Aston Martin,88.453,88.427,,15.0,2024,Miami,6,Qualifying
+77,BOT,Kick Sauber,88.463,,,16.0,2024,Miami,6,Qualifying
+2,SAR,Williams,88.487,,,17.0,2024,Miami,6,Qualifying
+3,RIC,RB,88.617,,,18.0,2024,Miami,6,Qualifying
+20,MAG,Haas F1 Team,88.619,,,19.0,2024,Miami,6,Qualifying
+24,ZHO,Kick Sauber,88.824,,,20.0,2024,Miami,6,Qualifying
+1,VER,Red Bull Racing,75.762,75.176,74.746,1.0,2024,Emilia Romagna,7,Qualifying
+81,PIA,McLaren,75.94,75.407,74.82,2.0,2024,Emilia Romagna,7,Qualifying
+4,NOR,McLaren,75.915,75.371,74.837,3.0,2024,Emilia Romagna,7,Qualifying
+16,LEC,Ferrari,75.823,75.328,74.97,4.0,2024,Emilia Romagna,7,Qualifying
+55,SAI,Ferrari,76.015,75.512,75.233,5.0,2024,Emilia Romagna,7,Qualifying
+63,RUS,Mercedes,76.107,75.671,75.234,6.0,2024,Emilia Romagna,7,Qualifying
+22,TSU,RB,75.894,75.358,75.465,7.0,2024,Emilia Romagna,7,Qualifying
+44,HAM,Mercedes,76.604,75.677,75.504,8.0,2024,Emilia Romagna,7,Qualifying
+3,RIC,RB,76.06,75.691,75.674,9.0,2024,Emilia Romagna,7,Qualifying
+27,HUL,Haas F1 Team,75.841,75.569,75.98,10.0,2024,Emilia Romagna,7,Qualifying
+11,PER,Red Bull Racing,76.404,75.706,,11.0,2024,Emilia Romagna,7,Qualifying
+31,OCO,Alpine,76.361,75.906,,12.0,2024,Emilia Romagna,7,Qualifying
+18,STR,Aston Martin,76.458,75.992,,13.0,2024,Emilia Romagna,7,Qualifying
+23,ALB,Williams,76.524,76.2,,14.0,2024,Emilia Romagna,7,Qualifying
+10,GAS,Alpine,76.015,76.381,,15.0,2024,Emilia Romagna,7,Qualifying
+77,BOT,Kick Sauber,76.626,,,16.0,2024,Emilia Romagna,7,Qualifying
+24,ZHO,Kick Sauber,76.834,,,17.0,2024,Emilia Romagna,7,Qualifying
+20,MAG,Haas F1 Team,76.854,,,18.0,2024,Emilia Romagna,7,Qualifying
+14,ALO,Aston Martin,76.917,,,19.0,2024,Emilia Romagna,7,Qualifying
+2,SAR,Williams,,,,20.0,2024,Emilia Romagna,7,Qualifying
+16,LEC,Ferrari,71.584,70.825,70.27,1.0,2024,Monaco,8,Qualifying
+81,PIA,McLaren,71.5,70.756,70.424,2.0,2024,Monaco,8,Qualifying
+55,SAI,Ferrari,71.543,71.075,70.518,3.0,2024,Monaco,8,Qualifying
+4,NOR,McLaren,71.76,70.732,70.542,4.0,2024,Monaco,8,Qualifying
+63,RUS,Mercedes,71.492,70.929,70.543,5.0,2024,Monaco,8,Qualifying
+1,VER,Red Bull Racing,71.711,70.745,70.567,6.0,2024,Monaco,8,Qualifying
+44,HAM,Mercedes,71.528,71.056,70.621,7.0,2024,Monaco,8,Qualifying
+22,TSU,RB,71.852,71.106,70.858,8.0,2024,Monaco,8,Qualifying
+23,ALB,Williams,71.623,71.216,70.948,9.0,2024,Monaco,8,Qualifying
+10,GAS,Alpine,71.714,70.896,71.311,10.0,2024,Monaco,8,Qualifying
+31,OCO,Alpine,71.887,71.285,,11.0,2024,Monaco,8,Qualifying
+3,RIC,RB,71.785,71.482,,12.0,2024,Monaco,8,Qualifying
+18,STR,Aston Martin,71.728,71.563,,13.0,2024,Monaco,8,Qualifying
+27,HUL,Haas F1 Team,71.876,71.44,,14.0,2024,Monaco,8,Qualifying
+14,ALO,Aston Martin,72.019,,,14.0,2024,Monaco,8,Qualifying
+2,SAR,Williams,72.02,,,15.0,2024,Monaco,8,Qualifying
+20,MAG,Haas F1 Team,71.832,71.725,,15.0,2024,Monaco,8,Qualifying
+11,PER,Red Bull Racing,72.06,,,16.0,2024,Monaco,8,Qualifying
+77,BOT,Kick Sauber,72.512,,,17.0,2024,Monaco,8,Qualifying
+24,ZHO,Kick Sauber,73.028,,,18.0,2024,Monaco,8,Qualifying
+63,RUS,Mercedes,73.013,71.742,72.0,1.0,2024,Canadian,9,Qualifying
+1,VER,Red Bull Racing,72.36,72.549,72.0,2.0,2024,Canadian,9,Qualifying
+4,NOR,McLaren,72.959,72.201,72.021,3.0,2024,Canadian,9,Qualifying
+81,PIA,McLaren,72.907,72.462,72.103,4.0,2024,Canadian,9,Qualifying
+3,RIC,RB,73.24,72.572,72.178,5.0,2024,Canadian,9,Qualifying
+14,ALO,Aston Martin,73.117,72.635,72.228,6.0,2024,Canadian,9,Qualifying
+44,HAM,Mercedes,72.851,71.979,72.28,7.0,2024,Canadian,9,Qualifying
+22,TSU,RB,72.748,72.303,72.414,8.0,2024,Canadian,9,Qualifying
+18,STR,Aston Martin,73.088,72.659,72.701,9.0,2024,Canadian,9,Qualifying
+23,ALB,Williams,72.896,72.485,72.796,10.0,2024,Canadian,9,Qualifying
+16,LEC,Ferrari,73.107,72.691,,11.0,2024,Canadian,9,Qualifying
+55,SAI,Ferrari,73.038,72.728,,12.0,2024,Canadian,9,Qualifying
+2,SAR,Williams,73.063,72.736,,13.0,2024,Canadian,9,Qualifying
+20,MAG,Haas F1 Team,73.217,72.916,,14.0,2024,Canadian,9,Qualifying
+10,GAS,Alpine,73.289,72.94,,15.0,2024,Canadian,9,Qualifying
+11,PER,Red Bull Racing,73.326,,,16.0,2024,Canadian,9,Qualifying
+77,BOT,Kick Sauber,73.366,,,17.0,2024,Canadian,9,Qualifying
+31,OCO,Alpine,73.435,,,18.0,2024,Canadian,9,Qualifying
+27,HUL,Haas F1 Team,73.978,,,19.0,2024,Canadian,9,Qualifying
+24,ZHO,Kick Sauber,74.292,,,20.0,2024,Canadian,9,Qualifying
+4,NOR,McLaren,72.386,71.872,71.383,1.0,2024,Spanish,10,Qualifying
+1,VER,Red Bull Racing,72.306,71.653,71.403,2.0,2024,Spanish,10,Qualifying
+44,HAM,Mercedes,72.143,71.792,71.701,3.0,2024,Spanish,10,Qualifying
+63,RUS,Mercedes,72.456,71.812,71.703,4.0,2024,Spanish,10,Qualifying
+16,LEC,Ferrari,72.257,72.038,71.731,5.0,2024,Spanish,10,Qualifying
+55,SAI,Ferrari,72.403,71.874,71.736,6.0,2024,Spanish,10,Qualifying
+10,GAS,Alpine,72.651,72.079,71.857,7.0,2024,Spanish,10,Qualifying
+11,PER,Red Bull Racing,72.477,72.054,72.061,8.0,2024,Spanish,10,Qualifying
+31,OCO,Alpine,72.691,72.109,72.125,9.0,2024,Spanish,10,Qualifying
+81,PIA,McLaren,72.46,72.011,,10.0,2024,Spanish,10,Qualifying
+14,ALO,Aston Martin,72.505,72.128,,11.0,2024,Spanish,10,Qualifying
+77,BOT,Kick Sauber,72.758,72.227,,12.0,2024,Spanish,10,Qualifying
+27,HUL,Haas F1 Team,72.708,72.31,,13.0,2024,Spanish,10,Qualifying
+18,STR,Aston Martin,72.881,72.372,,14.0,2024,Spanish,10,Qualifying
+24,ZHO,Kick Sauber,72.88,72.738,,15.0,2024,Spanish,10,Qualifying
+20,MAG,Haas F1 Team,72.937,,,16.0,2024,Spanish,10,Qualifying
+22,TSU,RB,72.985,,,17.0,2024,Spanish,10,Qualifying
+3,RIC,RB,73.075,,,18.0,2024,Spanish,10,Qualifying
+23,ALB,Williams,73.153,,,19.0,2024,Spanish,10,Qualifying
+2,SAR,Williams,73.509,,,20.0,2024,Spanish,10,Qualifying
+1,VER,Red Bull Racing,65.336,64.469,64.314,1.0,2024,Austrian,11,Qualifying
+4,NOR,McLaren,65.45,65.103,64.718,2.0,2024,Austrian,11,Qualifying
+63,RUS,Mercedes,65.585,65.016,64.84,3.0,2024,Austrian,11,Qualifying
+55,SAI,Ferrari,65.263,65.016,64.851,4.0,2024,Austrian,11,Qualifying
+44,HAM,Mercedes,65.541,65.053,64.903,5.0,2024,Austrian,11,Qualifying
+16,LEC,Ferrari,65.509,65.104,65.044,6.0,2024,Austrian,11,Qualifying
+81,PIA,McLaren,65.311,65.07,65.048,7.0,2024,Austrian,11,Qualifying
+11,PER,Red Bull Racing,65.587,65.144,65.202,8.0,2024,Austrian,11,Qualifying
+27,HUL,Haas F1 Team,65.596,65.262,65.385,9.0,2024,Austrian,11,Qualifying
+31,OCO,Alpine,65.574,65.274,65.883,10.0,2024,Austrian,11,Qualifying
+3,RIC,RB,65.569,65.289,,11.0,2024,Austrian,11,Qualifying
+20,MAG,Haas F1 Team,65.508,65.347,,12.0,2024,Austrian,11,Qualifying
+10,GAS,Alpine,65.598,65.359,,13.0,2024,Austrian,11,Qualifying
+22,TSU,RB,65.563,65.412,,14.0,2024,Austrian,11,Qualifying
+14,ALO,Aston Martin,65.656,65.639,,15.0,2024,Austrian,11,Qualifying
+23,ALB,Williams,65.736,,,16.0,2024,Austrian,11,Qualifying
+18,STR,Aston Martin,65.819,,,17.0,2024,Austrian,11,Qualifying
+77,BOT,Kick Sauber,65.847,,,18.0,2024,Austrian,11,Qualifying
+2,SAR,Williams,65.856,,,19.0,2024,Austrian,11,Qualifying
+24,ZHO,Kick Sauber,66.061,,,20.0,2024,Austrian,11,Qualifying
+63,RUS,Mercedes,90.106,86.723,85.819,1.0,2024,British,12,Qualifying
+44,HAM,Mercedes,89.547,86.77,85.99,2.0,2024,British,12,Qualifying
+4,NOR,McLaren,91.596,86.559,86.03,3.0,2024,British,12,Qualifying
+1,VER,Red Bull Racing,91.342,86.796,86.203,4.0,2024,British,12,Qualifying
+81,PIA,McLaren,90.895,86.733,86.237,5.0,2024,British,12,Qualifying
+27,HUL,Haas F1 Team,91.929,86.847,86.338,6.0,2024,British,12,Qualifying
+55,SAI,Ferrari,90.557,86.843,86.509,7.0,2024,British,12,Qualifying
+18,STR,Aston Martin,91.41,86.938,86.585,8.0,2024,British,12,Qualifying
+23,ALB,Williams,91.135,86.933,86.64,9.0,2024,British,12,Qualifying
+14,ALO,Aston Martin,91.264,86.73,86.917,10.0,2024,British,12,Qualifying
+16,LEC,Ferrari,90.496,87.097,,11.0,2024,British,12,Qualifying
+2,SAR,Williams,91.608,87.175,,12.0,2024,British,12,Qualifying
+22,TSU,RB,90.994,87.269,,13.0,2024,British,12,Qualifying
+24,ZHO,Kick Sauber,91.19,87.867,,14.0,2024,British,12,Qualifying
+3,RIC,RB,91.291,87.949,,15.0,2024,British,12,Qualifying
+77,BOT,Kick Sauber,92.431,,,16.0,2024,British,12,Qualifying
+20,MAG,Haas F1 Team,92.905,,,17.0,2024,British,12,Qualifying
+31,OCO,Alpine,94.557,,,18.0,2024,British,12,Qualifying
+11,PER,Red Bull Racing,98.348,,,19.0,2024,British,12,Qualifying
+10,GAS,Alpine,99.804,,,20.0,2024,British,12,Qualifying
+4,NOR,McLaren,77.755,75.54,75.227,1.0,2024,Hungarian,13,Qualifying
+81,PIA,McLaren,77.504,75.785,75.249,2.0,2024,Hungarian,13,Qualifying
+1,VER,Red Bull Racing,77.087,75.77,75.273,3.0,2024,Hungarian,13,Qualifying
+55,SAI,Ferrari,77.244,75.885,75.696,4.0,2024,Hungarian,13,Qualifying
+44,HAM,Mercedes,77.087,76.307,75.854,5.0,2024,Hungarian,13,Qualifying
+16,LEC,Ferrari,77.437,75.891,75.905,6.0,2024,Hungarian,13,Qualifying
+14,ALO,Aston Martin,77.624,76.117,76.043,7.0,2024,Hungarian,13,Qualifying
+18,STR,Aston Martin,77.405,76.075,76.244,8.0,2024,Hungarian,13,Qualifying
+3,RIC,RB,77.05,76.202,76.447,9.0,2024,Hungarian,13,Qualifying
+22,TSU,RB,77.436,76.121,76.477,10.0,2024,Hungarian,13,Qualifying
+27,HUL,Haas F1 Team,77.362,76.317,,11.0,2024,Hungarian,13,Qualifying
+77,BOT,Kick Sauber,77.487,76.384,,12.0,2024,Hungarian,13,Qualifying
+23,ALB,Williams,77.28,76.429,,13.0,2024,Hungarian,13,Qualifying
+2,SAR,Williams,77.77,76.543,,14.0,2024,Hungarian,13,Qualifying
+20,MAG,Haas F1 Team,77.851,76.548,,15.0,2024,Hungarian,13,Qualifying
+11,PER,Red Bull Racing,77.886,,,16.0,2024,Hungarian,13,Qualifying
+63,RUS,Mercedes,77.968,,,17.0,2024,Hungarian,13,Qualifying
+24,ZHO,Kick Sauber,78.037,,,18.0,2024,Hungarian,13,Qualifying
+31,OCO,Alpine,78.049,,,19.0,2024,Hungarian,13,Qualifying
+10,GAS,Alpine,78.166,,,20.0,2024,Hungarian,13,Qualifying
+1,VER,Red Bull Racing,114.938,113.837,113.159,1.0,2024,Belgian,14,Qualifying
+16,LEC,Ferrari,115.349,114.193,113.754,2.0,2024,Belgian,14,Qualifying
+11,PER,Red Bull Racing,115.139,114.47,113.765,3.0,2024,Belgian,14,Qualifying
+44,HAM,Mercedes,115.692,114.037,113.835,4.0,2024,Belgian,14,Qualifying
+4,NOR,McLaren,115.582,114.358,113.981,5.0,2024,Belgian,14,Qualifying
+81,PIA,McLaren,114.835,114.136,114.027,6.0,2024,Belgian,14,Qualifying
+63,RUS,Mercedes,115.353,114.095,114.184,7.0,2024,Belgian,14,Qualifying
+55,SAI,Ferrari,115.169,114.112,114.477,8.0,2024,Belgian,14,Qualifying
+14,ALO,Aston Martin,115.489,114.258,114.765,9.0,2024,Belgian,14,Qualifying
+31,OCO,Alpine,115.417,114.46,114.81,10.0,2024,Belgian,14,Qualifying
+23,ALB,Williams,115.722,114.473,,11.0,2024,Belgian,14,Qualifying
+10,GAS,Alpine,114.911,114.635,,12.0,2024,Belgian,14,Qualifying
+3,RIC,RB,115.451,114.682,,13.0,2024,Belgian,14,Qualifying
+77,BOT,Kick Sauber,115.531,114.764,,14.0,2024,Belgian,14,Qualifying
+18,STR,Aston Martin,116.072,115.716,,15.0,2024,Belgian,14,Qualifying
+27,HUL,Haas F1 Team,116.308,,,16.0,2024,Belgian,14,Qualifying
+20,MAG,Haas F1 Team,116.5,,,17.0,2024,Belgian,14,Qualifying
+22,TSU,RB,116.593,,,18.0,2024,Belgian,14,Qualifying
+2,SAR,Williams,117.23,,,19.0,2024,Belgian,14,Qualifying
+24,ZHO,Kick Sauber,117.775,,,20.0,2024,Belgian,14,Qualifying
+4,NOR,McLaren,71.377,70.496,69.673,1.0,2024,Dutch,15,Qualifying
+1,VER,Red Bull Racing,71.393,70.811,70.029,2.0,2024,Dutch,15,Qualifying
+81,PIA,McLaren,71.541,70.505,70.172,3.0,2024,Dutch,15,Qualifying
+63,RUS,Mercedes,71.049,70.552,70.244,4.0,2024,Dutch,15,Qualifying
+11,PER,Red Bull Racing,71.006,70.678,70.416,5.0,2024,Dutch,15,Qualifying
+16,LEC,Ferrari,71.37,70.689,70.582,6.0,2024,Dutch,15,Qualifying
+14,ALO,Aston Martin,71.493,70.845,70.633,7.0,2024,Dutch,15,Qualifying
+18,STR,Aston Martin,71.518,70.661,70.857,8.0,2024,Dutch,15,Qualifying
+10,GAS,Alpine,71.718,70.815,70.977,9.0,2024,Dutch,15,Qualifying
+55,SAI,Ferrari,71.327,70.914,,10.0,2024,Dutch,15,Qualifying
+23,ALB,Williams,,70.768,70.653,10.0,2024,Dutch,15,Qualifying
+44,HAM,Mercedes,71.375,70.948,,11.0,2024,Dutch,15,Qualifying
+22,TSU,RB,71.603,70.955,,12.0,2024,Dutch,15,Qualifying
+27,HUL,Haas F1 Team,71.832,71.215,,13.0,2024,Dutch,15,Qualifying
+20,MAG,Haas F1 Team,71.63,71.295,,14.0,2024,Dutch,15,Qualifying
+3,RIC,RB,71.943,,,15.0,2024,Dutch,15,Qualifying
+31,OCO,Alpine,71.995,,,16.0,2024,Dutch,15,Qualifying
+77,BOT,Kick Sauber,72.168,,,17.0,2024,Dutch,15,Qualifying
+24,ZHO,Kick Sauber,73.261,,,18.0,2024,Dutch,15,Qualifying
+2,SAR,Williams,,,,20.0,2024,Dutch,15,Qualifying
+4,NOR,McLaren,79.911,79.727,79.327,1.0,2024,Italian,16,Qualifying
+81,PIA,McLaren,80.076,79.808,79.436,2.0,2024,Italian,16,Qualifying
+63,RUS,Mercedes,80.169,79.877,79.44,3.0,2024,Italian,16,Qualifying
+16,LEC,Ferrari,80.074,80.007,79.461,4.0,2024,Italian,16,Qualifying
+55,SAI,Ferrari,80.149,79.799,79.467,5.0,2024,Italian,16,Qualifying
+44,HAM,Mercedes,80.477,79.641,79.513,6.0,2024,Italian,16,Qualifying
+1,VER,Red Bull Racing,80.226,79.662,80.022,7.0,2024,Italian,16,Qualifying
+11,PER,Red Bull Racing,80.598,80.216,80.062,8.0,2024,Italian,16,Qualifying
+23,ALB,Williams,80.542,80.314,80.299,9.0,2024,Italian,16,Qualifying
+27,HUL,Haas F1 Team,80.781,80.411,80.339,10.0,2024,Italian,16,Qualifying
+14,ALO,Aston Martin,80.617,80.421,,11.0,2024,Italian,16,Qualifying
+3,RIC,RB,80.901,80.479,,12.0,2024,Italian,16,Qualifying
+20,MAG,Haas F1 Team,80.856,80.698,,13.0,2024,Italian,16,Qualifying
+10,GAS,Alpine,80.748,80.738,,14.0,2024,Italian,16,Qualifying
+31,OCO,Alpine,80.764,80.766,,15.0,2024,Italian,16,Qualifying
+22,TSU,RB,80.945,,,16.0,2024,Italian,16,Qualifying
+18,STR,Aston Martin,81.013,,,17.0,2024,Italian,16,Qualifying
+43,COL,Williams,81.061,,,18.0,2024,Italian,16,Qualifying
+77,BOT,Kick Sauber,81.101,,,19.0,2024,Italian,16,Qualifying
+24,ZHO,Kick Sauber,81.445,,,20.0,2024,Italian,16,Qualifying
+16,LEC,Ferrari,102.775,102.056,101.365,1.0,2024,Azerbaijan,17,Qualifying
+81,PIA,McLaren,103.033,102.598,101.686,2.0,2024,Azerbaijan,17,Qualifying
+55,SAI,Ferrari,103.357,102.503,101.805,3.0,2024,Azerbaijan,17,Qualifying
+11,PER,Red Bull Racing,103.213,102.263,101.813,4.0,2024,Azerbaijan,17,Qualifying
+63,RUS,Mercedes,103.139,102.329,101.874,5.0,2024,Azerbaijan,17,Qualifying
+1,VER,Red Bull Racing,103.097,102.042,102.023,6.0,2024,Azerbaijan,17,Qualifying
+44,HAM,Mercedes,103.089,102.765,102.289,7.0,2024,Azerbaijan,17,Qualifying
+14,ALO,Aston Martin,103.472,102.426,102.369,8.0,2024,Azerbaijan,17,Qualifying
+43,COL,Williams,103.138,102.473,102.53,9.0,2024,Azerbaijan,17,Qualifying
+23,ALB,Williams,102.899,102.84,102.859,10.0,2024,Azerbaijan,17,Qualifying
+50,BEA,Haas F1 Team,103.471,102.968,,11.0,2024,Azerbaijan,17,Qualifying
+22,TSU,RB,103.337,103.035,,12.0,2024,Azerbaijan,17,Qualifying
+27,HUL,Haas F1 Team,103.101,103.191,,13.0,2024,Azerbaijan,17,Qualifying
+18,STR,Aston Martin,103.37,103.404,,14.0,2024,Azerbaijan,17,Qualifying
+3,RIC,RB,103.547,,,15.0,2024,Azerbaijan,17,Qualifying
+10,GAS,Alpine,,103.179,,15.0,2024,Azerbaijan,17,Qualifying
+4,NOR,McLaren,103.609,,,16.0,2024,Azerbaijan,17,Qualifying
+77,BOT,Kick Sauber,103.618,,,17.0,2024,Azerbaijan,17,Qualifying
+24,ZHO,Kick Sauber,104.246,,,18.0,2024,Azerbaijan,17,Qualifying
+31,OCO,Alpine,104.504,,,19.0,2024,Azerbaijan,17,Qualifying
+4,NOR,McLaren,90.002,90.007,89.525,1.0,2024,Singapore,18,Qualifying
+1,VER,Red Bull Racing,90.157,89.68,89.728,2.0,2024,Singapore,18,Qualifying
+44,HAM,Mercedes,90.393,89.929,89.841,3.0,2024,Singapore,18,Qualifying
+63,RUS,Mercedes,90.811,90.153,89.867,4.0,2024,Singapore,18,Qualifying
+81,PIA,McLaren,90.258,89.64,89.953,5.0,2024,Singapore,18,Qualifying
+27,HUL,Haas F1 Team,90.724,90.15,90.115,6.0,2024,Singapore,18,Qualifying
+14,ALO,Aston Martin,90.684,90.45,90.214,7.0,2024,Singapore,18,Qualifying
+22,TSU,RB,90.716,90.289,90.354,8.0,2024,Singapore,18,Qualifying
+16,LEC,Ferrari,90.786,89.747,,9.0,2024,Singapore,18,Qualifying
+55,SAI,Ferrari,90.67,90.108,,10.0,2024,Singapore,18,Qualifying
+23,ALB,Williams,90.679,90.474,,11.0,2024,Singapore,18,Qualifying
+43,COL,Williams,90.704,90.481,,12.0,2024,Singapore,18,Qualifying
+11,PER,Red Bull Racing,90.624,90.579,,13.0,2024,Singapore,18,Qualifying
+20,MAG,Haas F1 Team,90.829,90.653,,14.0,2024,Singapore,18,Qualifying
+31,OCO,Alpine,90.958,90.769,,15.0,2024,Singapore,18,Qualifying
+3,RIC,RB,91.085,,,16.0,2024,Singapore,18,Qualifying
+18,STR,Aston Martin,91.094,,,17.0,2024,Singapore,18,Qualifying
+10,GAS,Alpine,91.312,,,18.0,2024,Singapore,18,Qualifying
+77,BOT,Kick Sauber,91.572,,,19.0,2024,Singapore,18,Qualifying
+24,ZHO,Kick Sauber,92.054,,,20.0,2024,Singapore,18,Qualifying
+4,NOR,McLaren,93.616,92.851,92.33,1.0,2024,United States,19,Qualifying
+1,VER,Red Bull Racing,93.046,92.584,92.361,2.0,2024,United States,19,Qualifying
+55,SAI,Ferrari,93.556,92.836,92.652,3.0,2024,United States,19,Qualifying
+16,LEC,Ferrari,93.241,92.962,92.74,4.0,2024,United States,19,Qualifying
+81,PIA,McLaren,93.864,93.057,92.95,5.0,2024,United States,19,Qualifying
+63,RUS,Mercedes,93.536,93.142,92.974,6.0,2024,United States,19,Qualifying
+10,GAS,Alpine,93.55,93.162,93.018,7.0,2024,United States,19,Qualifying
+14,ALO,Aston Martin,93.973,93.429,93.309,8.0,2024,United States,19,Qualifying
+20,MAG,Haas F1 Team,93.564,93.474,93.481,9.0,2024,United States,19,Qualifying
+11,PER,Red Bull Racing,93.611,93.02,,10.0,2024,United States,19,Qualifying
+22,TSU,RB,93.795,93.506,,11.0,2024,United States,19,Qualifying
+27,HUL,Haas F1 Team,93.601,93.544,,12.0,2024,United States,19,Qualifying
+31,OCO,Alpine,93.986,93.597,,13.0,2024,United States,19,Qualifying
+18,STR,Aston Martin,94.033,93.759,,14.0,2024,United States,19,Qualifying
+30,LAW,RB,93.339,,,15.0,2024,United States,19,Qualifying
+23,ALB,Williams,94.051,,,16.0,2024,United States,19,Qualifying
+43,COL,Williams,94.062,,,17.0,2024,United States,19,Qualifying
+77,BOT,Kick Sauber,94.152,,,18.0,2024,United States,19,Qualifying
+44,HAM,Mercedes,94.154,,,19.0,2024,United States,19,Qualifying
+24,ZHO,Kick Sauber,94.228,,,20.0,2024,United States,19,Qualifying
+55,SAI,Ferrari,76.778,76.515,75.946,1.0,2024,Mexico City,20,Qualifying
+1,VER,Red Bull Racing,76.803,76.514,76.171,2.0,2024,Mexico City,20,Qualifying
+4,NOR,McLaren,76.505,76.301,76.26,3.0,2024,Mexico City,20,Qualifying
+16,LEC,Ferrari,76.972,76.641,76.265,4.0,2024,Mexico City,20,Qualifying
+63,RUS,Mercedes,77.194,76.937,76.356,5.0,2024,Mexico City,20,Qualifying
+44,HAM,Mercedes,77.306,76.973,76.651,6.0,2024,Mexico City,20,Qualifying
+20,MAG,Haas F1 Team,77.125,77.003,76.886,7.0,2024,Mexico City,20,Qualifying
+10,GAS,Alpine,77.149,77.048,76.892,8.0,2024,Mexico City,20,Qualifying
+23,ALB,Williams,77.189,76.988,77.065,9.0,2024,Mexico City,20,Qualifying
+27,HUL,Haas F1 Team,77.186,76.995,77.365,10.0,2024,Mexico City,20,Qualifying
+22,TSU,RB,77.182,77.129,,11.0,2024,Mexico City,20,Qualifying
+30,LAW,RB,77.38,77.162,,12.0,2024,Mexico City,20,Qualifying
+14,ALO,Aston Martin,77.307,77.168,,13.0,2024,Mexico City,20,Qualifying
+18,STR,Aston Martin,77.407,77.294,,14.0,2024,Mexico City,20,Qualifying
+77,BOT,Kick Sauber,77.393,77.817,,15.0,2024,Mexico City,20,Qualifying
+43,COL,Williams,77.558,,,16.0,2024,Mexico City,20,Qualifying
+81,PIA,McLaren,77.597,,,17.0,2024,Mexico City,20,Qualifying
+11,PER,Red Bull Racing,77.611,,,18.0,2024,Mexico City,20,Qualifying
+31,OCO,Alpine,77.617,,,19.0,2024,Mexico City,20,Qualifying
+24,ZHO,Kick Sauber,78.072,,,20.0,2024,Mexico City,20,Qualifying
+4,NOR,McLaren,90.944,84.844,83.405,1.0,2024,São Paulo,21,Qualifying
+63,RUS,Mercedes,89.121,86.307,83.578,2.0,2024,São Paulo,21,Qualifying
+22,TSU,RB,89.172,86.464,84.111,3.0,2024,São Paulo,21,Qualifying
+31,OCO,Alpine,89.171,86.206,84.475,4.0,2024,São Paulo,21,Qualifying
+30,LAW,RB,90.758,85.654,84.484,5.0,2024,São Paulo,21,Qualifying
+16,LEC,Ferrari,89.839,86.097,84.525,6.0,2024,São Paulo,21,Qualifying
+23,ALB,Williams,89.072,84.657,84.657,7.0,2024,São Paulo,21,Qualifying
+81,PIA,McLaren,90.114,84.686,84.686,8.0,2024,São Paulo,21,Qualifying
+14,ALO,Aston Martin,90.207,88.998,88.998,9.0,2024,São Paulo,21,Qualifying
+18,STR,Aston Martin,90.58,86.334,,10.0,2024,São Paulo,21,Qualifying
+77,BOT,Kick Sauber,90.633,86.472,,11.0,2024,São Paulo,21,Qualifying
+1,VER,Red Bull Racing,88.522,87.771,,12.0,2024,São Paulo,21,Qualifying
+11,PER,Red Bull Racing,90.035,88.158,,13.0,2024,São Paulo,21,Qualifying
+55,SAI,Ferrari,90.303,89.406,,14.0,2024,São Paulo,21,Qualifying
+10,GAS,Alpine,89.42,89.614,,15.0,2024,São Paulo,21,Qualifying
+44,HAM,Mercedes,91.15,,,16.0,2024,São Paulo,21,Qualifying
+50,BEA,Haas F1 Team,91.229,,,17.0,2024,São Paulo,21,Qualifying
+43,COL,Williams,91.27,,,18.0,2024,São Paulo,21,Qualifying
+27,HUL,Haas F1 Team,91.623,,,19.0,2024,São Paulo,21,Qualifying
+24,ZHO,Kick Sauber,92.263,,,20.0,2024,São Paulo,21,Qualifying
+63,RUS,Mercedes,93.186,92.779,92.312,1.0,2024,Las Vegas,22,Qualifying
+55,SAI,Ferrari,93.484,92.711,92.41,2.0,2024,Las Vegas,22,Qualifying
+10,GAS,Alpine,93.691,92.879,92.664,3.0,2024,Las Vegas,22,Qualifying
+16,LEC,Ferrari,93.446,93.016,92.783,4.0,2024,Las Vegas,22,Qualifying
+1,VER,Red Bull Racing,93.299,93.085,92.797,5.0,2024,Las Vegas,22,Qualifying
+4,NOR,McLaren,93.592,93.099,93.008,6.0,2024,Las Vegas,22,Qualifying
+22,TSU,RB,93.789,93.089,93.029,7.0,2024,Las Vegas,22,Qualifying
+81,PIA,McLaren,93.45,93.024,93.033,8.0,2024,Las Vegas,22,Qualifying
+27,HUL,Haas F1 Team,93.92,93.114,93.062,9.0,2024,Las Vegas,22,Qualifying
+44,HAM,Mercedes,93.225,92.567,108.106,10.0,2024,Las Vegas,22,Qualifying
+31,OCO,Alpine,93.968,93.221,,11.0,2024,Las Vegas,22,Qualifying
+20,MAG,Haas F1 Team,93.991,93.297,,12.0,2024,Las Vegas,22,Qualifying
+24,ZHO,Kick Sauber,94.079,93.566,,13.0,2024,Las Vegas,22,Qualifying
+43,COL,Williams,93.746,93.749,,14.0,2024,Las Vegas,22,Qualifying
+30,LAW,RB,94.087,94.257,,15.0,2024,Las Vegas,22,Qualifying
+11,PER,Red Bull Racing,94.155,,,16.0,2024,Las Vegas,22,Qualifying
+14,ALO,Aston Martin,94.258,,,17.0,2024,Las Vegas,22,Qualifying
+23,ALB,Williams,94.425,,,18.0,2024,Las Vegas,22,Qualifying
+77,BOT,Kick Sauber,94.43,,,19.0,2024,Las Vegas,22,Qualifying
+18,STR,Aston Martin,94.484,,,20.0,2024,Las Vegas,22,Qualifying
+1,VER,Red Bull Racing,81.579,80.687,80.52,1.0,2024,Qatar,23,Qualifying
+63,RUS,Mercedes,81.241,81.069,80.575,2.0,2024,Qatar,23,Qualifying
+4,NOR,McLaren,81.578,80.983,80.772,3.0,2024,Qatar,23,Qualifying
+81,PIA,McLaren,81.821,81.121,80.829,4.0,2024,Qatar,23,Qualifying
+16,LEC,Ferrari,81.278,81.0,80.852,5.0,2024,Qatar,23,Qualifying
+44,HAM,Mercedes,81.637,81.095,81.011,6.0,2024,Qatar,23,Qualifying
+55,SAI,Ferrari,81.447,81.199,81.041,7.0,2024,Qatar,23,Qualifying
+14,ALO,Aston Martin,81.608,81.208,81.251,8.0,2024,Qatar,23,Qualifying
+11,PER,Red Bull Racing,81.675,81.425,81.425,9.0,2024,Qatar,23,Qualifying
+20,MAG,Haas F1 Team,81.891,81.387,81.5,10.0,2024,Qatar,23,Qualifying
+10,GAS,Alpine,81.843,81.437,,11.0,2024,Qatar,23,Qualifying
+24,ZHO,Kick Sauber,82.103,81.501,,12.0,2024,Qatar,23,Qualifying
+77,BOT,Kick Sauber,81.927,81.731,,13.0,2024,Qatar,23,Qualifying
+22,TSU,RB,82.364,81.771,,14.0,2024,Qatar,23,Qualifying
+18,STR,Aston Martin,82.011,81.911,,15.0,2024,Qatar,23,Qualifying
+23,ALB,Williams,82.39,,,16.0,2024,Qatar,23,Qualifying
+30,LAW,RB,82.411,,,17.0,2024,Qatar,23,Qualifying
+27,HUL,Haas F1 Team,82.442,,,18.0,2024,Qatar,23,Qualifying
+43,COL,Williams,82.594,,,19.0,2024,Qatar,23,Qualifying
+31,OCO,Alpine,82.714,,,20.0,2024,Qatar,23,Qualifying
+4,NOR,McLaren,83.682,83.098,82.595,1.0,2024,Abu Dhabi,24,Qualifying
+81,PIA,McLaren,83.64,83.199,82.804,2.0,2024,Abu Dhabi,24,Qualifying
+55,SAI,Ferrari,83.487,82.985,82.824,3.0,2024,Abu Dhabi,24,Qualifying
+27,HUL,Haas F1 Team,83.722,83.04,82.886,4.0,2024,Abu Dhabi,24,Qualifying
+1,VER,Red Bull Racing,83.516,82.998,82.945,5.0,2024,Abu Dhabi,24,Qualifying
+10,GAS,Alpine,83.548,83.086,82.984,6.0,2024,Abu Dhabi,24,Qualifying
+63,RUS,Mercedes,83.678,83.283,83.132,7.0,2024,Abu Dhabi,24,Qualifying
+14,ALO,Aston Martin,83.794,83.268,83.196,8.0,2024,Abu Dhabi,24,Qualifying
+77,BOT,Kick Sauber,83.481,83.341,83.204,9.0,2024,Abu Dhabi,24,Qualifying
+11,PER,Red Bull Racing,83.559,83.379,83.264,10.0,2024,Abu Dhabi,24,Qualifying
+22,TSU,RB,83.735,83.419,,11.0,2024,Abu Dhabi,24,Qualifying
+30,LAW,RB,83.733,83.472,,12.0,2024,Abu Dhabi,24,Qualifying
+18,STR,Aston Martin,83.729,83.784,,13.0,2024,Abu Dhabi,24,Qualifying
+16,LEC,Ferrari,83.302,83.833,,14.0,2024,Abu Dhabi,24,Qualifying
+20,MAG,Haas F1 Team,83.632,83.877,,15.0,2024,Abu Dhabi,24,Qualifying
+23,ALB,Williams,83.821,,,16.0,2024,Abu Dhabi,24,Qualifying
+24,ZHO,Kick Sauber,83.88,,,17.0,2024,Abu Dhabi,24,Qualifying
+44,HAM,Mercedes,83.887,,,18.0,2024,Abu Dhabi,24,Qualifying
+43,COL,Williams,83.912,,,19.0,2024,Abu Dhabi,24,Qualifying
+61,DOO,Alpine,84.105,,,20.0,2024,Abu Dhabi,24,Qualifying
+4,NOR,McLaren,75.912,75.415,75.096,1.0,2025,Australian,1,Qualifying
+81,PIA,McLaren,76.062,75.468,75.18,2.0,2025,Australian,1,Qualifying
+1,VER,Red Bull Racing,76.018,75.565,75.481,3.0,2025,Australian,1,Qualifying
+63,RUS,Mercedes,75.971,75.798,75.546,4.0,2025,Australian,1,Qualifying
+22,TSU,Racing Bulls,76.225,76.009,75.67,5.0,2025,Australian,1,Qualifying
+23,ALB,Williams,76.245,76.017,75.737,6.0,2025,Australian,1,Qualifying
+16,LEC,Ferrari,76.029,75.827,75.755,7.0,2025,Australian,1,Qualifying
+44,HAM,Ferrari,76.213,75.919,75.973,8.0,2025,Australian,1,Qualifying
+10,GAS,Alpine,76.328,76.112,75.98,9.0,2025,Australian,1,Qualifying
+55,SAI,Williams,76.36,75.931,76.062,10.0,2025,Australian,1,Qualifying
+6,HAD,Racing Bulls,76.354,76.175,,11.0,2025,Australian,1,Qualifying
+14,ALO,Aston Martin,76.288,76.453,,12.0,2025,Australian,1,Qualifying
+18,STR,Aston Martin,76.369,76.483,,13.0,2025,Australian,1,Qualifying
+7,DOO,Alpine,76.315,76.863,,14.0,2025,Australian,1,Qualifying
+5,BOR,Kick Sauber,76.516,77.52,,15.0,2025,Australian,1,Qualifying
+12,ANT,Mercedes,76.525,,,16.0,2025,Australian,1,Qualifying
+27,HUL,Kick Sauber,76.579,,,17.0,2025,Australian,1,Qualifying
+30,LAW,Red Bull Racing,77.094,,,18.0,2025,Australian,1,Qualifying
+31,OCO,Haas F1 Team,77.147,,,19.0,2025,Australian,1,Qualifying
+87,BEA,Haas F1 Team,,,,20.0,2025,Australian,1,Qualifying
+81,PIA,McLaren,91.591,91.2,90.641,1.0,2025,Chinese,2,Qualifying
+63,RUS,Mercedes,91.295,91.307,90.723,2.0,2025,Chinese,2,Qualifying
+4,NOR,McLaren,90.983,90.787,90.793,3.0,2025,Chinese,2,Qualifying
+1,VER,Red Bull Racing,91.424,91.142,90.817,4.0,2025,Chinese,2,Qualifying
+44,HAM,Ferrari,91.69,91.501,90.927,5.0,2025,Chinese,2,Qualifying
+16,LEC,Ferrari,91.579,91.45,91.021,6.0,2025,Chinese,2,Qualifying
+6,HAD,Racing Bulls,91.162,91.253,91.079,7.0,2025,Chinese,2,Qualifying
+12,ANT,Mercedes,91.676,91.59,91.103,8.0,2025,Chinese,2,Qualifying
+22,TSU,Racing Bulls,91.238,91.26,91.638,9.0,2025,Chinese,2,Qualifying
+23,ALB,Williams,91.503,91.595,91.706,10.0,2025,Chinese,2,Qualifying
+31,OCO,Haas F1 Team,91.876,91.625,,11.0,2025,Chinese,2,Qualifying
+27,HUL,Kick Sauber,91.921,91.632,,12.0,2025,Chinese,2,Qualifying
+14,ALO,Aston Martin,91.719,91.688,,13.0,2025,Chinese,2,Qualifying
+18,STR,Aston Martin,91.923,91.773,,14.0,2025,Chinese,2,Qualifying
+55,SAI,Williams,91.628,91.84,,15.0,2025,Chinese,2,Qualifying
+10,GAS,Alpine,91.992,,,16.0,2025,Chinese,2,Qualifying
+87,BEA,Haas F1 Team,92.018,,,17.0,2025,Chinese,2,Qualifying
+7,DOO,Alpine,92.092,,,18.0,2025,Chinese,2,Qualifying
+5,BOR,Kick Sauber,92.141,,,19.0,2025,Chinese,2,Qualifying
+30,LAW,Red Bull Racing,92.174,,,20.0,2025,Chinese,2,Qualifying
+1,VER,Red Bull Racing,87.943,87.502,86.983,1.0,2025,Japanese,3,Qualifying
+4,NOR,McLaren,87.845,87.146,86.995,2.0,2025,Japanese,3,Qualifying
+81,PIA,McLaren,87.687,87.507,87.027,3.0,2025,Japanese,3,Qualifying
+16,LEC,Ferrari,87.92,87.555,87.299,4.0,2025,Japanese,3,Qualifying
+63,RUS,Mercedes,87.843,87.4,87.318,5.0,2025,Japanese,3,Qualifying
+12,ANT,Mercedes,87.968,87.639,87.555,6.0,2025,Japanese,3,Qualifying
+6,HAD,Racing Bulls,88.278,87.775,87.569,7.0,2025,Japanese,3,Qualifying
+44,HAM,Ferrari,87.942,87.61,87.61,8.0,2025,Japanese,3,Qualifying
+23,ALB,Williams,88.218,87.783,87.615,9.0,2025,Japanese,3,Qualifying
+87,BEA,Haas F1 Team,88.228,87.711,87.867,10.0,2025,Japanese,3,Qualifying
+10,GAS,Alpine,88.186,87.822,,11.0,2025,Japanese,3,Qualifying
+55,SAI,Williams,88.209,87.836,,12.0,2025,Japanese,3,Qualifying
+14,ALO,Aston Martin,88.337,87.897,,13.0,2025,Japanese,3,Qualifying
+30,LAW,Racing Bulls,88.554,87.906,,14.0,2025,Japanese,3,Qualifying
+22,TSU,Red Bull Racing,87.967,88.0,,15.0,2025,Japanese,3,Qualifying
+27,HUL,Kick Sauber,88.57,,,16.0,2025,Japanese,3,Qualifying
+5,BOR,Kick Sauber,88.622,,,17.0,2025,Japanese,3,Qualifying
+31,OCO,Haas F1 Team,88.696,,,18.0,2025,Japanese,3,Qualifying
+7,DOO,Alpine,88.877,,,19.0,2025,Japanese,3,Qualifying
+18,STR,Aston Martin,89.271,,,20.0,2025,Japanese,3,Qualifying
+81,PIA,McLaren,91.392,90.454,89.841,1.0,2025,Bahrain,4,Qualifying
+63,RUS,Mercedes,91.494,90.664,90.009,2.0,2025,Bahrain,4,Qualifying
+16,LEC,Ferrari,91.454,90.724,90.175,3.0,2025,Bahrain,4,Qualifying
+12,ANT,Mercedes,91.415,90.716,90.213,4.0,2025,Bahrain,4,Qualifying
+10,GAS,Alpine,91.462,90.643,90.216,5.0,2025,Bahrain,4,Qualifying
+4,NOR,McLaren,91.107,90.56,90.267,6.0,2025,Bahrain,4,Qualifying
+1,VER,Red Bull Racing,91.303,91.019,90.423,7.0,2025,Bahrain,4,Qualifying
+55,SAI,Williams,91.591,90.844,90.68,8.0,2025,Bahrain,4,Qualifying
+44,HAM,Ferrari,91.219,91.009,90.772,9.0,2025,Bahrain,4,Qualifying
+22,TSU,Red Bull Racing,91.751,91.228,91.303,10.0,2025,Bahrain,4,Qualifying
+7,DOO,Alpine,91.414,91.245,,11.0,2025,Bahrain,4,Qualifying
+6,HAD,Racing Bulls,91.591,91.271,,12.0,2025,Bahrain,4,Qualifying
+14,ALO,Aston Martin,91.634,91.886,,13.0,2025,Bahrain,4,Qualifying
+31,OCO,Haas F1 Team,91.594,,,14.0,2025,Bahrain,4,Qualifying
+23,ALB,Williams,92.04,,,15.0,2025,Bahrain,4,Qualifying
+27,HUL,Kick Sauber,92.067,,,16.0,2025,Bahrain,4,Qualifying
+30,LAW,Racing Bulls,92.165,,,17.0,2025,Bahrain,4,Qualifying
+5,BOR,Kick Sauber,92.186,,,18.0,2025,Bahrain,4,Qualifying
+18,STR,Aston Martin,92.283,,,19.0,2025,Bahrain,4,Qualifying
+87,BEA,Haas F1 Team,92.373,,,20.0,2025,Bahrain,4,Qualifying
+1,VER,Red Bull Racing,87.778,87.529,87.294,1.0,2025,Saudi Arabian,5,Qualifying
+81,PIA,McLaren,87.901,87.545,87.304,2.0,2025,Saudi Arabian,5,Qualifying
+63,RUS,Mercedes,88.282,87.599,87.407,3.0,2025,Saudi Arabian,5,Qualifying
+16,LEC,Ferrari,88.552,87.866,87.67,4.0,2025,Saudi Arabian,5,Qualifying
+12,ANT,Mercedes,88.128,87.798,87.866,5.0,2025,Saudi Arabian,5,Qualifying
+55,SAI,Williams,88.354,88.024,88.164,6.0,2025,Saudi Arabian,5,Qualifying
+44,HAM,Ferrari,88.372,88.102,88.201,7.0,2025,Saudi Arabian,5,Qualifying
+22,TSU,Red Bull Racing,88.226,87.99,88.204,8.0,2025,Saudi Arabian,5,Qualifying
+10,GAS,Alpine,88.421,88.025,88.367,9.0,2025,Saudi Arabian,5,Qualifying
+4,NOR,McLaren,87.805,87.481,,10.0,2025,Saudi Arabian,5,Qualifying
+23,ALB,Williams,88.279,88.109,,11.0,2025,Saudi Arabian,5,Qualifying
+30,LAW,Racing Bulls,88.561,88.191,,12.0,2025,Saudi Arabian,5,Qualifying
+14,ALO,Aston Martin,88.548,88.303,,13.0,2025,Saudi Arabian,5,Qualifying
+6,HAD,Racing Bulls,88.571,88.418,,14.0,2025,Saudi Arabian,5,Qualifying
+87,BEA,Haas F1 Team,88.536,88.648,,15.0,2025,Saudi Arabian,5,Qualifying
+18,STR,Aston Martin,88.645,,,16.0,2025,Saudi Arabian,5,Qualifying
+7,DOO,Alpine,88.739,,,17.0,2025,Saudi Arabian,5,Qualifying
+27,HUL,Kick Sauber,88.782,,,18.0,2025,Saudi Arabian,5,Qualifying
+31,OCO,Haas F1 Team,89.092,,,19.0,2025,Saudi Arabian,5,Qualifying
+5,BOR,Kick Sauber,89.462,,,20.0,2025,Saudi Arabian,5,Qualifying
+1,VER,Red Bull Racing,86.87,86.643,86.204,1.0,2025,Miami,6,Qualifying
+4,NOR,McLaren,86.955,86.499,86.269,2.0,2025,Miami,6,Qualifying
+12,ANT,Mercedes,87.077,86.606,86.271,3.0,2025,Miami,6,Qualifying
+81,PIA,McLaren,87.006,86.269,86.375,4.0,2025,Miami,6,Qualifying
+63,RUS,Mercedes,87.014,86.575,86.385,5.0,2025,Miami,6,Qualifying
+55,SAI,Williams,87.098,86.847,86.569,6.0,2025,Miami,6,Qualifying
+23,ALB,Williams,87.042,86.855,86.682,7.0,2025,Miami,6,Qualifying
+16,LEC,Ferrari,87.417,86.948,86.754,8.0,2025,Miami,6,Qualifying
+31,OCO,Haas F1 Team,87.45,86.967,86.824,9.0,2025,Miami,6,Qualifying
+22,TSU,Red Bull Racing,87.298,86.959,86.943,10.0,2025,Miami,6,Qualifying
+6,HAD,Racing Bulls,87.301,86.987,,11.0,2025,Miami,6,Qualifying
+44,HAM,Ferrari,87.279,87.006,,12.0,2025,Miami,6,Qualifying
+5,BOR,Kick Sauber,87.343,87.151,,13.0,2025,Miami,6,Qualifying
+7,DOO,Alpine,87.422,87.186,,14.0,2025,Miami,6,Qualifying
+30,LAW,Racing Bulls,87.444,87.363,,15.0,2025,Miami,6,Qualifying
+27,HUL,Kick Sauber,87.473,,,16.0,2025,Miami,6,Qualifying
+14,ALO,Aston Martin,87.604,,,17.0,2025,Miami,6,Qualifying
+10,GAS,Alpine,87.71,,,18.0,2025,Miami,6,Qualifying
+18,STR,Aston Martin,87.83,,,19.0,2025,Miami,6,Qualifying
+87,BEA,Haas F1 Team,87.999,,,20.0,2025,Miami,6,Qualifying
+81,PIA,McLaren,75.5,75.214,74.67,1.0,2025,Emilia Romagna,7,Qualifying
+1,VER,Red Bull Racing,75.175,75.394,74.704,2.0,2025,Emilia Romagna,7,Qualifying
+63,RUS,Mercedes,75.852,75.334,74.807,3.0,2025,Emilia Romagna,7,Qualifying
+4,NOR,McLaren,75.894,75.261,74.962,4.0,2025,Emilia Romagna,7,Qualifying
+14,ALO,Aston Martin,75.695,75.442,75.431,5.0,2025,Emilia Romagna,7,Qualifying
+55,SAI,Williams,75.987,75.198,75.432,6.0,2025,Emilia Romagna,7,Qualifying
+23,ALB,Williams,76.123,75.521,75.473,7.0,2025,Emilia Romagna,7,Qualifying
+18,STR,Aston Martin,75.817,75.497,75.581,8.0,2025,Emilia Romagna,7,Qualifying
+6,HAD,Racing Bulls,76.253,75.51,75.746,9.0,2025,Emilia Romagna,7,Qualifying
+10,GAS,Alpine,75.937,75.505,75.787,10.0,2025,Emilia Romagna,7,Qualifying
+16,LEC,Ferrari,76.108,75.604,,11.0,2025,Emilia Romagna,7,Qualifying
+44,HAM,Ferrari,76.163,75.765,,12.0,2025,Emilia Romagna,7,Qualifying
+12,ANT,Mercedes,75.943,75.772,,13.0,2025,Emilia Romagna,7,Qualifying
+5,BOR,Kick Sauber,76.34,76.26,,14.0,2025,Emilia Romagna,7,Qualifying
+43,COL,Alpine,76.256,,,15.0,2025,Emilia Romagna,7,Qualifying
+30,LAW,Racing Bulls,76.379,,,16.0,2025,Emilia Romagna,7,Qualifying
+27,HUL,Kick Sauber,76.518,,,17.0,2025,Emilia Romagna,7,Qualifying
+31,OCO,Haas F1 Team,76.613,,,18.0,2025,Emilia Romagna,7,Qualifying
+87,BEA,Haas F1 Team,76.918,,,19.0,2025,Emilia Romagna,7,Qualifying
+22,TSU,Red Bull Racing,,,,20.0,2025,Emilia Romagna,7,Qualifying
+4,NOR,McLaren,71.285,70.57,69.954,1.0,2025,Monaco,8,Qualifying
+16,LEC,Ferrari,71.229,70.581,70.063,2.0,2025,Monaco,8,Qualifying
+81,PIA,McLaren,71.308,70.858,70.129,3.0,2025,Monaco,8,Qualifying
+44,HAM,Ferrari,71.575,70.883,70.382,4.0,2025,Monaco,8,Qualifying
+1,VER,Red Bull Racing,71.431,70.875,70.669,5.0,2025,Monaco,8,Qualifying
+6,HAD,Racing Bulls,71.811,71.04,70.923,6.0,2025,Monaco,8,Qualifying
+14,ALO,Aston Martin,71.674,71.182,70.924,7.0,2025,Monaco,8,Qualifying
+31,OCO,Haas F1 Team,71.839,71.262,70.942,8.0,2025,Monaco,8,Qualifying
+30,LAW,Racing Bulls,71.818,71.25,71.129,9.0,2025,Monaco,8,Qualifying
+23,ALB,Williams,71.629,70.732,71.213,10.0,2025,Monaco,8,Qualifying
+55,SAI,Williams,71.707,71.362,,11.0,2025,Monaco,8,Qualifying
+22,TSU,Red Bull Racing,71.8,71.415,,12.0,2025,Monaco,8,Qualifying
+27,HUL,Kick Sauber,71.871,71.596,,13.0,2025,Monaco,8,Qualifying
+63,RUS,Mercedes,71.507,,,14.0,2025,Monaco,8,Qualifying
+12,ANT,Mercedes,71.88,,,15.0,2025,Monaco,8,Qualifying
+5,BOR,Kick Sauber,71.902,,,16.0,2025,Monaco,8,Qualifying
+87,BEA,Haas F1 Team,71.979,,,17.0,2025,Monaco,8,Qualifying
+10,GAS,Alpine,71.994,,,18.0,2025,Monaco,8,Qualifying
+18,STR,Aston Martin,72.563,,,19.0,2025,Monaco,8,Qualifying
+43,COL,Alpine,72.597,,,20.0,2025,Monaco,8,Qualifying
+81,PIA,McLaren,72.551,71.998,71.546,1.0,2025,Spanish,9,Qualifying
+4,NOR,McLaren,72.799,72.056,71.755,2.0,2025,Spanish,9,Qualifying
+1,VER,Red Bull Racing,72.798,72.358,71.848,3.0,2025,Spanish,9,Qualifying
+63,RUS,Mercedes,72.806,72.407,71.848,4.0,2025,Spanish,9,Qualifying
+44,HAM,Ferrari,73.058,72.447,72.045,5.0,2025,Spanish,9,Qualifying
+12,ANT,Mercedes,72.815,72.585,72.111,6.0,2025,Spanish,9,Qualifying
+16,LEC,Ferrari,73.014,72.495,72.131,7.0,2025,Spanish,9,Qualifying
+10,GAS,Alpine,73.081,72.611,72.199,8.0,2025,Spanish,9,Qualifying
+6,HAD,Racing Bulls,73.139,72.461,72.252,9.0,2025,Spanish,9,Qualifying
+14,ALO,Aston Martin,73.102,72.523,72.284,10.0,2025,Spanish,9,Qualifying
+23,ALB,Williams,73.044,72.641,,11.0,2025,Spanish,9,Qualifying
+5,BOR,Kick Sauber,73.045,72.756,,12.0,2025,Spanish,9,Qualifying
+30,LAW,Racing Bulls,73.039,72.763,,13.0,2025,Spanish,9,Qualifying
+18,STR,Aston Martin,73.038,73.058,,14.0,2025,Spanish,9,Qualifying
+87,BEA,Haas F1 Team,73.074,73.315,,15.0,2025,Spanish,9,Qualifying
+27,HUL,Kick Sauber,73.19,,,16.0,2025,Spanish,9,Qualifying
+31,OCO,Haas F1 Team,73.201,,,17.0,2025,Spanish,9,Qualifying
+55,SAI,Williams,73.203,,,18.0,2025,Spanish,9,Qualifying
+43,COL,Alpine,73.334,,,19.0,2025,Spanish,9,Qualifying
+22,TSU,Red Bull Racing,73.385,,,20.0,2025,Spanish,9,Qualifying
+63,RUS,Mercedes,72.075,71.57,70.899,1.0,2025,Canadian,10,Qualifying
+1,VER,Red Bull Racing,72.054,71.638,71.059,2.0,2025,Canadian,10,Qualifying
+81,PIA,McLaren,71.939,71.715,71.12,3.0,2025,Canadian,10,Qualifying
+12,ANT,Mercedes,72.279,71.974,71.391,4.0,2025,Canadian,10,Qualifying
+44,HAM,Ferrari,71.952,71.885,71.526,5.0,2025,Canadian,10,Qualifying
+14,ALO,Aston Martin,72.073,71.805,71.586,6.0,2025,Canadian,10,Qualifying
+4,NOR,McLaren,71.826,71.599,71.625,7.0,2025,Canadian,10,Qualifying
+16,LEC,Ferrari,72.038,71.626,71.682,8.0,2025,Canadian,10,Qualifying
+6,HAD,Racing Bulls,72.211,72.003,71.867,9.0,2025,Canadian,10,Qualifying
+23,ALB,Williams,72.09,71.892,71.907,10.0,2025,Canadian,10,Qualifying
+22,TSU,Red Bull Racing,72.334,72.102,,11.0,2025,Canadian,10,Qualifying
+43,COL,Alpine,72.234,72.142,,12.0,2025,Canadian,10,Qualifying
+27,HUL,Kick Sauber,72.323,72.183,,13.0,2025,Canadian,10,Qualifying
+87,BEA,Haas F1 Team,72.306,72.34,,14.0,2025,Canadian,10,Qualifying
+31,OCO,Haas F1 Team,72.378,72.634,,15.0,2025,Canadian,10,Qualifying
+5,BOR,Kick Sauber,72.385,,,16.0,2025,Canadian,10,Qualifying
+55,SAI,Williams,72.398,,,17.0,2025,Canadian,10,Qualifying
+18,STR,Aston Martin,72.517,,,18.0,2025,Canadian,10,Qualifying
+30,LAW,Racing Bulls,72.525,,,19.0,2025,Canadian,10,Qualifying
+10,GAS,Alpine,72.667,,,20.0,2025,Canadian,10,Qualifying
+4,NOR,McLaren,64.672,64.41,63.971,1.0,2025,Austrian,11,Qualifying
+16,LEC,Ferrari,65.197,64.734,64.492,2.0,2025,Austrian,11,Qualifying
+81,PIA,McLaren,64.966,64.556,64.554,3.0,2025,Austrian,11,Qualifying
+44,HAM,Ferrari,65.115,64.896,64.582,4.0,2025,Austrian,11,Qualifying
+63,RUS,Mercedes,65.189,64.86,64.763,5.0,2025,Austrian,11,Qualifying
+30,LAW,Racing Bulls,65.017,65.041,64.926,6.0,2025,Austrian,11,Qualifying
+1,VER,Red Bull Racing,65.106,64.836,64.929,7.0,2025,Austrian,11,Qualifying
+5,BOR,Kick Sauber,65.123,64.846,65.132,8.0,2025,Austrian,11,Qualifying
+12,ANT,Mercedes,65.178,65.052,65.276,9.0,2025,Austrian,11,Qualifying
+10,GAS,Alpine,65.054,64.846,65.649,10.0,2025,Austrian,11,Qualifying
+14,ALO,Aston Martin,65.197,65.128,,11.0,2025,Austrian,11,Qualifying
+23,ALB,Williams,65.143,65.205,,12.0,2025,Austrian,11,Qualifying
+6,HAD,Racing Bulls,65.063,65.226,,13.0,2025,Austrian,11,Qualifying
+43,COL,Alpine,65.278,65.288,,14.0,2025,Austrian,11,Qualifying
+87,BEA,Haas F1 Team,65.218,65.312,,15.0,2025,Austrian,11,Qualifying
+18,STR,Aston Martin,65.329,,,16.0,2025,Austrian,11,Qualifying
+31,OCO,Haas F1 Team,65.364,,,17.0,2025,Austrian,11,Qualifying
+22,TSU,Red Bull Racing,65.369,,,18.0,2025,Austrian,11,Qualifying
+55,SAI,Williams,65.582,,,19.0,2025,Austrian,11,Qualifying
+27,HUL,Kick Sauber,65.606,,,20.0,2025,Austrian,11,Qualifying
+1,VER,Red Bull Racing,85.886,85.316,84.892,1.0,2025,British,12,Qualifying
+81,PIA,McLaren,85.963,85.316,84.995,2.0,2025,British,12,Qualifying
+4,NOR,McLaren,86.123,85.231,85.01,3.0,2025,British,12,Qualifying
+63,RUS,Mercedes,86.236,85.637,85.029,4.0,2025,British,12,Qualifying
+44,HAM,Ferrari,86.296,85.084,85.095,5.0,2025,British,12,Qualifying
+16,LEC,Ferrari,86.186,85.133,85.121,6.0,2025,British,12,Qualifying
+12,ANT,Mercedes,86.265,85.62,85.374,7.0,2025,British,12,Qualifying
+87,BEA,Haas F1 Team,86.005,85.534,85.471,8.0,2025,British,12,Qualifying
+14,ALO,Aston Martin,86.108,85.593,85.621,9.0,2025,British,12,Qualifying
+10,GAS,Alpine,86.328,85.711,85.785,10.0,2025,British,12,Qualifying
+55,SAI,Williams,86.175,85.746,,11.0,2025,British,12,Qualifying
+22,TSU,Red Bull Racing,86.275,85.826,,12.0,2025,British,12,Qualifying
+6,HAD,Racing Bulls,86.177,85.864,,13.0,2025,British,12,Qualifying
+23,ALB,Williams,86.093,85.889,,14.0,2025,British,12,Qualifying
+31,OCO,Haas F1 Team,86.136,85.95,,15.0,2025,British,12,Qualifying
+30,LAW,Racing Bulls,86.44,,,16.0,2025,British,12,Qualifying
+5,BOR,Kick Sauber,86.446,,,17.0,2025,British,12,Qualifying
+18,STR,Aston Martin,86.504,,,18.0,2025,British,12,Qualifying
+27,HUL,Kick Sauber,86.574,,,19.0,2025,British,12,Qualifying
+43,COL,Alpine,87.06,,,20.0,2025,British,12,Qualifying
+4,NOR,McLaren,101.01,100.715,100.562,1.0,2025,Belgian,13,Qualifying
+81,PIA,McLaren,101.201,100.626,100.647,2.0,2025,Belgian,13,Qualifying
+16,LEC,Ferrari,101.635,101.084,100.9,3.0,2025,Belgian,13,Qualifying
+1,VER,Red Bull Racing,101.334,100.951,100.903,4.0,2025,Belgian,13,Qualifying
+23,ALB,Williams,101.772,101.505,101.201,5.0,2025,Belgian,13,Qualifying
+63,RUS,Mercedes,101.784,101.254,101.26,6.0,2025,Belgian,13,Qualifying
+22,TSU,Red Bull Racing,101.84,101.245,101.284,7.0,2025,Belgian,13,Qualifying
+6,HAD,Racing Bulls,101.572,101.281,101.31,8.0,2025,Belgian,13,Qualifying
+30,LAW,Racing Bulls,101.748,101.297,101.328,9.0,2025,Belgian,13,Qualifying
+5,BOR,Kick Sauber,101.908,101.336,102.387,10.0,2025,Belgian,13,Qualifying
+31,OCO,Haas F1 Team,101.884,101.525,,11.0,2025,Belgian,13,Qualifying
+87,BEA,Haas F1 Team,101.617,101.617,,12.0,2025,Belgian,13,Qualifying
+10,GAS,Alpine,101.8,101.633,,13.0,2025,Belgian,13,Qualifying
+27,HUL,Kick Sauber,101.844,101.707,,14.0,2025,Belgian,13,Qualifying
+55,SAI,Williams,101.691,101.758,,15.0,2025,Belgian,13,Qualifying
+44,HAM,Ferrari,101.939,,,16.0,2025,Belgian,13,Qualifying
+43,COL,Alpine,102.022,,,17.0,2025,Belgian,13,Qualifying
+12,ANT,Mercedes,102.139,,,18.0,2025,Belgian,13,Qualifying
+14,ALO,Aston Martin,102.385,,,19.0,2025,Belgian,13,Qualifying
+18,STR,Aston Martin,102.502,,,20.0,2025,Belgian,13,Qualifying
+16,LEC,Ferrari,75.582,75.455,75.372,1.0,2025,Hungarian,14,Qualifying
+81,PIA,McLaren,75.211,74.941,75.398,2.0,2025,Hungarian,14,Qualifying
+4,NOR,McLaren,75.523,74.89,75.413,3.0,2025,Hungarian,14,Qualifying
+63,RUS,Mercedes,75.627,75.201,75.425,4.0,2025,Hungarian,14,Qualifying
+14,ALO,Aston Martin,75.281,75.395,75.481,5.0,2025,Hungarian,14,Qualifying
+18,STR,Aston Martin,75.673,75.129,75.498,6.0,2025,Hungarian,14,Qualifying
+5,BOR,Kick Sauber,75.586,75.687,75.725,7.0,2025,Hungarian,14,Qualifying
+1,VER,Red Bull Racing,75.736,75.547,75.728,8.0,2025,Hungarian,14,Qualifying
+30,LAW,Racing Bulls,75.849,75.63,75.821,9.0,2025,Hungarian,14,Qualifying
+6,HAD,Racing Bulls,75.516,75.469,75.915,10.0,2025,Hungarian,14,Qualifying
+87,BEA,Haas F1 Team,75.75,75.694,,11.0,2025,Hungarian,14,Qualifying
+44,HAM,Ferrari,75.733,75.702,,12.0,2025,Hungarian,14,Qualifying
+55,SAI,Williams,75.652,75.781,,13.0,2025,Hungarian,14,Qualifying
+43,COL,Alpine,75.875,76.159,,14.0,2025,Hungarian,14,Qualifying
+12,ANT,Mercedes,75.782,76.386,,15.0,2025,Hungarian,14,Qualifying
+22,TSU,Red Bull Racing,75.899,,,16.0,2025,Hungarian,14,Qualifying
+10,GAS,Alpine,75.966,,,17.0,2025,Hungarian,14,Qualifying
+31,OCO,Haas F1 Team,76.023,,,18.0,2025,Hungarian,14,Qualifying
+27,HUL,Kick Sauber,76.081,,,19.0,2025,Hungarian,14,Qualifying
+23,ALB,Williams,76.223,,,20.0,2025,Hungarian,14,Qualifying
+81,PIA,McLaren,69.338,68.964,68.662,1.0,2025,Dutch,15,Qualifying
+4,NOR,McLaren,69.469,68.874,68.674,2.0,2025,Dutch,15,Qualifying
+1,VER,Red Bull Racing,69.696,69.122,68.925,3.0,2025,Dutch,15,Qualifying
+6,HAD,Racing Bulls,69.966,69.439,69.208,4.0,2025,Dutch,15,Qualifying
+63,RUS,Mercedes,69.676,69.313,69.255,5.0,2025,Dutch,15,Qualifying
+16,LEC,Ferrari,69.906,69.304,69.34,6.0,2025,Dutch,15,Qualifying
+44,HAM,Ferrari,69.9,69.261,69.39,7.0,2025,Dutch,15,Qualifying
+30,LAW,Racing Bulls,69.779,69.383,69.5,8.0,2025,Dutch,15,Qualifying
+55,SAI,Williams,69.98,69.472,69.505,9.0,2025,Dutch,15,Qualifying
+14,ALO,Aston Martin,69.95,69.366,69.63,10.0,2025,Dutch,15,Qualifying
+12,ANT,Mercedes,69.845,69.493,,11.0,2025,Dutch,15,Qualifying
+22,TSU,Red Bull Racing,69.954,69.622,,12.0,2025,Dutch,15,Qualifying
+5,BOR,Kick Sauber,70.037,69.622,,13.0,2025,Dutch,15,Qualifying
+10,GAS,Alpine,69.894,69.637,,14.0,2025,Dutch,15,Qualifying
+23,ALB,Williams,69.792,69.652,,15.0,2025,Dutch,15,Qualifying
+43,COL,Alpine,70.104,,,16.0,2025,Dutch,15,Qualifying
+27,HUL,Kick Sauber,70.195,,,17.0,2025,Dutch,15,Qualifying
+31,OCO,Haas F1 Team,70.197,,,18.0,2025,Dutch,15,Qualifying
+87,BEA,Haas F1 Team,70.262,,,19.0,2025,Dutch,15,Qualifying
+18,STR,Aston Martin,,,,20.0,2025,Dutch,15,Qualifying
+1,VER,Red Bull Racing,79.455,79.14,78.792,1.0,2025,Italian,16,Qualifying
+4,NOR,McLaren,79.517,79.293,78.869,2.0,2025,Italian,16,Qualifying
+81,PIA,McLaren,79.711,79.286,78.982,3.0,2025,Italian,16,Qualifying
+16,LEC,Ferrari,79.689,79.31,79.007,4.0,2025,Italian,16,Qualifying
+44,HAM,Ferrari,79.765,79.371,79.124,5.0,2025,Italian,16,Qualifying
+63,RUS,Mercedes,79.414,79.287,79.157,6.0,2025,Italian,16,Qualifying
+12,ANT,Mercedes,79.747,79.245,79.2,7.0,2025,Italian,16,Qualifying
+5,BOR,Kick Sauber,79.688,79.323,79.39,8.0,2025,Italian,16,Qualifying
+14,ALO,Aston Martin,79.658,79.362,79.424,9.0,2025,Italian,16,Qualifying
+22,TSU,Red Bull Racing,79.619,79.433,79.519,10.0,2025,Italian,16,Qualifying
+87,BEA,Haas F1 Team,79.688,79.446,,11.0,2025,Italian,16,Qualifying
+27,HUL,Kick Sauber,79.777,79.498,,12.0,2025,Italian,16,Qualifying
+55,SAI,Williams,79.644,79.528,,13.0,2025,Italian,16,Qualifying
+23,ALB,Williams,79.837,79.583,,14.0,2025,Italian,16,Qualifying
+31,OCO,Haas F1 Team,79.816,79.707,,15.0,2025,Italian,16,Qualifying
+6,HAD,Racing Bulls,79.917,,,16.0,2025,Italian,16,Qualifying
+18,STR,Aston Martin,79.948,,,17.0,2025,Italian,16,Qualifying
+43,COL,Alpine,79.992,,,18.0,2025,Italian,16,Qualifying
+10,GAS,Alpine,80.103,,,19.0,2025,Italian,16,Qualifying
+30,LAW,Racing Bulls,80.279,,,20.0,2025,Italian,16,Qualifying
+1,VER,Red Bull Racing,101.331,101.255,101.117,1.0,2025,Azerbaijan,17,Qualifying
+55,SAI,Williams,102.635,101.675,101.595,2.0,2025,Azerbaijan,17,Qualifying
+30,LAW,Racing Bulls,102.257,101.537,101.707,3.0,2025,Azerbaijan,17,Qualifying
+12,ANT,Mercedes,102.247,101.464,101.717,4.0,2025,Azerbaijan,17,Qualifying
+63,RUS,Mercedes,101.646,101.455,102.07,5.0,2025,Azerbaijan,17,Qualifying
+22,TSU,Red Bull Racing,102.347,101.788,102.143,6.0,2025,Azerbaijan,17,Qualifying
+4,NOR,McLaren,101.322,101.396,102.239,7.0,2025,Azerbaijan,17,Qualifying
+6,HAD,Racing Bulls,101.656,101.647,102.372,8.0,2025,Azerbaijan,17,Qualifying
+81,PIA,McLaren,101.839,101.414,,9.0,2025,Azerbaijan,17,Qualifying
+16,LEC,Ferrari,101.458,101.519,,10.0,2025,Azerbaijan,17,Qualifying
+14,ALO,Aston Martin,102.211,101.857,,11.0,2025,Azerbaijan,17,Qualifying
+44,HAM,Ferrari,101.821,102.183,,12.0,2025,Azerbaijan,17,Qualifying
+5,BOR,Kick Sauber,102.511,102.277,,13.0,2025,Azerbaijan,17,Qualifying
+18,STR,Aston Martin,102.101,103.061,,14.0,2025,Azerbaijan,17,Qualifying
+87,BEA,Haas F1 Team,102.666,,,15.0,2025,Azerbaijan,17,Qualifying
+43,COL,Alpine,102.779,,,16.0,2025,Azerbaijan,17,Qualifying
+27,HUL,Kick Sauber,102.916,,,17.0,2025,Azerbaijan,17,Qualifying
+10,GAS,Alpine,103.139,,,18.0,2025,Azerbaijan,17,Qualifying
+23,ALB,Williams,103.778,,,19.0,2025,Azerbaijan,17,Qualifying
+31,OCO,Haas F1 Team,,,,20.0,2025,Azerbaijan,17,Qualifying
+63,RUS,Mercedes,89.928,89.562,89.158,1.0,2025,Singapore,18,Qualifying
+1,VER,Red Bull Racing,90.028,89.572,89.34,2.0,2025,Singapore,18,Qualifying
+81,PIA,McLaren,90.313,89.813,89.524,3.0,2025,Singapore,18,Qualifying
+12,ANT,Mercedes,90.036,89.649,89.537,4.0,2025,Singapore,18,Qualifying
+4,NOR,McLaren,89.932,89.809,89.586,5.0,2025,Singapore,18,Qualifying
+44,HAM,Ferrari,89.765,89.936,89.688,6.0,2025,Singapore,18,Qualifying
+16,LEC,Ferrari,90.37,89.914,89.784,7.0,2025,Singapore,18,Qualifying
+6,HAD,Racing Bulls,90.214,90.016,89.846,8.0,2025,Singapore,18,Qualifying
+87,BEA,Haas F1 Team,90.42,90.076,89.868,9.0,2025,Singapore,18,Qualifying
+14,ALO,Aston Martin,90.745,90.054,89.955,10.0,2025,Singapore,18,Qualifying
+27,HUL,Kick Sauber,90.715,90.141,,11.0,2025,Singapore,18,Qualifying
+30,LAW,Racing Bulls,90.681,90.32,,12.0,2025,Singapore,18,Qualifying
+22,TSU,Red Bull Racing,90.574,90.353,,13.0,2025,Singapore,18,Qualifying
+5,BOR,Kick Sauber,90.82,,,14.0,2025,Singapore,18,Qualifying
+18,STR,Aston Martin,90.949,,,15.0,2025,Singapore,18,Qualifying
+43,COL,Alpine,90.982,,,16.0,2025,Singapore,18,Qualifying
+31,OCO,Haas F1 Team,90.989,,,17.0,2025,Singapore,18,Qualifying
+10,GAS,Alpine,91.261,,,18.0,2025,Singapore,18,Qualifying
+23,ALB,Williams,,,,19.0,2025,Singapore,18,Qualifying
+55,SAI,Williams,,,,20.0,2025,Singapore,18,Qualifying
+1,VER,Red Bull Racing,93.207,92.701,92.51,1.0,2025,United States,19,Qualifying
+4,NOR,McLaren,93.843,92.876,92.801,2.0,2025,United States,19,Qualifying
+16,LEC,Ferrari,93.525,92.869,92.807,3.0,2025,United States,19,Qualifying
+63,RUS,Mercedes,93.311,93.058,92.826,4.0,2025,United States,19,Qualifying
+44,HAM,Ferrari,93.685,92.914,92.912,5.0,2025,United States,19,Qualifying
+81,PIA,McLaren,93.746,93.228,93.084,6.0,2025,United States,19,Qualifying
+12,ANT,Mercedes,93.501,93.044,93.114,7.0,2025,United States,19,Qualifying
+87,BEA,Haas F1 Team,93.921,93.238,93.139,8.0,2025,United States,19,Qualifying
+55,SAI,Williams,93.739,93.124,93.15,9.0,2025,United States,19,Qualifying
+14,ALO,Aston Martin,93.741,93.237,93.16,10.0,2025,United States,19,Qualifying
+27,HUL,Kick Sauber,93.551,93.334,,11.0,2025,United States,19,Qualifying
+30,LAW,Racing Bulls,93.549,93.36,,12.0,2025,United States,19,Qualifying
+22,TSU,Red Bull Racing,93.935,93.466,,13.0,2025,United States,19,Qualifying
+10,GAS,Alpine,93.599,93.651,,14.0,2025,United States,19,Qualifying
+43,COL,Alpine,94.039,94.044,,15.0,2025,United States,19,Qualifying
+5,BOR,Kick Sauber,94.125,,,16.0,2025,United States,19,Qualifying
+31,OCO,Haas F1 Team,94.136,,,17.0,2025,United States,19,Qualifying
+18,STR,Aston Martin,94.54,,,18.0,2025,United States,19,Qualifying
+23,ALB,Williams,94.69,,,19.0,2025,United States,19,Qualifying
+6,HAD,Racing Bulls,,,,20.0,2025,United States,19,Qualifying
+4,NOR,McLaren,76.899,76.252,75.586,1.0,2025,Mexico City,20,Qualifying
+16,LEC,Ferrari,77.024,76.658,75.848,2.0,2025,Mexico City,20,Qualifying
+44,HAM,Ferrari,76.736,76.458,75.938,3.0,2025,Mexico City,20,Qualifying
+63,RUS,Mercedes,76.895,76.537,76.034,4.0,2025,Mexico City,20,Qualifying
+1,VER,Red Bull Racing,77.076,76.605,76.07,5.0,2025,Mexico City,20,Qualifying
+12,ANT,Mercedes,77.291,76.773,76.118,6.0,2025,Mexico City,20,Qualifying
+55,SAI,Williams,77.171,76.607,76.172,7.0,2025,Mexico City,20,Qualifying
+81,PIA,McLaren,77.158,76.737,76.174,8.0,2025,Mexico City,20,Qualifying
+6,HAD,Racing Bulls,76.733,76.804,76.252,9.0,2025,Mexico City,20,Qualifying
+87,BEA,Haas F1 Team,77.04,76.787,76.46,10.0,2025,Mexico City,20,Qualifying
+22,TSU,Red Bull Racing,77.234,76.816,,11.0,2025,Mexico City,20,Qualifying
+31,OCO,Haas F1 Team,76.948,76.837,,12.0,2025,Mexico City,20,Qualifying
+27,HUL,Kick Sauber,77.251,77.016,,13.0,2025,Mexico City,20,Qualifying
+14,ALO,Aston Martin,77.232,77.103,,14.0,2025,Mexico City,20,Qualifying
+30,LAW,Racing Bulls,76.961,78.072,,15.0,2025,Mexico City,20,Qualifying
+5,BOR,Kick Sauber,77.412,,,16.0,2025,Mexico City,20,Qualifying
+23,ALB,Williams,77.49,,,17.0,2025,Mexico City,20,Qualifying
+10,GAS,Alpine,77.546,,,18.0,2025,Mexico City,20,Qualifying
+18,STR,Aston Martin,77.606,,,19.0,2025,Mexico City,20,Qualifying
+43,COL,Alpine,77.67,,,20.0,2025,Mexico City,20,Qualifying
+4,NOR,McLaren,69.656,69.616,69.511,1.0,2025,São Paulo,21,Qualifying
+12,ANT,Mercedes,70.192,69.774,69.685,2.0,2025,São Paulo,21,Qualifying
+16,LEC,Ferrari,69.934,69.801,69.805,3.0,2025,São Paulo,21,Qualifying
+81,PIA,McLaren,69.928,69.835,69.886,4.0,2025,São Paulo,21,Qualifying
+6,HAD,Racing Bulls,70.083,69.97,69.931,5.0,2025,São Paulo,21,Qualifying
+63,RUS,Mercedes,69.935,69.88,69.942,6.0,2025,São Paulo,21,Qualifying
+30,LAW,Racing Bulls,70.108,69.95,69.962,7.0,2025,São Paulo,21,Qualifying
+87,BEA,Haas F1 Team,69.891,69.755,69.977,8.0,2025,São Paulo,21,Qualifying
+10,GAS,Alpine,69.885,69.857,70.002,9.0,2025,São Paulo,21,Qualifying
+27,HUL,Kick Sauber,70.337,69.985,70.039,10.0,2025,São Paulo,21,Qualifying
+14,ALO,Aston Martin,70.181,70.001,,11.0,2025,São Paulo,21,Qualifying
+23,ALB,Williams,70.115,70.053,,12.0,2025,São Paulo,21,Qualifying
+44,HAM,Ferrari,70.016,70.1,,13.0,2025,São Paulo,21,Qualifying
+18,STR,Aston Martin,70.041,70.161,,14.0,2025,São Paulo,21,Qualifying
+55,SAI,Williams,70.184,70.472,,15.0,2025,São Paulo,21,Qualifying
+1,VER,Red Bull Racing,70.403,,,16.0,2025,São Paulo,21,Qualifying
+31,OCO,Haas F1 Team,70.438,,,17.0,2025,São Paulo,21,Qualifying
+43,COL,Alpine,70.632,,,18.0,2025,São Paulo,21,Qualifying
+22,TSU,Red Bull Racing,70.711,,,19.0,2025,São Paulo,21,Qualifying
+5,BOR,Kick Sauber,,,,,2025,São Paulo,21,Qualifying
+4,NOR,McLaren,115.473,111.379,107.934,1.0,2025,Las Vegas,22,Qualifying
+1,VER,Red Bull Racing,113.458,111.593,108.257,2.0,2025,Las Vegas,22,Qualifying
+55,SAI,Williams,114.873,111.144,108.296,3.0,2025,Las Vegas,22,Qualifying
+63,RUS,Mercedes,113.144,110.935,108.803,4.0,2025,Las Vegas,22,Qualifying
+81,PIA,McLaren,114.544,112.126,108.961,5.0,2025,Las Vegas,22,Qualifying
+30,LAW,Racing Bulls,114.828,111.621,109.062,6.0,2025,Las Vegas,22,Qualifying
+14,ALO,Aston Martin,113.739,111.865,109.466,7.0,2025,Las Vegas,22,Qualifying
+6,HAD,Racing Bulls,115.613,111.12,109.554,8.0,2025,Las Vegas,22,Qualifying
+16,LEC,Ferrari,114.814,111.952,109.872,9.0,2025,Las Vegas,22,Qualifying
+10,GAS,Alpine,114.432,111.76,111.54,10.0,2025,Las Vegas,22,Qualifying
+27,HUL,Kick Sauber,114.555,112.781,,11.0,2025,Las Vegas,22,Qualifying
+18,STR,Aston Martin,114.416,112.85,,12.0,2025,Las Vegas,22,Qualifying
+31,OCO,Haas F1 Team,114.635,112.987,,13.0,2025,Las Vegas,22,Qualifying
+87,BEA,Haas F1 Team,116.016,113.094,,14.0,2025,Las Vegas,22,Qualifying
+43,COL,Alpine,114.847,113.683,,15.0,2025,Las Vegas,22,Qualifying
+23,ALB,Williams,116.22,,,16.0,2025,Las Vegas,22,Qualifying
+12,ANT,Mercedes,116.314,,,17.0,2025,Las Vegas,22,Qualifying
+5,BOR,Kick Sauber,116.674,,,18.0,2025,Las Vegas,22,Qualifying
+22,TSU,Red Bull Racing,116.798,,,19.0,2025,Las Vegas,22,Qualifying
+44,HAM,Ferrari,117.115,,,20.0,2025,Las Vegas,22,Qualifying
+81,PIA,McLaren,80.234,79.65,79.387,1.0,2025,Qatar,23,Qualifying
+4,NOR,McLaren,80.157,79.861,79.495,2.0,2025,Qatar,23,Qualifying
+1,VER,Red Bull Racing,80.472,79.985,79.651,3.0,2025,Qatar,23,Qualifying
+63,RUS,Mercedes,80.074,80.186,79.662,4.0,2025,Qatar,23,Qualifying
+12,ANT,Mercedes,80.576,80.084,79.846,5.0,2025,Qatar,23,Qualifying
+6,HAD,Racing Bulls,80.603,80.35,80.114,6.0,2025,Qatar,23,Qualifying
+55,SAI,Williams,80.52,80.251,80.287,7.0,2025,Qatar,23,Qualifying
+14,ALO,Aston Martin,80.598,80.219,80.418,8.0,2025,Qatar,23,Qualifying
+10,GAS,Alpine,80.681,80.324,80.477,9.0,2025,Qatar,23,Qualifying
+16,LEC,Ferrari,80.564,80.343,80.561,10.0,2025,Qatar,23,Qualifying
+27,HUL,Kick Sauber,80.63,80.353,,11.0,2025,Qatar,23,Qualifying
+30,LAW,Racing Bulls,80.539,80.433,,12.0,2025,Qatar,23,Qualifying
+87,BEA,Haas F1 Team,80.548,80.438,,13.0,2025,Qatar,23,Qualifying
+5,BOR,Kick Sauber,80.653,80.534,,14.0,2025,Qatar,23,Qualifying
+23,ALB,Williams,80.629,80.629,,15.0,2025,Qatar,23,Qualifying
+22,TSU,Red Bull Racing,80.761,,,16.0,2025,Qatar,23,Qualifying
+31,OCO,Haas F1 Team,80.864,,,17.0,2025,Qatar,23,Qualifying
+44,HAM,Ferrari,80.907,,,18.0,2025,Qatar,23,Qualifying
+18,STR,Aston Martin,81.058,,,19.0,2025,Qatar,23,Qualifying
+43,COL,Alpine,81.137,,,20.0,2025,Qatar,23,Qualifying
+1,VER,Red Bull Racing,82.877,82.752,82.207,1.0,2025,Abu Dhabi,24,Qualifying
+4,NOR,McLaren,83.178,82.804,82.408,2.0,2025,Abu Dhabi,24,Qualifying
+81,PIA,McLaren,82.605,83.021,82.437,3.0,2025,Abu Dhabi,24,Qualifying
+63,RUS,Mercedes,83.247,82.73,82.645,4.0,2025,Abu Dhabi,24,Qualifying
+16,LEC,Ferrari,83.163,82.948,82.73,5.0,2025,Abu Dhabi,24,Qualifying
+14,ALO,Aston Martin,83.071,82.861,82.902,6.0,2025,Abu Dhabi,24,Qualifying
+5,BOR,Kick Sauber,83.374,82.874,82.904,7.0,2025,Abu Dhabi,24,Qualifying
+31,OCO,Haas F1 Team,83.334,83.023,82.913,8.0,2025,Abu Dhabi,24,Qualifying
+6,HAD,Racing Bulls,83.373,82.997,83.072,9.0,2025,Abu Dhabi,24,Qualifying
+22,TSU,Red Bull Racing,83.386,83.034,,10.0,2025,Abu Dhabi,24,Qualifying
+87,BEA,Haas F1 Team,83.254,83.041,,11.0,2025,Abu Dhabi,24,Qualifying
+55,SAI,Williams,83.187,83.042,,12.0,2025,Abu Dhabi,24,Qualifying
+30,LAW,Racing Bulls,83.265,83.077,,13.0,2025,Abu Dhabi,24,Qualifying
+12,ANT,Mercedes,82.894,83.08,,14.0,2025,Abu Dhabi,24,Qualifying
+18,STR,Aston Martin,83.316,83.097,,15.0,2025,Abu Dhabi,24,Qualifying
+44,HAM,Ferrari,83.394,,,16.0,2025,Abu Dhabi,24,Qualifying
+23,ALB,Williams,83.416,,,17.0,2025,Abu Dhabi,24,Qualifying
+27,HUL,Kick Sauber,83.45,,,18.0,2025,Abu Dhabi,24,Qualifying
+10,GAS,Alpine,83.468,,,19.0,2025,Abu Dhabi,24,Qualifying
+43,COL,Alpine,83.89,,,20.0,2025,Abu Dhabi,24,Qualifying
