@@ -108,7 +108,7 @@ st.subheader("Points Progression")
 if st.session_state.points_history:
     points_df = pd.DataFrame(st.session_state.points_history)
     points_df.set_index('round', inplace=True)
-    fig = px.line(points_df, markers=True, color_discrete_map=TEAM_COLORS)
+    fig = px.line(points_df, markers=True, color_discrete_map=TEAM_COLORS, labels={'variable': 'Team', 'value': 'Points', 'round': 'Event'})
     fig.update_layout(xaxis_title="Round", yaxis_title="Points")
     st.plotly_chart(fig, use_container_width=True)
 else:
