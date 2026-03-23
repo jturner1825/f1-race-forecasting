@@ -1,0 +1,12 @@
+[
+  { "id": "mclaren", "name": "McLaren" },
+  { "id": "red_bull", "name": "Red Bull" },
+  { "id": "mercedes", "name": "Mercedes" },
+  { "id": "ferrari", "name": "Ferrari" },
+  { "id": "williams", "name": "Williams" },
+  { "id": "aston_martin", "name": "Aston Martin" },
+  { "id": "kick_sauber", "name": "Kick Sauber" },
+  { "id": "racing_bulls", "name": "Racing Bulls" },
+  { "id": "haas", "name": "Haas" },
+  { "id": "alpine", "name": "Alpine" }
+]

@@ -1,0 +1,24 @@
+[
+  { "id": "NOR", "name": "Norris",     "rating": 90, "team_id": "mclaren" },
+  { "id": "VER", "name": "Verstappen", "rating": 96, "team_id": "red_bull" },
+  { "id": "PIA", "name": "Piastri",    "rating": 89, "team_id": "mclaren" },
+  { "id": "RUS", "name": "Russel",     "rating": 86, "team_id": "mercedes" },
+  { "id": "LEC", "name": "Leclerc",    "rating": 86, "team_id": "ferrari" },
+  { "id": "HAM", "name": "Hamilton",   "rating": 82, "team_id": "ferrari" },
+  { "id": "ANT", "name": "Antonelli",  "rating": 79, "team_id": "mercedes" },
+  { "id": "ALB", "name": "Albon",      "rating": 77, "team_id": "williams" },
+  { "id": "SAI", "name": "Sainz",      "rating": 78, "team_id": "williams" },
+  { "id": "ALO", "name": "Alonso",     "rating": 76, "team_id": "aston_martin" },
+
+  { "id": "HUL", "name": "Hulkenberg", "rating": 71, "team_id": "kick_sauber" },
+  { "id": "HAD", "name": "Hadjar",     "rating": 68, "team_id": "racing_bulls" },
+  { "id": "BEA", "name": "Bearman",    "rating": 68, "team_id": "haas" },
+  { "id": "LAW", "name": "Lawson",     "rating": 66, "team_id": "racing_bulls" },
+  { "id": "OCO", "name": "Ocon",       "rating": 69, "team_id": "haas" },
+  { "id": "STR", "name": "Stroll",     "rating": 70, "team_id": "aston_martin" },
+
+  { "id": "TSU", "name": "Tsunoda",    "rating": 67, "team_id": "red_bull" },
+  { "id": "GAS", "name": "Gasly",      "rating": 67, "team_id": "alpine" },
+  { "id": "BOR", "name": "Bortoleto",  "rating": 65, "team_id": "kick_sauber" },
+  { "id": "COL", "name": "Colapinto",  "rating": 62, "team_id": "alpine" }
+]
