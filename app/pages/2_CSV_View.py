@@ -23,7 +23,7 @@ selected_csv = st.selectbox("Select a CSV file to view:", options=[f.name for f 
 
 if selected_csv:
     df = pd.read_csv(FEATURES_DIR / selected_csv)
-    st.write(f"## {selected_csv}")
+    st.write(f"### {selected_csv}")
     st.write("##### Description")
     st.write(CSV_DESCRIPTIONS.get(selected_csv, "No description available for this file."))
     st.dataframe(df)
