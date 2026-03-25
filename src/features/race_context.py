@@ -48,5 +48,5 @@ def build_race_context():
 
 if __name__ == "__main__":
     race_context = build_race_context()
-    race_context.to_csv(FEATURES_DIR / 'race_context.csv', index=False)
+    race_context.to_csv(FEATURES_DIR / 'Race_context.csv', index=False)
     
