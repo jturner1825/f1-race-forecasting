@@ -59,8 +59,10 @@ The repository is organized as a modular analytics pipeline.
 f1-race-forecasting/
 │
 ├── data/
+|   ├── cache/
 │   ├── raw/
 │   ├── processed/
+|   └── features/
 │
 │
 ├── src/
@@ -69,7 +71,6 @@ f1-race-forecasting/
 │   ├── features/
 │   ├── models/
 │   ├── simulation/
-│   ├── data_access/
 │   └── common/
 ```
 
@@ -181,17 +182,13 @@ target = 1 if finish_position <= 10 else 0
 
 Predict expected finishing position.
 
-### DNF Probability
-
-Estimate probability of retirement.
-
 Models are trained using historical race data and evaluated using chronological train/test splits.
 
 Training scripts:
 
 ```
-src/models/train_points_classifier.py
-src/models/train_finish_regressor.py
+notebooks/finish_position_regressor.ipynb
+notebooks/team_consisteny_regressor.ipynb
 ```
 
 ---
@@ -307,7 +304,7 @@ Possible additions:
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/f1-race-forecasting.git
+git clone https://github.com/jturner1825/f1-race-forecasting.git
 cd f1-race-forecasting
 ```
 
@@ -361,6 +358,7 @@ python src/simulation/race_simulator.py
 data/
 |
 ├── raw/
+├── features/
 └── processed/
 
 src/
@@ -370,7 +368,6 @@ src/
 ├── features/      # Feature engineering
 ├── models/        # ML training & prediction
 ├── simulation/    # Race and season simulation
-├── data_access/   # Data loading abstraction layer
 └── common/        # Shared utilities
 ```
 
