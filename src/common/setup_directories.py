@@ -7,6 +7,7 @@ CACHE_DIR = PROJECT_ROOT / 'data' / 'cache'
 RAW_DIR = PROJECT_ROOT / 'data' / 'raw'
 PROCESSED_DIR = PROJECT_ROOT / 'data' / 'processed'
 FEATURES_DIR = PROJECT_ROOT / 'data' / 'features'
+MODELS_DIR = PROJECT_ROOT / 'src' / 'models' / 'data'
 
 # Data config
 START_YEAR = 2023
@@ -32,6 +33,11 @@ def setup_directories() -> None:
         FEATURES_DIR.mkdir(parents=True, exist_ok=True)
     except Exception as e:
         raise RuntimeError(f'Error occurred while creating {FEATURES_DIR}: {e}')
+    
+    try:
+        MODELS_DIR.mkdir(parents=True, exist_ok=True)
+    except Exception as e:
+        raise RuntimeError(f'Error occurred while creating {MODELS_DIR}: {e}')
 
     print('All directories created successfully!')
     
