@@ -67,5 +67,5 @@ if __name__ == "__main__":
     results_df = pd.read_csv(PROCESSED_DIR / 'Race_results_cleaned.csv')
     laps_df = pd.read_csv(PROCESSED_DIR / 'Race_laps_cleaned.csv')
     driver_form_df = build_driver_form(results_df, laps_df)
-    driver_form_df.to_csv(FEATURES_DIR / 'Driver_form.csv', index=False)
+    driver_form_df.to_csv(FEATURES_DIR / 'driver_features.csv', index=False)
     

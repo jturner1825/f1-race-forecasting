@@ -48,6 +48,6 @@ if __name__ == "__main__":
     laps_df = pd.read_csv(PROCESSED_DIR / 'Race_laps_cleaned.csv')
     
     team_form_df = build_team_performance(results_df, laps_df)
-    team_form_df.to_csv(FEATURES_DIR / 'Team_form.csv', index=False)
+    team_form_df.to_csv(FEATURES_DIR / 'team_features.csv', index=False)
     
     

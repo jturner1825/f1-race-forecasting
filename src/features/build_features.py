@@ -3,9 +3,9 @@ from src.common.setup_directories import PROCESSED_DIR, FEATURES_DIR
 
 def build_features():
     # Build featured dataframes & drop unnecessary columns
-    driver_form_df = pd.read_csv(FEATURES_DIR / 'Driver_form.csv').drop(columns=['Position', 'GridPosition', 'SessionType', 'Status', 'Finished', 'DriverNumber', 'TeamName', 'Event'])
-    team_form_df = pd.read_csv(FEATURES_DIR / 'Team_form.csv').drop(columns=['Position', 'GridPosition', 'SessionType', 'Status', 'Finished', 'DriverNumber', 'TeamName', 'Event'])
-    race_context_df = pd.read_csv(FEATURES_DIR / 'race_context.csv')
+    driver_form_df = pd.read_csv(FEATURES_DIR / 'driver_features.csv').drop(columns=['Position', 'GridPosition', 'SessionType', 'Status', 'Finished', 'DriverNumber', 'TeamName', 'Event'])
+    team_form_df = pd.read_csv(FEATURES_DIR / 'team_features.csv').drop(columns=['Position', 'GridPosition', 'SessionType', 'Status', 'Finished', 'DriverNumber', 'TeamName', 'Event'])
+    race_context_df = pd.read_csv(FEATURES_DIR / 'race_features.csv')
     
     # Create target dataframe
     target_df = pd.read_csv(PROCESSED_DIR / 'Race_results_cleaned.csv')

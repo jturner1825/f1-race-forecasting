@@ -12,6 +12,7 @@ from src.processing.clean_results import clean_race_results
 from src.processing.clean_session_data import clean_session_data
 from src.features.driver_form import build_driver_form
 from src.features.team_performance import build_team_performance
+from src.features.race_context import build_race_context
 
 
 def run_ingest():
@@ -57,10 +58,13 @@ def run_features():
     laps_df = pd.read_csv(PROCESSED_DIR / 'Race_laps_cleaned.csv')
 
     driver_form_df = build_driver_form(results_df, laps_df)
-    driver_form_df.to_csv(FEATURES_DIR / 'Driver_form.csv', index=False)
+    driver_form_df.to_csv(FEATURES_DIR / 'driver_features.csv', index=False)
 
     team_performance_df = build_team_performance(results_df, laps_df)
-    team_performance_df.to_csv(FEATURES_DIR / 'Team_form.csv', index=False)
+    team_performance_df.to_csv(FEATURES_DIR / 'team_features.csv', index=False)
+    
+    race_context_df = build_race_context()
+    race_context_df.to_csv(FEATURES_DIR / 'race_features.csv', index=False)
 
     print('Feature engineering complete.')
 
