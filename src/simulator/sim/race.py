@@ -20,7 +20,7 @@ class Race():
             self.results.append((driver, performance))
         
         # Sort drivers by  performance (descending)
-        self.results.sort(key=lambda x: x[1], reverse=True)
+        self.results.sort(key=lambda x: x[1], reverse=False)
         print("Race Complete!")
             
         return self.results

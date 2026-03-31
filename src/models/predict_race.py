@@ -8,6 +8,8 @@ def predict_race():
     driver_model = joblib.load(MODELS_DIR / 'finish_position_model.pkl')
     team_model = joblib.load(MODELS_DIR / 'team_consistency_model.pkl')
     model_df = pd.read_csv(FEATURES_DIR / 'model_dataset.csv')
+    team_info_df = pd.read_csv(FEATURES_DIR / 'team_features.csv').drop_duplicates(subset=['Abbreviation'])
+    team_info_df = team_info_df[['Abbreviation', 'TeamName']]
     
     # One-hot encode SafetyCar, VirtualSafetyCar, RedFlag
     model_df[['SafetyCar', 'VirtualSafetyCar', 'RedFlag']] = model_df[['SafetyCar', 'VirtualSafetyCar', 'RedFlag']].astype(int)
@@ -23,13 +25,14 @@ def predict_race():
     model_df['DriverPrediction'] = driver_pred
     model_df['TeamPrediction'] = team_pred
     
-    model_df['FinalScore'] = model_df['DriverPrediction'] * 0.7 + model_df['TeamPrediction'] * 0.3
+    model_df['rating'] = model_df['DriverPrediction'] * 0.7 + model_df['TeamPrediction'] * 0.3
     
-    predicted_position = model_df.groupby('Abbreviation')['FinalScore'].mean().reset_index()
+    predicted_position = model_df.groupby('Abbreviation')['rating'].mean().reset_index()
+    predicted_position = predicted_position.merge(team_info_df, on=['Abbreviation'], how='left')
     
     return predicted_position
     
 if __name__ == "__main__":
-    prediction_df = round(predict_race().sort_values(by='FinalScore'), 2)
+    prediction_df = round(predict_race().sort_values(by='rating'), 2)
     prediction_df.to_csv(MODELS_DIR / 'driver_predicted_position.csv', index=False)
     print('Predictions Complete!')
