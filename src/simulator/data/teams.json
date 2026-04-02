@@ -1,12 +1,12 @@
 [
-  { "id": "mclaren", "name": "McLaren" },
-  { "id": "red_bull", "name": "Red Bull" },
-  { "id": "mercedes", "name": "Mercedes" },
-  { "id": "ferrari", "name": "Ferrari" },
-  { "id": "williams", "name": "Williams" },
-  { "id": "aston_martin", "name": "Aston Martin" },
-  { "id": "kick_sauber", "name": "Kick Sauber" },
-  { "id": "racing_bulls", "name": "Racing Bulls" },
-  { "id": "haas", "name": "Haas" },
-  { "id": "alpine", "name": "Alpine" }
+  { "id": "mclaren", "name": "McLaren", "csv_name": "McLaren" },
+  { "id": "red_bull", "name": "Red Bull", "csv_name": "Red Bull Racing" },
+  { "id": "mercedes", "name": "Mercedes", "csv_name": "Mercedes" },
+  { "id": "ferrari", "name": "Ferrari", "csv_name": "Ferrari" },
+  { "id": "williams", "name": "Williams", "csv_name": "Williams" },
+  { "id": "aston_martin", "name": "Aston Martin", "csv_name": "Aston Martin" },
+  { "id": "kick_sauber", "name": "Kick Sauber", "csv_name": "Kick Sauber" },
+  { "id": "racing_bulls", "name": "Racing Bulls", "csv_name": "Racing Bulls" },
+  { "id": "haas", "name": "Haas", "csv_name": "Haas F1 Team" },
+  { "id": "alpine", "name": "Alpine", "csv_name": "Alpine" }
 ]
