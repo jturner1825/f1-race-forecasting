@@ -68,6 +68,28 @@ def aggregate_season(season_results: list, N: int):
     
     return championship_prob[['Driver', 'Championship %']]
 
+def aggregate_constructor_championship(drivers: list, season_results: list, N: int):
+    driver_to_team = {driver.name: driver.team.name for driver in drivers}
+    constructor_points = {}
+    
+    for sim in season_results:
+        constructor_totals = {}
+        for driver, points in sim.items():
+            team = driver_to_team.get(driver)
+            constructor_totals[team] = constructor_totals.get(team, 0) + points
+        
+        winning_constructor = max(constructor_totals, key=constructor_totals.get)
+        constructor_points[winning_constructor] = constructor_points.get(winning_constructor, 0) + 1
+
+    constructor_df = pd.DataFrame.from_dict(constructor_points, orient='index')
+    constructor_df['constructor_prob'] = round(constructor_df[0] / N, 2)
+    constructor_df = constructor_df.sort_values('constructor_prob', ascending=False)
+    
+    constructor_df['Constructor Championship %'] = constructor_df['constructor_prob'].apply(lambda x: f"{x:.0%}")
+    constructor_df = constructor_df.reset_index().rename(columns={'index': 'Team'})
+
+    return constructor_df[['Team', 'Constructor Championship %']]
+
 def aggregate_teams(teams: list):
     team_dnf_rates = {}
     for team in teams:
@@ -79,6 +101,23 @@ def aggregate_teams(teams: list):
     team_dnf_df = team_dnf_df.reset_index().rename(columns={'index': 'Team'})
     
     return team_dnf_df[['Team', 'DNF Rate']]
+
+def position_distribution(drivers: list, race_results: list, N: int):
+    position_counts = {driver.name: [0] * 20 for driver in drivers}  # assuming max 20 positions
+    for sim in race_results:
+        for result in sim:
+            driver_name = result['Driver'].name
+            position = result['Position']
+            position_counts[driver_name][position - 1] += 1  # position is 1-indexed
+            
+    position_dist_df = pd.DataFrame.from_dict(position_counts, orient='index')
+    position_dist_df = position_dist_df.div(N)  # convert counts to probabilities 
+    
+    position_dist_df = position_dist_df.reset_index().rename(columns={'index': 'Driver'})
+    position_dist_df.columns = ['Driver'] + list(range(1, 21))
+    
+    return position_dist_df
+
     
 if __name__ == "__main__":
     teams_by_id = load_teams(DATA_DIR / "teams.json")
@@ -95,7 +134,11 @@ if __name__ == "__main__":
     print(aggregate_races(race_results, N).to_markdown(index=False))
     print("\nSeason Championship Probabilities:\n")
     print(aggregate_season(season_results, N).to_markdown(index=False))
+    print("\nConstructor Championship Probabilities:\n")
+    print(aggregate_constructor_championship(drivers, season_results, N).to_markdown(index=False))
     print("\nTeam DNF Rates:\n")
     print(aggregate_teams(list(teams_by_id.values())).to_markdown(index=False))
-
+    print("\nPosition Distribution:\n")
+    print(position_distribution(drivers, race_results, N).to_markdown(index=False))
+    
 
