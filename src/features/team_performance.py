@@ -10,8 +10,8 @@ def calc_team_finish_features(results_df: pd.DataFrame) -> pd.DataFrame:
     # Group by TeamName & calculate finishing position in previous 5 races
     results_df['AvgTeamFinishLast5'] = results_df.groupby(['TeamName', 'Year'])['Position'].transform(lambda x: x.shift(1).rolling(5).mean())
     
-    # Group by TeamName & calculate DNF Rate in previous 5 races
-    results_df['TeamDNFRateLast5'] = results_df.groupby(['TeamName', 'Year'])['Finished'].transform(lambda x: (~x).shift(1).rolling(5).mean()).round(2)
+    # Group by TeamName & calculate Team DNF rate
+    results_df['TeamDNFRate'] = results_df.groupby(['TeamName'])['Finished'].transform(lambda x: (~x).mean()).round(2)
     
     return results_df
 
@@ -48,6 +48,6 @@ if __name__ == "__main__":
     laps_df = pd.read_csv(PROCESSED_DIR / 'Race_laps_cleaned.csv')
     
     team_form_df = build_team_performance(results_df, laps_df)
-    team_form_df.to_csv(FEATURES_DIR / 'Team_form.csv', index=False)
+    team_form_df.to_csv(FEATURES_DIR / 'team_features.csv', index=False)
     
     

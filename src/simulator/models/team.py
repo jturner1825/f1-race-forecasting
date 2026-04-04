@@ -1,10 +1,11 @@
 class Team:
-    def __init__(self, id, name):
+    def __init__(self, id, name, dnf_rate):
         self.id = id
         self.name = name
         self.drivers = []
         self.points = 0
         self.wins = 0
+        self.dnf_rate = dnf_rate
 
     def __str__(self):
         driver_names = ", ".join(driver.name for driver in self.drivers)

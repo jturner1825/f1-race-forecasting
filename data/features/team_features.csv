@@ -1,0 +1,1399 @@
+DriverNumber,Abbreviation,TeamName,GridPosition,Position,Status,Year,Event,RoundNumber,SessionType,Finished,AvgTeamFinishLast3,AvgTeamFinishLast5,TeamDNFRate,AvgTeamPitTime,AvgTeamPitTimeLast3,AvgTeamPitTimeLast5
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,Bahrain,1,Race,True,,,0.08,24.64,,
+11,PER,Red Bull Racing,2.0,2.0,Finished,2023,Bahrain,1,Race,True,,,0.08,24.64,,
+14,ALO,Aston Martin,5.0,3.0,Finished,2023,Bahrain,1,Race,True,,,0.14,25.17,,
+55,SAI,Ferrari,4.0,4.0,Finished,2023,Bahrain,1,Race,True,,,0.13,24.43,,
+44,HAM,Mercedes,7.0,5.0,Finished,2023,Bahrain,1,Race,True,,,0.11,25.18,,
+18,STR,Aston Martin,8.0,6.0,Finished,2023,Bahrain,1,Race,True,,,0.14,25.17,,
+63,RUS,Mercedes,6.0,7.0,Finished,2023,Bahrain,1,Race,True,,,0.11,25.18,,
+77,BOT,Alfa Romeo,12.0,8.0,Finished,2023,Bahrain,1,Race,True,,,0.14,26.45,,
+10,GAS,Alpine,20.0,9.0,Finished,2023,Bahrain,1,Race,True,,,0.16,31.09,,
+23,ALB,Williams,15.0,10.0,Finished,2023,Bahrain,1,Race,True,,,0.23,25.12,,
+22,TSU,AlphaTauri,14.0,11.0,Finished,2023,Bahrain,1,Race,True,,,0.11,25.12,,
+2,SAR,Williams,16.0,12.0,Lapped,2023,Bahrain,1,Race,True,,,0.23,25.12,,
+20,MAG,Haas F1 Team,17.0,13.0,Lapped,2023,Bahrain,1,Race,True,,,0.11,27.81,,
+21,DEV,AlphaTauri,19.0,14.0,Lapped,2023,Bahrain,1,Race,True,,,0.11,25.12,,
+27,HUL,Haas F1 Team,10.0,15.0,Lapped,2023,Bahrain,1,Race,True,,,0.11,27.81,,
+24,ZHO,Alfa Romeo,13.0,16.0,Lapped,2023,Bahrain,1,Race,True,,,0.14,26.45,,
+4,NOR,McLaren,11.0,17.0,Lapped,2023,Bahrain,1,Race,True,,,0.06,32.61,,
+31,OCO,Alpine,9.0,18.0,Retired,2023,Bahrain,1,Race,False,,,0.16,31.09,,
+16,LEC,Ferrari,3.0,19.0,Retired,2023,Bahrain,1,Race,False,,,0.13,24.43,,
+81,PIA,McLaren,18.0,20.0,Retired,2023,Bahrain,1,Race,False,,,0.06,32.61,,
+11,PER,Red Bull Racing,1.0,1.0,Finished,2023,Saudi Arabian,2,Race,True,,,0.08,20.76,,
+1,VER,Red Bull Racing,15.0,2.0,Finished,2023,Saudi Arabian,2,Race,True,1.333,,0.08,20.76,,
+14,ALO,Aston Martin,2.0,3.0,Finished,2023,Saudi Arabian,2,Race,True,,,0.14,24.01,,
+63,RUS,Mercedes,3.0,4.0,Finished,2023,Saudi Arabian,2,Race,True,,,0.11,20.94,,
+44,HAM,Mercedes,7.0,5.0,Finished,2023,Saudi Arabian,2,Race,True,5.333,,0.11,20.94,,
+55,SAI,Ferrari,4.0,6.0,Finished,2023,Saudi Arabian,2,Race,True,,,0.13,20.06,,
+16,LEC,Ferrari,12.0,7.0,Finished,2023,Saudi Arabian,2,Race,True,9.667,,0.13,20.06,,
+31,OCO,Alpine,6.0,8.0,Finished,2023,Saudi Arabian,2,Race,True,,,0.16,20.75,,
+10,GAS,Alpine,9.0,9.0,Finished,2023,Saudi Arabian,2,Race,True,11.667,,0.16,20.75,,
+20,MAG,Haas F1 Team,13.0,10.0,Finished,2023,Saudi Arabian,2,Race,True,,,0.11,21.22,,
+22,TSU,AlphaTauri,16.0,11.0,Finished,2023,Saudi Arabian,2,Race,True,,,0.11,21.26,,
+27,HUL,Haas F1 Team,10.0,12.0,Finished,2023,Saudi Arabian,2,Race,True,12.667,,0.11,21.22,,
+24,ZHO,Alfa Romeo,11.0,13.0,Finished,2023,Saudi Arabian,2,Race,True,,,0.14,21.67,,
+21,DEV,AlphaTauri,18.0,14.0,Finished,2023,Saudi Arabian,2,Race,True,12.0,,0.11,21.26,,
+81,PIA,McLaren,8.0,15.0,Finished,2023,Saudi Arabian,2,Race,True,,,0.06,27.38,,
+2,SAR,Williams,20.0,16.0,Finished,2023,Saudi Arabian,2,Race,True,,,0.23,21.22,,
+4,NOR,McLaren,19.0,17.0,Finished,2023,Saudi Arabian,2,Race,True,17.333,,0.06,27.38,,
+77,BOT,Alfa Romeo,14.0,18.0,Lapped,2023,Saudi Arabian,2,Race,True,12.333,,0.14,21.67,,
+23,ALB,Williams,17.0,19.0,Retired,2023,Saudi Arabian,2,Race,False,12.667,,0.23,21.22,,
+18,STR,Aston Martin,5.0,20.0,Retired,2023,Saudi Arabian,2,Race,False,4.0,,0.14,24.01,,
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,Australian,3,Race,True,1.667,,0.08,919.04,,
+44,HAM,Mercedes,3.0,2.0,Finished,2023,Australian,3,Race,True,5.333,,0.11,921.2,,
+14,ALO,Aston Martin,4.0,3.0,Finished,2023,Australian,3,Race,True,9.667,,0.14,1215.77,,
+18,STR,Aston Martin,6.0,4.0,Finished,2023,Australian,3,Race,True,8.667,7.0,0.14,1215.77,,
+11,PER,Red Bull Racing,20.0,5.0,Finished,2023,Australian,3,Race,True,1.333,1.4,0.08,919.04,,
+4,NOR,McLaren,13.0,6.0,Finished,2023,Australian,3,Race,True,17.333,,0.06,1052.09,,
+27,HUL,Haas F1 Team,10.0,7.0,Finished,2023,Australian,3,Race,True,12.333,,0.11,927.39,,
+81,PIA,McLaren,16.0,8.0,Finished,2023,Australian,3,Race,True,12.667,15.0,0.06,1052.09,,
+24,ZHO,Alfa Romeo,17.0,9.0,Finished,2023,Australian,3,Race,True,15.667,,0.14,667.94,,
+22,TSU,AlphaTauri,12.0,10.0,Finished,2023,Australian,3,Race,True,13.0,,0.11,677.38,,
+77,BOT,Alfa Romeo,19.0,11.0,Finished,2023,Australian,3,Race,True,13.333,12.8,0.14,667.94,,
+55,SAI,Ferrari,5.0,12.0,Finished,2023,Australian,3,Race,True,10.667,,0.13,923.04,,
+10,GAS,Alpine,9.0,13.0,Retired,2023,Australian,3,Race,False,11.667,,0.16,727.63,,
+31,OCO,Alpine,11.0,14.0,Retired,2023,Australian,3,Race,False,10.0,11.4,0.16,727.63,,
+21,DEV,AlphaTauri,15.0,15.0,Retired,2023,Australian,3,Race,False,11.667,12.0,0.11,677.38,,
+2,SAR,Williams,18.0,16.0,Retired,2023,Australian,3,Race,False,15.667,,0.23,300.17,,
+20,MAG,Haas F1 Team,14.0,17.0,Retired,2023,Australian,3,Race,False,9.667,11.4,0.11,927.39,,
+63,RUS,Mercedes,2.0,18.0,Retired,2023,Australian,3,Race,False,3.667,4.6,0.11,921.2,,
+23,ALB,Williams,8.0,19.0,Retired,2023,Australian,3,Race,False,17.0,14.6,0.23,300.17,,
+16,LEC,Ferrari,7.0,20.0,Retired,2023,Australian,3,Race,False,8.333,9.6,0.13,923.04,,
+11,PER,Red Bull Racing,3.0,1.0,Finished,2023,Azerbaijan,4,Race,True,2.667,2.2,0.08,20.62,321.48,
+1,VER,Red Bull Racing,2.0,2.0,Finished,2023,Azerbaijan,4,Race,True,2.333,2.0,0.08,20.62,321.48,
+16,LEC,Ferrari,1.0,3.0,Finished,2023,Azerbaijan,4,Race,True,13.0,12.8,0.13,21.46,322.51,
+14,ALO,Aston Martin,6.0,4.0,Finished,2023,Azerbaijan,4,Race,True,9.0,7.2,0.14,23.15,421.65,
+55,SAI,Ferrari,4.0,5.0,Finished,2023,Azerbaijan,4,Race,True,11.667,9.6,0.13,21.46,322.51,
+44,HAM,Mercedes,5.0,6.0,Finished,2023,Azerbaijan,4,Race,True,8.333,7.2,0.11,20.7,322.44,
+18,STR,Aston Martin,9.0,7.0,Finished,2023,Azerbaijan,4,Race,True,3.667,6.8,0.14,23.15,421.65,
+63,RUS,Mercedes,11.0,8.0,Finished,2023,Azerbaijan,4,Race,True,8.667,7.0,0.11,20.7,322.44,
+4,NOR,McLaren,7.0,9.0,Finished,2023,Azerbaijan,4,Race,True,10.333,13.2,0.06,20.66,370.69,
+22,TSU,AlphaTauri,8.0,10.0,Finished,2023,Azerbaijan,4,Race,True,13.0,12.8,0.11,20.48,241.25,
+81,PIA,McLaren,10.0,11.0,Finished,2023,Azerbaijan,4,Race,True,7.667,11.0,0.06,20.66,370.69,
+23,ALB,Williams,12.0,12.0,Finished,2023,Azerbaijan,4,Race,True,18.0,16.4,0.23,21.07,115.5,
+20,MAG,Haas F1 Team,16.0,13.0,Finished,2023,Azerbaijan,4,Race,True,12.0,12.2,0.11,27.81,325.47,
+10,GAS,Alpine,17.0,14.0,Finished,2023,Azerbaijan,4,Race,True,12.0,12.4,0.16,20.6,259.82,
+31,OCO,Alpine,19.0,15.0,Finished,2023,Azerbaijan,4,Race,True,13.667,11.6,0.16,20.6,259.82,
+2,SAR,Williams,14.0,16.0,Finished,2023,Azerbaijan,4,Race,True,15.667,16.4,0.23,21.07,115.5,
+27,HUL,Haas F1 Team,20.0,17.0,Lapped,2023,Azerbaijan,4,Race,True,12.333,11.8,0.11,27.81,325.47,
+77,BOT,Alfa Romeo,13.0,18.0,Lapped,2023,Azerbaijan,4,Race,True,12.667,13.4,0.14,21.67,238.69,
+24,ZHO,Alfa Romeo,15.0,19.0,Retired,2023,Azerbaijan,4,Race,False,12.667,13.8,0.14,21.67,238.69,
+21,DEV,AlphaTauri,18.0,20.0,Retired,2023,Azerbaijan,4,Race,False,11.667,12.0,0.11,20.48,241.25,
+1,VER,Red Bull Racing,9.0,1.0,Finished,2023,Miami,5,Race,True,2.667,2.2,0.08,22.3,320.14,
+11,PER,Red Bull Racing,1.0,2.0,Finished,2023,Miami,5,Race,True,1.333,2.0,0.08,22.3,320.14,
+14,ALO,Aston Martin,2.0,3.0,Finished,2023,Miami,5,Race,True,5.0,7.6,0.14,22.64,420.98,
+63,RUS,Mercedes,6.0,4.0,Finished,2023,Miami,5,Race,True,10.667,7.8,0.11,22.26,320.95,
+55,SAI,Ferrari,3.0,5.0,Finished,2023,Miami,5,Race,True,9.333,9.4,0.13,22.16,321.52,
+44,HAM,Mercedes,13.0,6.0,Finished,2023,Miami,5,Race,True,6.0,7.6,0.11,22.26,320.95,
+16,LEC,Ferrari,7.0,7.0,Finished,2023,Miami,5,Race,True,4.333,9.0,0.13,22.16,321.52,
+10,GAS,Alpine,5.0,8.0,Finished,2023,Miami,5,Race,True,14.333,13.0,0.16,22.2,256.33,
+31,OCO,Alpine,8.0,9.0,Finished,2023,Miami,5,Race,True,12.333,12.8,0.16,22.2,256.33,
+20,MAG,Haas F1 Team,4.0,10.0,Finished,2023,Miami,5,Race,True,15.667,13.2,0.11,22.9,325.47,
+22,TSU,AlphaTauri,17.0,11.0,Finished,2023,Miami,5,Race,True,15.0,13.8,0.11,22.92,239.71,
+18,STR,Aston Martin,18.0,12.0,Finished,2023,Miami,5,Race,True,4.667,4.2,0.14,22.64,420.98,
+77,BOT,Alfa Romeo,10.0,13.0,Finished,2023,Miami,5,Race,True,16.0,15.0,0.14,22.99,237.09,
+23,ALB,Williams,11.0,14.0,Finished,2023,Miami,5,Race,True,15.667,16.4,0.23,35.67,114.15,
+27,HUL,Haas F1 Team,12.0,15.0,Finished,2023,Miami,5,Race,True,13.333,12.8,0.11,22.9,325.47,
+24,ZHO,Alfa Romeo,14.0,16.0,Finished,2023,Miami,5,Race,True,16.667,14.0,0.14,22.99,237.09,
+4,NOR,McLaren,16.0,17.0,Finished,2023,Miami,5,Race,True,9.333,10.2,0.06,23.17,366.71,
+21,DEV,AlphaTauri,15.0,18.0,Finished,2023,Miami,5,Race,True,13.667,13.2,0.11,22.92,239.71,
+81,PIA,McLaren,19.0,19.0,Lapped,2023,Miami,5,Race,True,12.333,10.2,0.06,23.17,366.71,
+2,SAR,Williams,20.0,20.0,Lapped,2023,Miami,5,Race,True,14.0,15.4,0.23,35.67,114.15,
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,Monaco,6,Race,True,1.667,2.2,0.08,26.73,320.65,201.47
+14,ALO,Aston Martin,2.0,2.0,Finished,2023,Monaco,6,Race,True,7.333,6.0,0.14,87.72,420.52,262.15
+31,OCO,Alpine,3.0,3.0,Finished,2023,Monaco,6,Race,True,10.667,12.0,0.16,26.12,256.81,164.45
+44,HAM,Mercedes,5.0,4.0,Finished,2023,Monaco,6,Race,True,6.0,8.4,0.11,27.33,321.39,202.06
+63,RUS,Mercedes,8.0,5.0,Finished,2023,Monaco,6,Race,True,4.667,5.6,0.11,27.33,321.39,202.06
+16,LEC,Ferrari,6.0,6.0,Finished,2023,Monaco,6,Race,True,5.667,8.0,0.13,25.79,322.22,202.23
+10,GAS,Alpine,7.0,7.0,Finished,2023,Monaco,6,Race,True,6.667,9.8,0.16,26.12,256.81,164.45
+55,SAI,Ferrari,4.0,8.0,Finished,2023,Monaco,6,Race,True,6.0,5.2,0.13,25.79,322.22,202.23
+4,NOR,McLaren,10.0,9.0,Lapped,2023,Monaco,6,Race,True,15.667,12.8,0.06,27.97,365.31,231.18
+81,PIA,McLaren,11.0,10.0,Lapped,2023,Monaco,6,Race,True,15.0,13.0,0.06,27.97,365.31,231.18
+77,BOT,Alfa Romeo,15.0,11.0,Lapped,2023,Monaco,6,Race,True,16.0,15.4,0.14,27.31,237.53,152.14
+21,DEV,AlphaTauri,12.0,12.0,Lapped,2023,Monaco,6,Race,True,16.333,14.8,0.11,28.91,240.26,153.43
+24,ZHO,Alfa Romeo,19.0,13.0,Lapped,2023,Monaco,6,Race,True,13.333,15.4,0.14,27.31,237.53,152.14
+23,ALB,Williams,13.0,14.0,Lapped,2023,Monaco,6,Race,True,16.667,16.2,0.23,25.68,118.97,80.65
+22,TSU,AlphaTauri,9.0,15.0,Lapped,2023,Monaco,6,Race,True,13.667,14.2,0.11,28.91,240.26,153.43
+11,PER,Red Bull Racing,20.0,16.0,Lapped,2023,Monaco,6,Race,True,1.333,1.4,0.08,26.73,320.65,201.47
+27,HUL,Haas F1 Team,18.0,17.0,Lapped,2023,Monaco,6,Race,True,14.0,14.4,0.11,35.99,326.03,205.43
+2,SAR,Williams,16.0,18.0,Lapped,2023,Monaco,6,Race,True,16.0,15.2,0.23,25.68,118.97,80.65
+20,MAG,Haas F1 Team,17.0,19.0,Retired,2023,Monaco,6,Race,False,14.0,14.4,0.11,35.99,326.03,205.43
+18,STR,Aston Martin,14.0,20.0,Retired,2023,Monaco,6,Race,False,5.667,5.6,0.14,87.72,420.52,262.15
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,Spanish,7,Race,True,6.333,4.4,0.08,21.93,23.22,201.89
+44,HAM,Mercedes,4.0,2.0,Finished,2023,Spanish,7,Race,True,5.0,5.4,0.11,22.4,23.43,202.49
+63,RUS,Mercedes,12.0,3.0,Finished,2023,Spanish,7,Race,True,3.667,4.2,0.11,22.4,23.43,202.49
+11,PER,Red Bull Racing,11.0,4.0,Finished,2023,Spanish,7,Race,True,6.0,4.2,0.08,21.93,23.22,201.89
+55,SAI,Ferrari,2.0,5.0,Finished,2023,Spanish,7,Race,True,7.0,6.2,0.13,22.39,23.14,202.5
+18,STR,Aston Martin,5.0,6.0,Finished,2023,Spanish,7,Race,True,11.333,8.8,0.14,22.71,44.5,274.66
+14,ALO,Aston Martin,8.0,7.0,Finished,2023,Spanish,7,Race,True,9.333,8.6,0.14,22.71,44.5,274.66
+31,OCO,Alpine,6.0,8.0,Finished,2023,Spanish,7,Race,True,6.333,8.4,0.16,23.31,22.97,163.46
+24,ZHO,Alfa Romeo,13.0,9.0,Finished,2023,Spanish,7,Race,True,13.333,14.4,0.14,23.5,23.99,152.32
+10,GAS,Alpine,10.0,10.0,Finished,2023,Spanish,7,Race,True,6.0,7.0,0.16,23.31,22.97,163.46
+16,LEC,Ferrari,19.0,11.0,Finished,2023,Spanish,7,Race,True,6.333,6.2,0.13,22.39,23.14,202.5
+22,TSU,AlphaTauri,15.0,12.0,Finished,2023,Spanish,7,Race,True,15.0,15.2,0.11,22.17,24.1,154.19
+81,PIA,McLaren,9.0,13.0,Lapped,2023,Spanish,7,Race,True,12.667,13.2,0.06,25.55,23.93,230.25
+21,DEV,AlphaTauri,14.0,14.0,Lapped,2023,Spanish,7,Race,True,13.0,13.6,0.11,22.17,24.1,154.19
+27,HUL,Haas F1 Team,7.0,15.0,Lapped,2023,Spanish,7,Race,True,17.0,15.6,0.11,23.21,28.9,207.06
+23,ALB,Williams,18.0,16.0,Lapped,2023,Spanish,7,Race,True,17.333,16.4,0.23,23.41,27.47,80.76
+4,NOR,McLaren,3.0,17.0,Lapped,2023,Spanish,7,Race,True,10.667,13.6,0.06,25.55,23.93,230.25
+20,MAG,Haas F1 Team,17.0,18.0,Lapped,2023,Spanish,7,Race,True,17.0,15.2,0.11,23.21,28.9,207.06
+77,BOT,Alfa Romeo,16.0,19.0,Lapped,2023,Spanish,7,Race,True,11.0,12.4,0.14,23.5,23.99,152.32
+2,SAR,Williams,20.0,20.0,Lapped,2023,Spanish,7,Race,True,16.0,16.4,0.23,23.41,27.47,80.76
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,Canadian,8,Race,True,7.0,4.8,0.08,23.53,23.65,202.12
+14,ALO,Aston Martin,2.0,2.0,Finished,2023,Canadian,8,Race,True,11.0,9.4,0.14,23.95,44.36,274.4
+44,HAM,Mercedes,3.0,3.0,Finished,2023,Canadian,8,Race,True,3.333,4.0,0.11,45.69,24.0,202.78
+16,LEC,Ferrari,10.0,4.0,Finished,2023,Canadian,8,Race,True,8.0,7.4,0.13,24.3,23.45,202.97
+55,SAI,Ferrari,11.0,5.0,Finished,2023,Canadian,8,Race,True,6.667,6.8,0.13,24.3,23.45,202.97
+11,PER,Red Bull Racing,12.0,6.0,Finished,2023,Canadian,8,Race,True,2.0,4.6,0.08,23.53,23.65,202.12
+23,ALB,Williams,9.0,7.0,Finished,2023,Canadian,8,Race,True,18.0,17.6,0.23,25.06,28.25,81.2
+31,OCO,Alpine,6.0,8.0,Finished,2023,Canadian,8,Race,True,8.333,7.4,0.16,24.93,23.88,163.97
+18,STR,Aston Martin,16.0,9.0,Finished,2023,Canadian,8,Race,True,5.0,7.4,0.14,23.95,44.36,274.4
+77,BOT,Alfa Romeo,14.0,10.0,Finished,2023,Canadian,8,Race,True,13.667,13.6,0.14,25.26,24.6,152.68
+81,PIA,McLaren,8.0,11.0,Finished,2023,Canadian,8,Race,True,13.333,13.6,0.06,24.42,25.56,229.89
+10,GAS,Alpine,15.0,12.0,Finished,2023,Canadian,8,Race,True,8.667,7.2,0.16,24.93,23.88,163.97
+4,NOR,McLaren,7.0,13.0,Finished,2023,Canadian,8,Race,True,13.667,12.0,0.06,24.42,25.56,229.89
+22,TSU,AlphaTauri,19.0,14.0,Finished,2023,Canadian,8,Race,True,13.667,14.2,0.11,25.02,24.67,154.37
+27,HUL,Haas F1 Team,5.0,15.0,Lapped,2023,Canadian,8,Race,True,17.333,16.8,0.11,24.64,27.37,207.46
+24,ZHO,Alfa Romeo,20.0,16.0,Lapped,2023,Canadian,8,Race,True,12.667,12.4,0.14,25.26,24.6,152.68
+20,MAG,Haas F1 Team,13.0,17.0,Lapped,2023,Canadian,8,Race,True,16.0,16.8,0.11,24.64,27.37,207.46
+21,DEV,AlphaTauri,17.0,18.0,Lapped,2023,Canadian,8,Race,True,13.333,13.4,0.11,25.02,24.67,154.37
+63,RUS,Mercedes,4.0,19.0,Retired,2023,Canadian,8,Race,False,2.667,3.4,0.11,45.69,24.0,202.78
+2,SAR,Williams,18.0,20.0,Retired,2023,Canadian,8,Race,False,14.333,15.0,0.23,25.06,28.25,81.2
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,Austrian,9,Race,True,3.667,5.6,0.08,20.15,24.06,23.02
+16,LEC,Ferrari,2.0,2.0,Finished,2023,Austrian,9,Race,True,6.667,6.6,0.13,22.01,24.16,23.22
+11,PER,Red Bull Racing,15.0,3.0,Finished,2023,Austrian,9,Race,True,2.667,2.6,0.08,20.15,24.06,23.02
+4,NOR,McLaren,4.0,4.0,Finished,2023,Austrian,9,Race,True,13.667,12.8,0.06,21.92,25.98,24.35
+14,ALO,Aston Martin,7.0,5.0,Finished,2023,Austrian,9,Race,True,6.0,8.8,0.14,20.74,44.79,36.03
+55,SAI,Ferrari,3.0,6.0,Finished,2023,Austrian,9,Race,True,3.667,5.4,0.13,22.01,24.16,23.22
+63,RUS,Mercedes,11.0,7.0,Finished,2023,Austrian,9,Race,True,8.333,6.4,0.11,21.31,31.81,27.68
+44,HAM,Mercedes,5.0,8.0,Finished,2023,Austrian,9,Race,True,9.667,6.8,0.11,21.31,31.81,27.68
+18,STR,Aston Martin,6.0,9.0,Finished,2023,Austrian,9,Race,True,5.333,5.8,0.14,20.74,44.79,36.03
+10,GAS,Alpine,9.0,10.0,Finished,2023,Austrian,9,Race,True,10.0,9.0,0.16,22.76,24.79,23.43
+23,ALB,Williams,10.0,11.0,Finished,2023,Austrian,9,Race,True,15.667,16.2,0.23,21.04,24.72,26.18
+24,ZHO,Alfa Romeo,17.0,12.0,Lapped,2023,Austrian,9,Race,True,15.0,13.4,0.14,22.42,25.36,24.15
+2,SAR,Williams,18.0,13.0,Lapped,2023,Austrian,9,Race,True,12.667,14.8,0.23,21.04,24.72,26.18
+31,OCO,Alpine,12.0,14.0,Lapped,2023,Austrian,9,Race,True,10.0,9.6,0.16,22.76,24.79,23.43
+77,BOT,Alfa Romeo,14.0,15.0,Lapped,2023,Austrian,9,Race,True,12.667,13.2,0.14,22.42,25.36,24.15
+81,PIA,McLaren,13.0,16.0,Lapped,2023,Austrian,9,Race,True,9.333,11.6,0.06,21.92,25.98,24.35
+21,DEV,AlphaTauri,20.0,17.0,Lapped,2023,Austrian,9,Race,True,15.333,14.6,0.11,21.87,25.37,23.9
+20,MAG,Haas F1 Team,19.0,18.0,Lapped,2023,Austrian,9,Race,True,16.667,16.8,0.11,22.61,27.95,26.91
+22,TSU,AlphaTauri,16.0,19.0,Lapped,2023,Austrian,9,Race,True,16.333,15.0,0.11,21.87,25.37,23.9
+27,HUL,Haas F1 Team,8.0,20.0,Retired,2023,Austrian,9,Race,False,16.667,16.6,0.11,22.61,27.95,26.91
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,British,10,Race,True,3.333,3.0,0.08,28.55,21.87,22.93
+4,NOR,McLaren,2.0,2.0,Finished,2023,British,10,Race,True,11.0,12.2,0.06,28.54,23.96,24.61
+44,HAM,Mercedes,7.0,3.0,Finished,2023,British,10,Race,True,11.333,8.0,0.11,29.33,29.8,27.8
+81,PIA,McLaren,3.0,4.0,Finished,2023,British,10,Race,True,7.333,9.2,0.06,28.54,23.96,24.61
+63,RUS,Mercedes,6.0,5.0,Finished,2023,British,10,Race,True,6.0,8.0,0.11,29.33,29.8,27.8
+11,PER,Red Bull Racing,15.0,6.0,Finished,2023,British,10,Race,True,1.667,2.4,0.08,28.55,21.87,22.93
+14,ALO,Aston Martin,9.0,7.0,Finished,2023,British,10,Race,True,7.667,6.4,0.14,28.62,22.47,35.55
+23,ALB,Williams,8.0,8.0,Finished,2023,British,10,Race,True,14.667,14.2,0.23,29.24,23.17,26.17
+16,LEC,Ferrari,4.0,9.0,Finished,2023,British,10,Race,True,4.333,5.6,0.13,28.62,22.9,23.33
+55,SAI,Ferrari,5.0,10.0,Finished,2023,British,10,Race,True,5.667,5.2,0.13,28.62,22.9,23.33
+2,SAR,Williams,14.0,11.0,Finished,2023,British,10,Race,True,10.667,11.8,0.23,29.24,23.17,26.17
+77,BOT,Alfa Romeo,20.0,12.0,Finished,2023,British,10,Race,True,14.333,14.4,0.14,30.47,23.73,24.3
+27,HUL,Haas F1 Team,11.0,13.0,Finished,2023,British,10,Race,True,18.333,17.6,0.11,30.03,23.49,25.87
+18,STR,Aston Martin,12.0,14.0,Finished,2023,British,10,Race,True,7.0,6.4,0.14,28.62,22.47,35.55
+24,ZHO,Alfa Romeo,17.0,15.0,Finished,2023,British,10,Race,True,13.0,13.0,0.14,30.47,23.73,24.3
+22,TSU,AlphaTauri,16.0,16.0,Finished,2023,British,10,Race,True,18.0,16.4,0.11,28.43,23.02,24.18
+21,DEV,AlphaTauri,18.0,17.0,Finished,2023,British,10,Race,True,17.333,16.8,0.11,28.43,23.02,24.18
+10,GAS,Alpine,10.0,18.0,Retired,2023,British,10,Race,False,12.0,10.8,0.16,28.5,23.67,23.86
+20,MAG,Haas F1 Team,19.0,19.0,Retired,2023,British,10,Race,False,17.0,16.6,0.11,30.03,23.49,25.87
+31,OCO,Alpine,13.0,20.0,Retired,2023,British,10,Race,False,14.0,12.4,0.16,28.5,23.67,23.86
+1,VER,Red Bull Racing,2.0,1.0,Finished,2023,Hungarian,11,Race,True,3.333,3.4,0.08,21.45,24.08,24.18
+4,NOR,McLaren,3.0,2.0,Finished,2023,Hungarian,11,Race,True,7.333,7.8,0.06,21.55,24.96,25.68
+11,PER,Red Bull Racing,9.0,3.0,Finished,2023,Hungarian,11,Race,True,2.667,2.4,0.08,21.45,24.08,24.18
+44,HAM,Mercedes,1.0,4.0,Finished,2023,Hungarian,11,Race,True,5.333,8.4,0.11,21.8,32.11,29.21
+81,PIA,McLaren,4.0,5.0,Finished,2023,Hungarian,11,Race,True,2.667,5.6,0.06,21.55,24.96,25.68
+63,RUS,Mercedes,18.0,6.0,Finished,2023,Hungarian,11,Race,True,4.0,5.4,0.11,21.8,32.11,29.21
+16,LEC,Ferrari,6.0,7.0,Finished,2023,Hungarian,11,Race,True,8.333,6.4,0.13,23.97,24.98,24.62
+55,SAI,Ferrari,11.0,8.0,Finished,2023,Hungarian,11,Race,True,8.667,6.8,0.13,23.97,24.98,24.62
+14,ALO,Aston Martin,8.0,9.0,Finished,2023,Hungarian,11,Race,True,10.0,8.8,0.14,22.84,24.44,36.75
+18,STR,Aston Martin,14.0,10.0,Lapped,2023,Hungarian,11,Race,True,10.0,8.8,0.14,22.84,24.44,36.75
+23,ALB,Williams,16.0,11.0,Lapped,2023,Hungarian,11,Race,True,10.667,12.6,0.23,22.65,25.11,24.89
+77,BOT,Alfa Romeo,7.0,12.0,Lapped,2023,Hungarian,11,Race,True,14.0,14.0,0.14,24.38,26.05,25.79
+3,RIC,AlphaTauri,13.0,13.0,Lapped,2023,Hungarian,11,Race,True,17.333,17.4,0.11,22.87,25.11,25.28
+27,HUL,Haas F1 Team,10.0,14.0,Lapped,2023,Hungarian,11,Race,True,17.333,17.4,0.11,22.43,25.76,27.3
+22,TSU,AlphaTauri,17.0,15.0,Lapped,2023,Hungarian,11,Race,True,15.333,16.4,0.11,22.87,25.11,25.28
+24,ZHO,Alfa Romeo,5.0,16.0,Lapped,2023,Hungarian,11,Race,True,13.0,13.2,0.14,24.38,26.05,25.79
+20,MAG,Haas F1 Team,19.0,17.0,Lapped,2023,Hungarian,11,Race,True,15.333,16.8,0.11,22.43,25.76,27.3
+2,SAR,Williams,20.0,18.0,Retired,2023,Hungarian,11,Race,False,10.0,10.8,0.23,22.65,25.11,24.89
+31,OCO,Alpine,12.0,19.0,Retired,2023,Hungarian,11,Race,False,17.333,14.8,0.16,,25.4,25.12
+10,GAS,Alpine,15.0,20.0,Retired,2023,Hungarian,11,Race,False,19.0,16.2,0.16,,25.4,25.12
+1,VER,Red Bull Racing,6.0,1.0,Finished,2023,Belgian,12,Race,True,3.333,2.8,0.08,23.07,23.38,23.12
+11,PER,Red Bull Racing,2.0,2.0,Finished,2023,Belgian,12,Race,True,1.667,2.4,0.08,23.07,23.38,23.12
+16,LEC,Ferrari,1.0,3.0,Finished,2023,Belgian,12,Race,True,8.333,8.0,0.13,23.21,24.87,24.26
+44,HAM,Mercedes,3.0,4.0,Finished,2023,Belgian,12,Race,True,5.0,5.2,0.11,23.28,24.15,28.11
+14,ALO,Aston Martin,9.0,5.0,Finished,2023,Belgian,12,Race,True,11.0,9.8,0.14,24.09,24.07,23.77
+63,RUS,Mercedes,8.0,6.0,Finished,2023,Belgian,12,Race,True,4.667,4.4,0.11,23.28,24.15,28.11
+4,NOR,McLaren,7.0,7.0,Finished,2023,Belgian,12,Race,True,3.667,5.8,0.06,24.37,24.0,24.4
+31,OCO,Alpine,14.0,8.0,Finished,2023,Belgian,12,Race,True,19.667,18.2,0.16,24.03,,
+18,STR,Aston Martin,10.0,9.0,Finished,2023,Belgian,12,Race,True,8.0,9.0,0.14,24.09,24.07,23.77
+22,TSU,AlphaTauri,11.0,10.0,Finished,2023,Belgian,12,Race,True,15.0,16.0,0.11,22.89,24.39,24.07
+10,GAS,Alpine,12.0,11.0,Finished,2023,Belgian,12,Race,True,15.667,17.0,0.16,24.03,,
+77,BOT,Alfa Romeo,13.0,12.0,Finished,2023,Belgian,12,Race,True,14.333,14.0,0.14,23.91,25.76,25.21
+24,ZHO,Alfa Romeo,17.0,13.0,Finished,2023,Belgian,12,Race,True,13.333,13.4,0.14,23.91,25.76,25.21
+23,ALB,Williams,15.0,14.0,Finished,2023,Belgian,12,Race,True,13.333,12.2,0.23,23.86,24.31,24.28
+20,MAG,Haas F1 Team,16.0,15.0,Finished,2023,Belgian,12,Race,True,16.667,16.6,0.11,24.2,25.02,24.58
+3,RIC,AlphaTauri,19.0,16.0,Finished,2023,Belgian,12,Race,True,12.667,14.2,0.11,22.89,24.39,24.07
+2,SAR,Williams,18.0,17.0,Finished,2023,Belgian,12,Race,True,14.333,12.4,0.23,23.86,24.31,24.28
+27,HUL,Haas F1 Team,20.0,18.0,Finished,2023,Belgian,12,Race,True,15.333,15.6,0.11,24.2,25.02,24.58
+55,SAI,Ferrari,4.0,19.0,Retired,2023,Belgian,12,Race,False,6.0,7.4,0.13,23.21,24.87,24.26
+81,PIA,McLaren,5.0,20.0,Retired,2023,Belgian,12,Race,False,4.667,4.0,0.06,24.37,24.0,24.4
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,Dutch,13,Race,True,2.0,2.6,0.08,430.58,24.36,23.35
+14,ALO,Aston Martin,5.0,2.0,Finished,2023,Dutch,13,Race,True,8.0,9.4,0.14,423.94,25.18,24.05
+10,GAS,Alpine,12.0,3.0,Finished,2023,Dutch,13,Race,True,13.0,15.6,0.16,462.79,,
+11,PER,Red Bull Racing,7.0,4.0,Finished,2023,Dutch,13,Race,True,1.333,1.6,0.08,430.58,24.36,23.35
+55,SAI,Ferrari,6.0,5.0,Finished,2023,Dutch,13,Race,True,10.0,9.4,0.13,368.97,25.27,24.42
+44,HAM,Mercedes,13.0,6.0,Finished,2023,Dutch,13,Race,True,5.333,5.0,0.11,425.38,24.8,28.28
+4,NOR,McLaren,2.0,7.0,Finished,2023,Dutch,13,Race,True,10.667,7.6,0.06,463.68,24.82,24.16
+23,ALB,Williams,4.0,8.0,Finished,2023,Dutch,13,Race,True,16.333,14.2,0.23,630.91,25.25,24.37
+81,PIA,McLaren,8.0,9.0,Finished,2023,Dutch,13,Race,True,11.333,8.2,0.06,463.68,24.82,24.16
+31,OCO,Alpine,16.0,10.0,Finished,2023,Dutch,13,Race,True,7.333,12.2,0.16,462.79,,
+18,STR,Aston Martin,11.0,11.0,Finished,2023,Dutch,13,Race,True,5.333,7.0,0.14,423.94,25.18,24.05
+27,HUL,Haas F1 Team,14.0,12.0,Finished,2023,Dutch,13,Race,True,16.667,16.6,0.11,457.15,25.55,24.78
+40,LAW,AlphaTauri,19.0,13.0,Finished,2023,Dutch,13,Race,True,13.667,14.2,0.11,423.39,24.73,24.22
+77,BOT,Alfa Romeo,18.0,14.0,Finished,2023,Dutch,13,Race,True,13.667,13.6,0.14,286.98,26.25,25.29
+22,TSU,AlphaTauri,17.0,15.0,Finished,2023,Dutch,13,Race,True,13.0,13.4,0.11,423.39,24.73,24.22
+20,MAG,Haas F1 Team,0.0,16.0,Finished,2023,Dutch,13,Race,True,15.0,15.2,0.11,457.15,25.55,24.78
+63,RUS,Mercedes,3.0,17.0,Finished,2023,Dutch,13,Race,True,5.333,5.2,0.11,425.38,24.8,28.28
+24,ZHO,Alfa Romeo,15.0,18.0,Accident,2023,Dutch,13,Race,False,13.0,13.4,0.14,286.98,26.25,25.29
+16,LEC,Ferrari,9.0,19.0,Undertray,2023,Dutch,13,Race,False,9.0,8.4,0.13,368.97,25.27,24.42
+2,SAR,Williams,10.0,20.0,Accident,2023,Dutch,13,Race,False,13.0,13.6,0.23,630.91,25.25,24.37
+1,VER,Red Bull Racing,2.0,1.0,Finished,2023,Italian,14,Race,True,2.333,2.2,0.08,24.06,158.37,104.76
+11,PER,Red Bull Racing,5.0,2.0,Finished,2023,Italian,14,Race,True,2.0,1.8,0.08,24.06,158.37,104.76
+55,SAI,Ferrari,1.0,3.0,Finished,2023,Italian,14,Race,True,14.333,10.8,0.13,24.53,138.72,93.36
+16,LEC,Ferrari,3.0,4.0,Finished,2023,Italian,14,Race,True,9.0,9.8,0.13,24.53,138.72,93.36
+63,RUS,Mercedes,4.0,5.0,Finished,2023,Italian,14,Race,True,9.667,7.8,0.11,24.19,156.82,104.22
+44,HAM,Mercedes,8.0,6.0,Finished,2023,Italian,14,Race,True,9.333,7.6,0.11,24.19,156.82,104.22
+23,ALB,Williams,6.0,7.0,Finished,2023,Italian,14,Race,True,15.0,15.4,0.23,24.52,225.81,145.54
+4,NOR,McLaren,9.0,8.0,Finished,2023,Italian,14,Race,True,12.0,9.6,0.06,26.55,169.87,112.01
+14,ALO,Aston Martin,10.0,9.0,Finished,2023,Italian,14,Race,True,7.333,7.4,0.14,25.26,156.96,104.05
+77,BOT,Alfa Romeo,14.0,10.0,Finished,2023,Italian,14,Race,True,15.0,14.6,0.14,24.99,111.76,77.63
+40,LAW,AlphaTauri,12.0,11.0,Finished,2023,Italian,14,Race,True,14.667,13.8,0.11,24.34,156.38,103.89
+81,PIA,McLaren,7.0,12.0,Finished,2023,Italian,14,Race,True,8.0,10.2,0.06,26.55,169.87,112.01
+2,SAR,Williams,15.0,13.0,Finished,2023,Italian,14,Race,True,11.667,13.2,0.23,24.52,225.81,145.54
+24,ZHO,Alfa Romeo,16.0,14.0,Finished,2023,Italian,14,Race,True,14.0,13.4,0.14,24.99,111.76,77.63
+10,GAS,Alpine,17.0,15.0,Finished,2023,Italian,14,Race,True,8.0,10.4,0.16,25.43,,
+18,STR,Aston Martin,20.0,16.0,Finished,2023,Italian,14,Race,True,7.333,7.2,0.14,25.26,156.96,104.05
+27,HUL,Haas F1 Team,13.0,17.0,Lapped,2023,Italian,14,Race,True,15.333,15.6,0.11,24.97,167.93,111.28
+20,MAG,Haas F1 Team,19.0,18.0,Lapped,2023,Italian,14,Race,True,15.0,15.6,0.11,24.97,167.93,111.28
+31,OCO,Alpine,18.0,19.0,Retired,2023,Italian,14,Race,False,9.333,9.4,0.16,25.43,,
+22,TSU,AlphaTauri,11.0,20.0,Did not start,2023,Italian,14,Race,False,13.0,13.0,0.11,24.34,156.38,103.89
+55,SAI,Ferrari,1.0,1.0,Finished,2023,Singapore,15,Race,True,8.667,10.0,0.13,31.21,138.9,93.86
+4,NOR,McLaren,4.0,2.0,Finished,2023,Singapore,15,Race,True,9.667,11.2,0.06,29.37,171.53,112.94
+44,HAM,Mercedes,5.0,3.0,Finished,2023,Singapore,15,Race,True,9.333,8.0,0.11,31.55,157.62,104.8
+16,LEC,Ferrari,3.0,4.0,Finished,2023,Singapore,15,Race,True,2.667,6.4,0.13,31.21,138.9,93.86
+1,VER,Red Bull Racing,11.0,5.0,Finished,2023,Singapore,15,Race,True,2.333,2.0,0.08,29.33,159.24,105.54
+10,GAS,Alpine,12.0,6.0,Finished,2023,Singapore,15,Race,True,14.667,11.6,0.16,30.77,170.75,
+81,PIA,McLaren,17.0,7.0,Finished,2023,Singapore,15,Race,True,7.333,7.6,0.06,29.37,171.53,112.94
+11,PER,Red Bull Racing,13.0,8.0,Finished,2023,Singapore,15,Race,True,2.667,2.6,0.08,29.33,159.24,105.54
+40,LAW,AlphaTauri,10.0,9.0,Finished,2023,Singapore,15,Race,True,15.333,15.0,0.11,32.33,156.87,104.38
+20,MAG,Haas F1 Team,6.0,10.0,Finished,2023,Singapore,15,Race,True,17.0,16.2,0.11,33.29,168.77,111.76
+23,ALB,Williams,14.0,11.0,Finished,2023,Singapore,15,Race,True,13.333,13.0,0.23,38.61,226.43,146.24
+24,ZHO,Alfa Romeo,19.0,12.0,Finished,2023,Singapore,15,Race,True,14.0,13.8,0.14,30.4,111.96,78.15
+27,HUL,Haas F1 Team,9.0,13.0,Finished,2023,Singapore,15,Race,True,15.0,14.6,0.11,33.29,168.77,111.76
+2,SAR,Williams,18.0,14.0,Finished,2023,Singapore,15,Race,True,10.333,11.8,0.23,38.61,226.43,146.24
+14,ALO,Aston Martin,7.0,15.0,Finished,2023,Singapore,15,Race,True,12.0,9.4,0.14,41.62,157.76,104.95
+63,RUS,Mercedes,2.0,16.0,Retired,2023,Singapore,15,Race,False,4.667,7.4,0.11,31.55,157.62,104.8
+77,BOT,Alfa Romeo,16.0,17.0,Retired,2023,Singapore,15,Race,False,12.0,13.6,0.14,30.4,111.96,78.15
+31,OCO,Alpine,8.0,18.0,Retired,2023,Singapore,15,Race,False,13.333,10.6,0.16,30.77,170.75,
+22,TSU,AlphaTauri,15.0,19.0,Retired,2023,Singapore,15,Race,False,13.333,13.6,0.11,32.33,156.87,104.38
+18,STR,Aston Martin,,,Withdrew,2023,Singapore,15,Race,False,13.333,10.6,0.14,41.62,157.76,104.95
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,Japanese,16,Race,True,5.0,4.0,0.08,-252.62,161.32,105.7
+4,NOR,McLaren,3.0,2.0,Finished,2023,Japanese,16,Race,True,7.0,7.6,0.06,23.55,173.2,113.1
+81,PIA,McLaren,2.0,3.0,Finished,2023,Japanese,16,Race,True,3.667,6.2,0.06,23.55,173.2,113.1
+16,LEC,Ferrari,4.0,4.0,Finished,2023,Japanese,16,Race,True,3.0,6.2,0.13,23.03,141.57,94.38
+44,HAM,Mercedes,7.0,5.0,Finished,2023,Japanese,16,Race,True,8.333,9.4,0.11,23.73,160.37,105.24
+55,SAI,Ferrari,6.0,6.0,Finished,2023,Japanese,16,Race,True,3.0,3.2,0.13,23.03,141.57,94.38
+63,RUS,Mercedes,8.0,7.0,Finished,2023,Japanese,16,Race,True,8.0,7.0,0.11,23.73,160.37,105.24
+14,ALO,Aston Martin,10.0,8.0,Finished,2023,Japanese,16,Race,True,,,0.14,23.85,163.61,107.55
+31,OCO,Alpine,14.0,9.0,Finished,2023,Japanese,16,Race,True,14.333,13.6,0.16,24.91,173.0,
+10,GAS,Alpine,12.0,10.0,Finished,2023,Japanese,16,Race,True,11.0,13.4,0.16,24.91,173.0,
+40,LAW,AlphaTauri,11.0,11.0,Lapped,2023,Japanese,16,Race,True,16.0,14.8,0.11,23.17,160.02,105.16
+22,TSU,AlphaTauri,9.0,12.0,Lapped,2023,Japanese,16,Race,True,13.0,14.0,0.11,23.17,160.02,105.16
+24,ZHO,Alfa Romeo,19.0,13.0,Lapped,2023,Japanese,16,Race,True,14.333,14.2,0.14,39.65,114.12,78.13
+27,HUL,Haas F1 Team,18.0,14.0,Lapped,2023,Japanese,16,Race,True,13.667,14.8,0.11,23.58,171.8,112.41
+20,MAG,Haas F1 Team,15.0,15.0,Lapped,2023,Japanese,16,Race,True,12.333,14.4,0.11,23.58,171.8,112.41
+23,ALB,Williams,13.0,16.0,Retired,2023,Japanese,16,Race,False,12.667,13.0,0.23,42.72,231.35,148.11
+2,SAR,Williams,20.0,17.0,Retired,2023,Japanese,16,Race,False,13.667,12.2,0.23,42.72,231.35,148.11
+18,STR,Aston Martin,17.0,18.0,Retired,2023,Japanese,16,Race,False,,,0.14,23.85,163.61,107.55
+11,PER,Red Bull Racing,5.0,19.0,Retired,2023,Japanese,16,Race,False,4.667,3.4,0.08,-252.62,161.32,105.7
+77,BOT,Alfa Romeo,16.0,20.0,Retired,2023,Japanese,16,Race,False,14.0,13.2,0.14,39.65,114.12,78.13
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,Qatar,17,Race,True,9.333,7.0,0.08,30.04,-66.41,50.88
+81,PIA,McLaren,6.0,2.0,Finished,2023,Qatar,17,Race,True,4.0,5.2,0.06,27.96,26.49,113.5
+4,NOR,McLaren,10.0,3.0,Finished,2023,Qatar,17,Race,True,2.333,3.2,0.06,27.96,26.49,113.5
+63,RUS,Mercedes,2.0,4.0,Finished,2023,Qatar,17,Race,True,9.333,7.4,0.11,31.19,26.49,105.63
+16,LEC,Ferrari,5.0,5.0,Finished,2023,Qatar,17,Race,True,4.667,3.8,0.13,27.86,26.26,94.19
+14,ALO,Aston Martin,4.0,6.0,Finished,2023,Qatar,17,Race,True,,,0.14,28.45,30.24,107.75
+31,OCO,Alpine,8.0,7.0,Finished,2023,Qatar,17,Race,True,12.333,12.4,0.16,30.07,27.04,113.59
+77,BOT,Alfa Romeo,9.0,8.0,Finished,2023,Qatar,17,Race,True,16.667,15.2,0.14,29.16,31.68,81.19
+24,ZHO,Alfa Romeo,19.0,9.0,Finished,2023,Qatar,17,Race,True,13.667,14.0,0.14,29.16,31.68,81.19
+11,PER,Red Bull Racing,20.0,10.0,Finished,2023,Qatar,17,Race,True,7.0,6.8,0.08,30.04,-66.41,50.88
+18,STR,Aston Martin,16.0,11.0,Finished,2023,Qatar,17,Race,True,10.667,,0.14,28.45,30.24,107.75
+10,GAS,Alpine,7.0,12.0,Finished,2023,Qatar,17,Race,True,8.667,10.0,0.16,30.07,27.04,113.59
+23,ALB,Williams,13.0,13.0,Finished,2023,Qatar,17,Race,True,15.667,14.2,0.23,29.19,35.28,152.12
+20,MAG,Haas F1 Team,18.0,14.0,Lapped,2023,Qatar,17,Race,True,14.0,14.0,0.11,30.79,27.28,112.64
+22,TSU,AlphaTauri,11.0,15.0,Lapped,2023,Qatar,17,Race,True,14.0,14.2,0.11,28.22,26.61,105.22
+27,HUL,Haas F1 Team,14.0,16.0,Lapped,2023,Qatar,17,Race,True,14.333,13.2,0.11,30.79,27.28,112.64
+40,LAW,AlphaTauri,17.0,17.0,Lapped,2023,Qatar,17,Race,True,12.667,13.2,0.11,28.22,26.61,105.22
+2,SAR,Williams,15.0,18.0,Retired,2023,Qatar,17,Race,False,15.333,14.2,0.23,29.19,35.28,152.12
+44,HAM,Mercedes,3.0,19.0,Retired,2023,Qatar,17,Race,False,5.333,7.0,0.11,31.19,26.49,105.63
+55,SAI,Ferrari,12.0,20.0,Did not start,2023,Qatar,17,Race,False,5.0,4.0,0.13,27.86,26.26,94.19
+1,VER,Red Bull Racing,6.0,1.0,Finished,2023,United States,18,Race,True,10.0,7.8,0.08,24.2,-64.42,52.28
+4,NOR,McLaren,2.0,2.0,Finished,2023,United States,18,Race,True,2.667,3.4,0.06,23.76,26.96,114.22
+55,SAI,Ferrari,4.0,3.0,Finished,2023,United States,18,Race,True,10.333,7.8,0.13,23.81,27.37,95.12
+11,PER,Red Bull Racing,9.0,4.0,Finished,2023,United States,18,Race,True,4.0,6.4,0.08,24.2,-64.42,52.28
+63,RUS,Mercedes,5.0,5.0,Finished,2023,United States,18,Race,True,10.0,10.2,0.11,24.52,28.82,107.21
+10,GAS,Alpine,7.0,6.0,Finished,2023,United States,18,Race,True,9.667,11.2,0.16,24.41,28.58,114.79
+18,STR,Aston Martin,20.0,7.0,Finished,2023,United States,18,Race,True,11.667,,0.14,24.59,31.31,108.62
+22,TSU,AlphaTauri,11.0,8.0,Finished,2023,United States,18,Race,True,14.667,14.8,0.11,24.57,27.91,106.29
+23,ALB,Williams,15.0,9.0,Finished,2023,United States,18,Race,True,16.0,15.6,0.23,24.39,36.84,153.19
+2,SAR,Williams,16.0,10.0,Finished,2023,United States,18,Race,True,13.333,14.6,0.23,24.39,36.84,153.19
+27,HUL,Haas F1 Team,18.0,11.0,Finished,2023,United States,18,Race,True,15.0,14.4,0.11,25.27,29.22,113.96
+77,BOT,Alfa Romeo,13.0,12.0,Finished,2023,United States,18,Race,True,12.333,13.4,0.14,25.06,33.07,82.24
+24,ZHO,Alfa Romeo,12.0,13.0,Lapped,2023,United States,18,Race,True,9.667,12.4,0.14,25.06,33.07,82.24
+20,MAG,Haas F1 Team,17.0,14.0,Lapped,2023,United States,18,Race,True,13.667,14.0,0.11,25.27,29.22,113.96
+3,RIC,AlphaTauri,14.0,15.0,Lapped,2023,United States,18,Race,True,13.333,12.6,0.11,24.57,27.91,106.29
+14,ALO,Aston Martin,19.0,16.0,Retired,2023,United States,18,Race,False,8.0,10.0,0.14,24.59,31.31,108.62
+81,PIA,McLaren,10.0,17.0,Retired,2023,United States,18,Race,False,2.333,2.4,0.06,23.76,26.96,114.22
+31,OCO,Alpine,8.0,18.0,Retired,2023,United States,18,Race,False,8.333,8.8,0.16,24.41,28.58,114.79
+44,HAM,Mercedes,3.0,19.0,Disqualified,2023,United States,18,Race,False,9.333,8.0,0.11,24.52,28.82,107.21
+16,LEC,Ferrari,1.0,20.0,Disqualified,2023,United States,18,Race,False,9.333,7.6,0.13,23.81,27.37,95.12
+1,VER,Red Bull Racing,3.0,1.0,Finished,2023,Mexico City,19,Race,True,5.0,7.0,0.08,417.98,-66.13,-29.0
+44,HAM,Mercedes,6.0,2.0,Finished,2023,Mexico City,19,Race,True,14.333,10.8,0.11,618.87,26.48,27.04
+16,LEC,Ferrari,1.0,3.0,Finished,2023,Mexico City,19,Race,True,14.333,10.8,0.13,617.55,24.9,26.09
+55,SAI,Ferrari,2.0,4.0,Finished,2023,Mexico City,19,Race,True,8.667,10.2,0.13,617.55,24.9,26.09
+4,NOR,McLaren,17.0,5.0,Finished,2023,Mexico City,19,Race,True,7.333,5.4,0.06,503.06,25.09,26.24
+63,RUS,Mercedes,8.0,6.0,Finished,2023,Mexico City,19,Race,True,8.667,9.8,0.11,618.87,26.48,27.04
+3,RIC,AlphaTauri,4.0,7.0,Finished,2023,Mexico City,19,Race,True,13.333,13.4,0.11,621.89,25.32,26.53
+81,PIA,McLaren,7.0,8.0,Finished,2023,Mexico City,19,Race,True,8.0,5.8,0.06,503.06,25.09,26.24
+23,ALB,Williams,14.0,9.0,Finished,2023,Mexico City,19,Race,True,12.333,13.4,0.23,625.82,32.1,31.89
+31,OCO,Alpine,15.0,10.0,Finished,2023,Mexico City,19,Race,True,12.0,10.6,0.16,824.89,26.46,27.12
+10,GAS,Alpine,11.0,11.0,Finished,2023,Mexico City,19,Race,True,11.333,10.6,0.16,824.89,26.46,27.12
+22,TSU,AlphaTauri,18.0,12.0,Finished,2023,Mexico City,19,Race,True,10.0,12.4,0.11,621.89,25.32,26.53
+27,HUL,Haas F1 Team,12.0,13.0,Finished,2023,Mexico City,19,Race,True,13.667,14.0,0.11,621.43,26.55,27.58
+24,ZHO,Alfa Romeo,10.0,14.0,Finished,2023,Mexico City,19,Race,True,11.333,12.4,0.14,626.39,31.29,29.85
+77,BOT,Alfa Romeo,9.0,15.0,Finished,2023,Mexico City,19,Race,True,13.0,11.2,0.14,626.39,31.29,29.85
+2,SAR,Williams,19.0,16.0,Retired,2023,Mexico City,19,Race,False,9.333,11.8,0.23,625.82,32.1,31.89
+18,STR,Aston Martin,0.0,17.0,Collision damage,2023,Mexico City,19,Race,False,11.333,11.6,0.14,626.25,25.63,28.75
+14,ALO,Aston Martin,13.0,18.0,Withdrew,2023,Mexico City,19,Race,False,13.333,11.4,0.14,626.25,25.63,28.75
+20,MAG,Haas F1 Team,16.0,19.0,Accident,2023,Mexico City,19,Race,False,12.667,13.6,0.11,621.43,26.55,27.58
+11,PER,Red Bull Racing,5.0,20.0,Collision damage,2023,Mexico City,19,Race,False,2.0,3.4,0.08,417.98,-66.13,-29.0
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,São Paulo,20,Race,True,8.333,7.2,0.08,368.42,157.41,49.79
+4,NOR,McLaren,6.0,2.0,Finished,2023,São Paulo,20,Race,True,10.0,7.0,0.06,392.65,184.93,121.54
+14,ALO,Aston Martin,4.0,3.0,Finished,2023,São Paulo,20,Race,True,17.0,13.8,0.14,369.09,226.43,148.95
+11,PER,Red Bull Racing,9.0,4.0,Finished,2023,São Paulo,20,Race,True,7.333,5.4,0.08,368.42,157.41,49.79
+18,STR,Aston Martin,3.0,5.0,Finished,2023,São Paulo,20,Race,True,12.667,12.2,0.14,369.09,226.43,148.95
+55,SAI,Ferrari,7.0,6.0,Finished,2023,São Paulo,20,Race,True,9.0,10.0,0.13,371.03,223.07,144.69
+10,GAS,Alpine,15.0,7.0,Finished,2023,São Paulo,20,Race,True,13.0,11.4,0.16,332.79,293.12,187.01
+44,HAM,Mercedes,5.0,8.0,Finished,2023,São Paulo,20,Race,True,9.0,10.2,0.11,368.98,224.86,145.97
+22,TSU,AlphaTauri,16.0,9.0,Finished,2023,São Paulo,20,Race,True,11.333,11.8,0.11,393.05,224.89,146.04
+31,OCO,Alpine,14.0,10.0,Lapped,2023,São Paulo,20,Race,True,9.333,10.4,0.16,332.79,293.12,187.01
+2,SAR,Williams,19.0,11.0,Lapped,2023,São Paulo,20,Race,True,11.667,12.4,0.23,374.32,226.47,152.15
+27,HUL,Haas F1 Team,11.0,12.0,Lapped,2023,São Paulo,20,Race,True,15.333,14.6,0.11,375.93,225.83,146.87
+3,RIC,AlphaTauri,17.0,13.0,Lapped,2023,São Paulo,20,Race,True,9.333,10.2,0.11,393.05,224.89,146.04
+81,PIA,McLaren,10.0,14.0,Lapped,2023,São Paulo,20,Race,True,5.0,6.8,0.06,392.65,184.93,121.54
+63,RUS,Mercedes,8.0,15.0,Retired,2023,São Paulo,20,Race,False,5.333,8.0,0.11,368.98,224.86,145.97
+77,BOT,Alfa Romeo,18.0,16.0,Retired,2023,São Paulo,20,Race,False,14.0,12.6,0.14,488.08,226.87,150.13
+24,ZHO,Alfa Romeo,20.0,17.0,Retired,2023,São Paulo,20,Race,False,15.0,14.0,0.14,488.08,226.87,150.13
+20,MAG,Haas F1 Team,12.0,18.0,Retired,2023,São Paulo,20,Race,False,14.667,13.8,0.11,375.93,225.83,146.87
+23,ALB,Williams,13.0,19.0,Retired,2023,São Paulo,20,Race,False,12.0,11.0,0.23,374.32,226.47,152.15
+16,LEC,Ferrari,2.0,20.0,Did not start,2023,São Paulo,20,Race,False,4.333,7.2,0.13,371.03,223.07,144.69
+1,VER,Red Bull Racing,2.0,1.0,Finished,2023,Las Vegas,21,Race,True,8.333,6.0,0.08,25.81,270.2,117.6
+16,LEC,Ferrari,1.0,2.0,Finished,2023,Las Vegas,21,Race,True,10.0,10.6,0.13,22.14,337.46,212.66
+11,PER,Red Bull Racing,11.0,3.0,Finished,2023,Las Vegas,21,Race,True,2.0,5.4,0.08,25.81,270.2,117.6
+31,OCO,Alpine,16.0,4.0,Finished,2023,Las Vegas,21,Race,True,9.333,11.2,0.16,22.09,394.03,247.41
+18,STR,Aston Martin,19.0,5.0,Finished,2023,Las Vegas,21,Race,True,8.667,11.8,0.14,24.36,339.98,214.45
+55,SAI,Ferrari,12.0,6.0,Finished,2023,Las Vegas,21,Race,True,9.333,7.0,0.13,22.14,337.46,212.66
+44,HAM,Mercedes,10.0,7.0,Finished,2023,Las Vegas,21,Race,True,9.667,10.0,0.11,21.88,337.46,213.46
+63,RUS,Mercedes,3.0,8.0,Finished,2023,Las Vegas,21,Race,True,10.0,7.6,0.11,21.88,337.46,213.46
+14,ALO,Aston Martin,9.0,9.0,Finished,2023,Las Vegas,21,Race,True,4.333,9.6,0.14,24.36,339.98,214.45
+81,PIA,McLaren,18.0,10.0,Finished,2023,Las Vegas,21,Race,True,8.0,9.2,0.06,21.95,306.49,194.2
+10,GAS,Alpine,4.0,11.0,Finished,2023,Las Vegas,21,Race,True,7.0,8.4,0.16,22.09,394.03,247.41
+23,ALB,Williams,5.0,12.0,Finished,2023,Las Vegas,21,Race,True,15.333,13.0,0.23,21.4,341.51,219.29
+20,MAG,Haas F1 Team,8.0,13.0,Finished,2023,Las Vegas,21,Race,True,16.333,15.2,0.11,22.82,340.88,215.4
+3,RIC,AlphaTauri,14.0,14.0,Finished,2023,Las Vegas,21,Race,True,11.333,11.2,0.11,21.25,346.5,218.18
+24,ZHO,Alfa Romeo,17.0,15.0,Finished,2023,Las Vegas,21,Race,True,16.0,15.0,0.14,21.83,379.84,241.67
+2,SAR,Williams,6.0,16.0,Finished,2023,Las Vegas,21,Race,True,14.0,13.4,0.23,21.4,341.51,219.29
+77,BOT,Alfa Romeo,7.0,17.0,Finished,2023,Las Vegas,21,Race,True,16.0,15.4,0.14,21.83,379.84,241.67
+22,TSU,AlphaTauri,20.0,18.0,Retired,2023,Las Vegas,21,Race,False,12.0,11.0,0.11,21.25,346.5,218.18
+27,HUL,Haas F1 Team,13.0,19.0,Retired,2023,Las Vegas,21,Race,False,14.333,15.0,0.11,22.82,340.88,215.4
+4,NOR,McLaren,15.0,20.0,Retired,2023,Las Vegas,21,Race,False,8.667,7.8,0.06,21.95,306.49,194.2
+1,VER,Red Bull Racing,1.0,1.0,Finished,2023,Abu Dhabi,22,Race,True,2.667,5.8,0.08,21.38,270.74,173.29
+16,LEC,Ferrari,2.0,2.0,Finished,2023,Abu Dhabi,22,Race,True,9.333,7.6,0.13,21.51,336.91,212.48
+63,RUS,Mercedes,4.0,3.0,Finished,2023,Abu Dhabi,22,Race,True,10.0,8.8,0.11,22.03,336.58,213.09
+11,PER,Red Bull Racing,9.0,4.0,Finished,2023,Abu Dhabi,22,Race,True,1.667,2.0,0.08,21.38,270.74,173.29
+4,NOR,McLaren,5.0,5.0,Finished,2023,Abu Dhabi,22,Race,True,14.667,10.8,0.06,22.11,305.89,193.88
+81,PIA,McLaren,3.0,6.0,Finished,2023,Abu Dhabi,22,Race,True,11.667,10.2,0.06,22.11,305.89,193.88
+14,ALO,Aston Martin,7.0,7.0,Finished,2023,Abu Dhabi,22,Race,True,6.333,8.0,0.14,21.91,339.9,214.55
+22,TSU,AlphaTauri,6.0,8.0,Finished,2023,Abu Dhabi,22,Race,True,15.0,13.2,0.11,21.57,345.4,217.8
+44,HAM,Mercedes,11.0,9.0,Finished,2023,Abu Dhabi,22,Race,True,6.0,8.2,0.11,22.03,336.58,213.09
+18,STR,Aston Martin,13.0,10.0,Finished,2023,Abu Dhabi,22,Race,True,7.0,5.8,0.14,21.91,339.9,214.55
+3,RIC,AlphaTauri,15.0,11.0,Finished,2023,Abu Dhabi,22,Race,True,13.333,12.4,0.11,21.57,345.4,217.8
+31,OCO,Alpine,12.0,12.0,Finished,2023,Abu Dhabi,22,Race,True,8.333,8.6,0.16,22.84,393.26,246.85
+10,GAS,Alpine,10.0,13.0,Finished,2023,Abu Dhabi,22,Race,True,9.0,8.8,0.16,22.84,393.26,246.85
+23,ALB,Williams,14.0,14.0,Finished,2023,Abu Dhabi,22,Race,True,15.667,14.8,0.23,22.07,340.51,215.02
+27,HUL,Haas F1 Team,8.0,15.0,Finished,2023,Abu Dhabi,22,Race,True,16.667,16.2,0.11,22.24,340.06,215.25
+2,SAR,Williams,20.0,16.0,Finished,2023,Abu Dhabi,22,Race,True,14.0,14.4,0.23,22.07,340.51,215.02
+24,ZHO,Alfa Romeo,19.0,17.0,Finished,2023,Abu Dhabi,22,Race,True,16.333,16.0,0.14,22.6,378.77,238.1
+55,SAI,Ferrari,16.0,18.0,Retired,2023,Abu Dhabi,22,Race,False,3.333,7.2,0.13,21.51,336.91,212.48
+77,BOT,Alfa Romeo,18.0,19.0,Lapped,2023,Abu Dhabi,22,Race,True,16.333,16.4,0.14,22.6,378.77,238.1
+20,MAG,Haas F1 Team,17.0,20.0,Lapped,2023,Abu Dhabi,22,Race,True,15.667,15.4,0.11,22.24,340.06,215.25
+1,VER,Red Bull Racing,1.0,1.0,Finished,2024,Bahrain,1,Race,True,,,0.08,24.56,,
+11,PER,Red Bull Racing,5.0,2.0,Finished,2024,Bahrain,1,Race,True,,,0.08,24.56,,
+55,SAI,Ferrari,4.0,3.0,Finished,2024,Bahrain,1,Race,True,,,0.13,24.15,,
+16,LEC,Ferrari,2.0,4.0,Finished,2024,Bahrain,1,Race,True,,,0.13,24.15,,
+63,RUS,Mercedes,3.0,5.0,Finished,2024,Bahrain,1,Race,True,,,0.11,24.72,,
+4,NOR,McLaren,7.0,6.0,Finished,2024,Bahrain,1,Race,True,,,0.06,24.78,,
+44,HAM,Mercedes,9.0,7.0,Finished,2024,Bahrain,1,Race,True,,,0.11,24.72,,
+81,PIA,McLaren,8.0,8.0,Finished,2024,Bahrain,1,Race,True,,,0.06,24.78,,
+14,ALO,Aston Martin,6.0,9.0,Finished,2024,Bahrain,1,Race,True,,,0.14,24.67,,
+18,STR,Aston Martin,12.0,10.0,Finished,2024,Bahrain,1,Race,True,,,0.14,24.67,,
+24,ZHO,Kick Sauber,17.0,11.0,Lapped,2024,Bahrain,1,Race,True,,,0.14,37.91,,
+20,MAG,Haas F1 Team,15.0,12.0,Lapped,2024,Bahrain,1,Race,True,,,0.11,27.19,,
+3,RIC,RB,14.0,13.0,Lapped,2024,Bahrain,1,Race,True,,,0.15,24.66,,
+22,TSU,RB,11.0,14.0,Lapped,2024,Bahrain,1,Race,True,,,0.15,24.66,,
+23,ALB,Williams,13.0,15.0,Lapped,2024,Bahrain,1,Race,True,,,0.23,27.15,,
+27,HUL,Haas F1 Team,10.0,16.0,Lapped,2024,Bahrain,1,Race,True,,,0.11,27.19,,
+31,OCO,Alpine,19.0,17.0,Lapped,2024,Bahrain,1,Race,True,,,0.16,26.54,,
+10,GAS,Alpine,20.0,18.0,Lapped,2024,Bahrain,1,Race,True,,,0.16,26.54,,
+77,BOT,Kick Sauber,16.0,19.0,Lapped,2024,Bahrain,1,Race,True,,,0.14,37.91,,
+2,SAR,Williams,18.0,20.0,Lapped,2024,Bahrain,1,Race,True,,,0.23,27.15,,
+1,VER,Red Bull Racing,1.0,1.0,Finished,2024,Saudi Arabian,2,Race,True,,,0.08,21.46,,
+11,PER,Red Bull Racing,3.0,2.0,Finished,2024,Saudi Arabian,2,Race,True,1.333,,0.08,21.46,,
+16,LEC,Ferrari,2.0,3.0,Finished,2024,Saudi Arabian,2,Race,True,,,0.13,22.91,,
+81,PIA,McLaren,5.0,4.0,Finished,2024,Saudi Arabian,2,Race,True,,,0.06,21.82,,
+14,ALO,Aston Martin,4.0,5.0,Finished,2024,Saudi Arabian,2,Race,True,,,0.14,22.24,,
+63,RUS,Mercedes,7.0,6.0,Finished,2024,Saudi Arabian,2,Race,True,,,0.11,20.62,,
+38,BEA,Ferrari,11.0,7.0,Finished,2024,Saudi Arabian,2,Race,True,3.333,,0.13,22.91,,
+4,NOR,McLaren,6.0,8.0,Finished,2024,Saudi Arabian,2,Race,True,6.0,,0.06,21.82,,
+44,HAM,Mercedes,8.0,9.0,Finished,2024,Saudi Arabian,2,Race,True,6.0,,0.11,20.62,,
+27,HUL,Haas F1 Team,15.0,10.0,Finished,2024,Saudi Arabian,2,Race,True,,,0.11,21.28,,
+23,ALB,Williams,12.0,11.0,Finished,2024,Saudi Arabian,2,Race,True,,,0.23,22.67,,
+20,MAG,Haas F1 Team,13.0,12.0,Finished,2024,Saudi Arabian,2,Race,True,12.667,,0.11,21.28,,
+31,OCO,Alpine,17.0,13.0,Lapped,2024,Saudi Arabian,2,Race,True,,,0.16,22.52,,
+2,SAR,Williams,19.0,14.0,Lapped,2024,Saudi Arabian,2,Race,True,15.333,,0.23,22.67,,
+22,TSU,RB,9.0,15.0,Lapped,2024,Saudi Arabian,2,Race,True,,,0.15,42.58,,
+3,RIC,RB,14.0,16.0,Lapped,2024,Saudi Arabian,2,Race,True,14.0,,0.15,42.58,,
+77,BOT,Kick Sauber,16.0,17.0,Lapped,2024,Saudi Arabian,2,Race,True,,,0.14,30.76,,
+24,ZHO,Kick Sauber,20.0,18.0,Lapped,2024,Saudi Arabian,2,Race,True,15.667,,0.14,30.76,,
+18,STR,Aston Martin,10.0,19.0,Retired,2024,Saudi Arabian,2,Race,False,8.0,,0.14,22.24,,
+10,GAS,Alpine,18.0,20.0,Retired,2024,Saudi Arabian,2,Race,False,16.0,,0.16,22.52,,
+55,SAI,Ferrari,2.0,1.0,Finished,2024,Australian,3,Race,True,4.667,,0.13,17.4,,
+16,LEC,Ferrari,4.0,2.0,Finished,2024,Australian,3,Race,True,3.667,3.6,0.13,17.4,,
+4,NOR,McLaren,3.0,3.0,Finished,2024,Australian,3,Race,True,6.667,,0.06,17.79,,
+81,PIA,McLaren,5.0,4.0,Finished,2024,Australian,3,Race,True,5.0,5.8,0.06,17.79,,
+11,PER,Red Bull Racing,6.0,5.0,Finished,2024,Australian,3,Race,True,1.667,,0.08,17.58,,
+18,STR,Aston Martin,9.0,6.0,Finished,2024,Australian,3,Race,True,11.333,,0.14,17.88,,
+22,TSU,RB,8.0,7.0,Finished,2024,Australian,3,Race,True,15.0,,0.15,17.94,,
+14,ALO,Aston Martin,10.0,8.0,Finished,2024,Australian,3,Race,True,10.0,9.8,0.14,17.88,,
+27,HUL,Haas F1 Team,16.0,9.0,Finished,2024,Australian,3,Race,True,12.667,,0.11,18.15,,
+20,MAG,Haas F1 Team,14.0,10.0,Lapped,2024,Australian,3,Race,True,10.333,11.8,0.11,18.15,,
+23,ALB,Williams,12.0,11.0,Lapped,2024,Australian,3,Race,True,15.0,,0.23,17.59,,
+3,RIC,RB,18.0,12.0,Lapped,2024,Australian,3,Race,True,12.667,13.0,0.15,17.94,,
+10,GAS,Alpine,17.0,13.0,Lapped,2024,Australian,3,Race,True,17.0,,0.16,20.89,,
+77,BOT,Kick Sauber,13.0,14.0,Lapped,2024,Australian,3,Race,True,18.0,,0.14,30.36,,
+24,ZHO,Kick Sauber,19.0,15.0,Lapped,2024,Australian,3,Race,True,16.333,15.8,0.14,30.36,,
+31,OCO,Alpine,15.0,16.0,Lapped,2024,Australian,3,Race,True,15.333,16.2,0.16,20.89,,
+63,RUS,Mercedes,7.0,17.0,Retired,2024,Australian,3,Race,False,7.333,,0.11,17.76,,
+44,HAM,Mercedes,11.0,18.0,Retired,2024,Australian,3,Race,False,10.667,8.8,0.11,17.76,,
+1,VER,Red Bull Racing,1.0,19.0,Retired,2024,Australian,3,Race,False,2.667,2.2,0.08,17.58,,
+1,VER,Red Bull Racing,1.0,1.0,Finished,2024,Japanese,4,Race,True,8.667,5.8,0.08,540.86,21.2,
+11,PER,Red Bull Racing,2.0,2.0,Finished,2024,Japanese,4,Race,True,8.333,5.6,0.08,540.86,21.2,
+55,SAI,Ferrari,4.0,3.0,Finished,2024,Japanese,4,Race,True,3.333,3.4,0.13,802.46,21.49,
+16,LEC,Ferrari,8.0,4.0,Finished,2024,Japanese,4,Race,True,2.0,3.2,0.13,802.46,21.49,
+4,NOR,McLaren,3.0,5.0,Finished,2024,Japanese,4,Race,True,5.0,5.4,0.06,542.12,21.46,
+14,ALO,Aston Martin,5.0,6.0,Finished,2024,Japanese,4,Race,True,11.0,9.6,0.14,468.84,21.6,
+63,RUS,Mercedes,9.0,7.0,Finished,2024,Japanese,4,Race,True,14.667,11.4,0.11,542.59,21.03,
+81,PIA,McLaren,6.0,8.0,Finished,2024,Japanese,4,Race,True,4.0,4.8,0.06,542.12,21.46,
+44,HAM,Mercedes,7.0,9.0,Finished,2024,Japanese,4,Race,True,14.0,11.4,0.11,542.59,21.03,
+22,TSU,RB,10.0,10.0,Lapped,2024,Japanese,4,Race,True,11.667,12.8,0.15,543.54,28.39,
+27,HUL,Haas F1 Team,12.0,11.0,Lapped,2024,Japanese,4,Race,True,10.333,11.4,0.11,647.83,22.21,
+18,STR,Aston Martin,16.0,12.0,Lapped,2024,Japanese,4,Race,True,6.667,8.8,0.14,468.84,21.6,
+20,MAG,Haas F1 Team,18.0,13.0,Lapped,2024,Japanese,4,Race,True,10.0,10.4,0.11,647.83,22.21,
+77,BOT,Kick Sauber,13.0,14.0,Lapped,2024,Japanese,4,Race,True,15.667,16.6,0.14,544.28,33.01,
+31,OCO,Alpine,15.0,15.0,Lapped,2024,Japanese,4,Race,True,16.333,16.0,0.16,544.45,23.32,
+10,GAS,Alpine,17.0,16.0,Lapped,2024,Japanese,4,Race,True,14.667,15.4,0.16,544.45,23.32,
+2,SAR,Williams,19.0,17.0,Lapped,2024,Japanese,4,Race,True,12.0,14.2,0.23,544.7,22.47,
+24,ZHO,Kick Sauber,20.0,18.0,Retired,2024,Japanese,4,Race,False,14.333,15.6,0.14,544.28,33.01,
+3,RIC,RB,11.0,19.0,Retired,2024,Japanese,4,Race,False,9.667,12.0,0.15,543.54,28.39,
+23,ALB,Williams,14.0,20.0,Retired,2024,Japanese,4,Race,False,14.0,14.6,0.23,544.7,22.47,
+1,VER,Red Bull Racing,1.0,1.0,Finished,2024,Chinese,5,Race,True,7.333,5.8,0.08,22.28,193.3,
+4,NOR,McLaren,4.0,2.0,Finished,2024,Chinese,5,Race,True,5.667,5.6,0.06,22.34,193.91,
+11,PER,Red Bull Racing,2.0,3.0,Finished,2024,Chinese,5,Race,True,1.333,5.6,0.08,22.28,193.3,
+16,LEC,Ferrari,6.0,4.0,Finished,2024,Chinese,5,Race,True,3.0,3.4,0.13,22.38,280.92,
+55,SAI,Ferrari,7.0,5.0,Finished,2024,Chinese,5,Race,True,3.667,2.8,0.13,22.38,280.92,
+63,RUS,Mercedes,8.0,6.0,Finished,2024,Chinese,5,Race,True,11.333,12.0,0.11,22.5,193.66,
+14,ALO,Aston Martin,3.0,7.0,Finished,2024,Chinese,5,Race,True,8.667,10.2,0.14,34.76,169.65,
+81,PIA,McLaren,5.0,8.0,Finished,2024,Chinese,5,Race,True,5.0,4.4,0.06,22.34,193.91,
+44,HAM,Mercedes,18.0,9.0,Finished,2024,Chinese,5,Race,True,7.333,11.4,0.11,22.5,193.66,
+27,HUL,Haas F1 Team,9.0,10.0,Finished,2024,Chinese,5,Race,True,11.333,11.0,0.11,23.78,229.09,
+31,OCO,Alpine,13.0,11.0,Finished,2024,Chinese,5,Race,True,15.667,16.0,0.16,26.51,195.95,
+23,ALB,Williams,14.0,12.0,Finished,2024,Chinese,5,Race,True,16.0,14.6,0.23,23.14,194.99,
+10,GAS,Alpine,15.0,13.0,Finished,2024,Chinese,5,Race,True,14.0,14.2,0.16,26.51,195.95,
+24,ZHO,Kick Sauber,16.0,14.0,Finished,2024,Chinese,5,Race,True,15.667,15.8,0.14,23.77,201.8,
+18,STR,Aston Martin,11.0,15.0,Finished,2024,Chinese,5,Race,True,8.333,7.8,0.14,34.76,169.65,
+20,MAG,Haas F1 Team,17.0,16.0,Finished,2024,Chinese,5,Race,True,11.333,10.6,0.11,23.78,229.09,
+2,SAR,Williams,20.0,17.0,Finished,2024,Chinese,5,Race,True,16.333,14.8,0.23,23.14,194.99,
+3,RIC,RB,12.0,18.0,Retired,2024,Chinese,5,Race,False,13.667,12.8,0.15,22.71,201.35,
+22,TSU,RB,19.0,19.0,Retired,2024,Chinese,5,Race,False,15.667,13.2,0.15,22.71,201.35,
+77,BOT,Kick Sauber,10.0,20.0,Retired,2024,Chinese,5,Race,False,15.333,15.0,0.14,23.77,201.8,
+4,NOR,McLaren,5.0,1.0,Finished,2024,Miami,6,Race,True,6.0,5.4,0.06,24.82,194.08,125.77
+1,VER,Red Bull Racing,1.0,2.0,Finished,2024,Miami,6,Race,True,2.0,5.2,0.08,22.17,193.57,125.35
+16,LEC,Ferrari,2.0,3.0,Finished,2024,Miami,6,Race,True,4.333,3.6,0.13,22.44,280.75,177.86
+11,PER,Red Bull Racing,4.0,4.0,Finished,2024,Miami,6,Race,True,2.0,1.8,0.08,22.17,193.57,125.35
+55,SAI,Ferrari,3.0,5.0,Finished,2024,Miami,6,Race,True,4.0,3.8,0.13,22.44,280.75,177.86
+44,HAM,Mercedes,8.0,6.0,Finished,2024,Miami,6,Race,True,8.0,9.8,0.11,22.85,194.28,125.64
+22,TSU,RB,10.0,7.0,Finished,2024,Miami,6,Race,True,18.667,15.6,0.15,22.43,194.73,130.29
+63,RUS,Mercedes,7.0,8.0,Finished,2024,Miami,6,Race,True,7.0,7.4,0.11,22.85,194.28,125.64
+14,ALO,Aston Martin,15.0,9.0,Finished,2024,Miami,6,Race,True,11.333,9.6,0.14,22.68,173.83,113.68
+31,OCO,Alpine,13.0,10.0,Finished,2024,Miami,6,Race,True,13.333,14.2,0.16,22.63,197.28,128.18
+27,HUL,Haas F1 Team,9.0,11.0,Finished,2024,Miami,6,Race,True,13.0,12.0,0.11,25.84,229.92,147.65
+10,GAS,Alpine,12.0,12.0,Finished,2024,Miami,6,Race,True,11.333,13.0,0.16,22.63,197.28,128.18
+81,PIA,McLaren,6.0,13.0,Finished,2024,Miami,6,Race,True,3.667,4.8,0.06,24.82,194.08,125.77
+24,ZHO,Kick Sauber,19.0,14.0,Finished,2024,Miami,6,Race,True,17.333,16.2,0.14,23.17,199.47,133.42
+3,RIC,RB,20.0,15.0,Finished,2024,Miami,6,Race,True,14.667,14.6,0.15,22.43,194.73,130.29
+77,BOT,Kick Sauber,16.0,16.0,Finished,2024,Miami,6,Race,True,16.0,16.0,0.14,23.17,199.47,133.42
+18,STR,Aston Martin,11.0,17.0,Finished,2024,Miami,6,Race,True,10.333,9.8,0.14,22.68,173.83,113.68
+23,ALB,Williams,14.0,18.0,Finished,2024,Miami,6,Race,True,16.333,15.4,0.23,22.55,195.14,127.05
+20,MAG,Haas F1 Team,18.0,19.0,Finished,2024,Miami,6,Race,True,12.333,12.2,0.11,25.84,229.92,147.65
+2,SAR,Williams,17.0,20.0,Retired,2024,Miami,6,Race,False,15.667,16.8,0.23,22.55,195.14,127.05
+1,VER,Red Bull Racing,1.0,1.0,Finished,2024,Emilia Romagna,7,Race,True,3.0,2.4,0.08,29.93,195.1,124.87
+4,NOR,McLaren,2.0,2.0,Finished,2024,Emilia Romagna,7,Race,True,7.333,6.4,0.06,29.78,196.43,125.78
+16,LEC,Ferrari,3.0,3.0,Finished,2024,Emilia Romagna,7,Race,True,4.333,4.2,0.13,30.35,282.43,177.52
+81,PIA,McLaren,5.0,4.0,Finished,2024,Emilia Romagna,7,Race,True,5.333,5.2,0.06,29.78,196.43,125.78
+55,SAI,Ferrari,4.0,5.0,Finished,2024,Emilia Romagna,7,Race,True,3.667,4.0,0.13,30.35,282.43,177.52
+44,HAM,Mercedes,8.0,6.0,Finished,2024,Emilia Romagna,7,Race,True,7.667,7.6,0.11,29.69,195.98,125.26
+63,RUS,Mercedes,6.0,7.0,Finished,2024,Emilia Romagna,7,Race,True,6.667,7.0,0.11,29.69,195.98,125.26
+11,PER,Red Bull Racing,11.0,8.0,Finished,2024,Emilia Romagna,7,Race,True,2.333,2.2,0.08,29.93,195.1,124.87
+18,STR,Aston Martin,13.0,9.0,Finished,2024,Emilia Romagna,7,Race,True,13.667,12.0,0.14,30.47,175.43,113.28
+22,TSU,RB,7.0,10.0,Lapped,2024,Emilia Romagna,7,Race,True,13.667,15.6,0.15,29.95,196.23,129.84
+27,HUL,Haas F1 Team,10.0,11.0,Lapped,2024,Emilia Romagna,7,Race,True,15.333,13.8,0.11,30.56,232.48,147.38
+20,MAG,Haas F1 Team,18.0,12.0,Lapped,2024,Emilia Romagna,7,Race,True,13.667,13.4,0.11,30.56,232.48,147.38
+3,RIC,RB,9.0,13.0,Lapped,2024,Emilia Romagna,7,Race,True,10.667,13.8,0.15,29.95,196.23,129.84
+31,OCO,Alpine,12.0,14.0,Lapped,2024,Emilia Romagna,7,Race,True,11.667,12.4,0.16,30.46,197.86,127.4
+24,ZHO,Kick Sauber,17.0,15.0,Lapped,2024,Emilia Romagna,7,Race,True,16.667,16.4,0.14,30.24,197.07,130.47
+10,GAS,Alpine,15.0,16.0,Lapped,2024,Emilia Romagna,7,Race,True,12.0,12.0,0.16,30.46,197.86,127.4
+2,SAR,Williams,19.0,17.0,Lapped,2024,Emilia Romagna,7,Race,True,18.333,17.4,0.23,32.78,196.8,126.13
+77,BOT,Kick Sauber,16.0,18.0,Lapped,2024,Emilia Romagna,7,Race,True,15.0,15.8,0.14,30.24,197.07,130.47
+14,ALO,Aston Martin,20.0,19.0,Lapped,2024,Emilia Romagna,7,Race,True,11.667,11.4,0.14,30.47,175.43,113.28
+23,ALB,Williams,14.0,20.0,Retired,2024,Emilia Romagna,7,Race,False,18.333,16.8,0.23,32.78,196.8,126.13
+16,LEC,Ferrari,1.0,1.0,Finished,2024,Monaco,8,Race,True,4.333,4.2,0.13,2342.28,25.06,179.01
+81,PIA,McLaren,2.0,2.0,Finished,2024,Monaco,8,Race,True,6.333,5.6,0.06,2361.39,25.65,127.37
+55,SAI,Ferrari,3.0,3.0,Finished,2024,Monaco,8,Race,True,3.0,3.4,0.13,2342.28,25.06,179.01
+4,NOR,McLaren,4.0,4.0,Finished,2024,Monaco,8,Race,True,2.667,4.4,0.06,2361.39,25.65,127.37
+63,RUS,Mercedes,5.0,5.0,Finished,2024,Monaco,8,Race,True,7.0,7.2,0.11,1589.57,25.01,127.08
+1,VER,Red Bull Racing,6.0,6.0,Finished,2024,Monaco,8,Race,True,4.333,3.6,0.08,1198.07,24.79,126.56
+44,HAM,Mercedes,7.0,7.0,Finished,2024,Monaco,8,Race,True,6.0,6.4,0.11,1589.57,25.01,127.08
+22,TSU,RB,8.0,8.0,Lapped,2024,Monaco,8,Race,True,12.667,12.8,0.15,2381.41,25.03,127.31
+23,ALB,Williams,9.0,9.0,Lapped,2024,Monaco,8,Race,True,19.0,18.4,0.23,1598.95,26.16,128.15
+10,GAS,Alpine,10.0,10.0,Lapped,2024,Monaco,8,Race,True,14.0,13.0,0.16,2381.59,26.53,128.99
+14,ALO,Aston Martin,14.0,11.0,Lapped,2024,Monaco,8,Race,True,15.0,13.8,0.14,1598.9,29.3,114.93
+3,RIC,RB,12.0,12.0,Lapped,2024,Monaco,8,Race,True,10.333,10.6,0.15,2381.41,25.03,127.31
+77,BOT,Kick Sauber,17.0,13.0,Lapped,2024,Monaco,8,Race,True,16.333,16.6,0.14,1207.27,25.73,130.36
+18,STR,Aston Martin,13.0,14.0,Lapped,2024,Monaco,8,Race,True,13.0,13.0,0.14,1598.9,29.3,114.93
+2,SAR,Williams,15.0,15.0,Lapped,2024,Monaco,8,Race,True,15.333,16.8,0.23,1598.95,26.16,128.15
+24,ZHO,Kick Sauber,18.0,16.0,Lapped,2024,Monaco,8,Race,True,15.333,15.2,0.14,1207.27,25.73,130.36
+31,OCO,Alpine,11.0,17.0,Retired,2024,Monaco,8,Race,False,13.333,12.4,0.16,2381.59,26.53,128.99
+11,PER,Red Bull Racing,16.0,18.0,Retired,2024,Monaco,8,Race,False,5.0,4.2,0.08,1198.07,24.79,126.56
+27,HUL,Haas F1 Team,19.0,19.0,Retired,2024,Monaco,8,Race,False,14.0,13.8,0.11,,,
+20,MAG,Haas F1 Team,20.0,20.0,Retired,2024,Monaco,8,Race,False,14.0,14.4,0.11,,,
+1,VER,Red Bull Racing,2.0,1.0,Finished,2024,Canadian,9,Race,True,10.667,7.4,0.08,26.65,416.72,362.66
+4,NOR,McLaren,3.0,2.0,Finished,2024,Canadian,9,Race,True,3.333,5.0,0.06,23.69,805.33,596.09
+63,RUS,Mercedes,1.0,3.0,Finished,2024,Canadian,9,Race,True,6.333,6.6,0.11,25.76,547.37,441.44
+44,HAM,Mercedes,7.0,4.0,Finished,2024,Canadian,9,Race,True,5.0,5.6,0.11,25.76,547.37,441.44
+81,PIA,McLaren,4.0,5.0,Finished,2024,Canadian,9,Race,True,2.667,2.8,0.06,23.69,805.33,596.09
+14,ALO,Aston Martin,6.0,6.0,Finished,2024,Canadian,9,Race,True,14.667,14.0,0.14,24.4,550.68,431.13
+18,STR,Aston Martin,9.0,7.0,Finished,2024,Canadian,9,Race,True,10.333,11.8,0.14,24.4,550.68,431.13
+3,RIC,RB,5.0,8.0,Finished,2024,Canadian,9,Race,True,11.0,11.6,0.15,26.58,811.26,600.01
+10,GAS,Alpine,15.0,9.0,Finished,2024,Canadian,9,Race,True,14.333,13.8,0.16,24.69,811.56,601.13
+31,OCO,Alpine,18.0,10.0,Finished,2024,Canadian,9,Race,True,12.0,13.2,0.16,24.69,811.56,601.13
+27,HUL,Haas F1 Team,17.0,11.0,Finished,2024,Canadian,9,Race,True,17.0,16.2,0.11,26.09,26.73,149.23
+20,MAG,Haas F1 Team,14.0,12.0,Finished,2024,Canadian,9,Race,True,16.667,14.6,0.11,26.09,26.73,149.23
+77,BOT,Kick Sauber,19.0,13.0,Finished,2024,Canadian,9,Race,True,15.667,15.6,0.14,36.14,420.23,365.75
+22,TSU,RB,8.0,14.0,Finished,2024,Canadian,9,Race,True,9.333,10.2,0.15,26.58,811.26,600.01
+24,ZHO,Kick Sauber,20.0,15.0,Lapped,2024,Canadian,9,Race,True,14.0,15.0,0.14,36.14,420.23,365.75
+55,SAI,Ferrari,12.0,16.0,Retired,2024,Canadian,9,Race,False,3.0,3.4,0.13,30.77,798.36,643.98
+23,ALB,Williams,10.0,17.0,Retired,2024,Canadian,9,Race,False,14.667,16.2,0.23,24.78,551.43,444.42
+11,PER,Red Bull Racing,16.0,18.0,Retired,2024,Canadian,9,Race,False,8.333,6.8,0.08,26.65,416.72,362.66
+16,LEC,Ferrari,11.0,19.0,Retired,2024,Canadian,9,Race,False,6.667,5.6,0.13,30.77,798.36,643.98
+2,SAR,Williams,13.0,20.0,Retired,2024,Canadian,9,Race,False,13.667,15.6,0.23,24.78,551.43,444.42
+1,VER,Red Bull Racing,2.0,1.0,Finished,2024,Spanish,10,Race,True,12.333,10.2,0.08,21.79,418.22,259.82
+4,NOR,McLaren,1.0,2.0,Finished,2024,Spanish,10,Race,True,3.667,3.4,0.06,22.18,804.95,492.4
+44,HAM,Mercedes,3.0,3.0,Finished,2024,Spanish,10,Race,True,4.667,5.2,0.11,22.74,548.34,338.07
+63,RUS,Mercedes,4.0,4.0,Finished,2024,Spanish,10,Race,True,3.333,4.4,0.11,22.74,548.34,338.07
+16,LEC,Ferrari,5.0,5.0,Finished,2024,Spanish,10,Race,True,12.667,8.8,0.13,22.08,801.13,489.64
+55,SAI,Ferrari,6.0,6.0,Finished,2024,Spanish,10,Race,True,13.333,8.8,0.13,22.08,801.13,489.64
+81,PIA,McLaren,9.0,7.0,Finished,2024,Spanish,10,Race,True,3.0,3.0,0.06,22.18,804.95,492.4
+11,PER,Red Bull Racing,11.0,8.0,Finished,2024,Spanish,10,Race,True,6.667,8.8,0.08,21.79,418.22,259.82
+10,GAS,Alpine,7.0,9.0,Finished,2024,Spanish,10,Race,True,12.0,12.4,0.16,22.89,812.25,497.18
+31,OCO,Alpine,8.0,10.0,Finished,2024,Spanish,10,Race,True,9.333,11.0,0.16,22.89,812.25,497.18
+27,HUL,Haas F1 Team,13.0,11.0,Finished,2024,Spanish,10,Race,True,14.333,14.8,0.11,24.33,27.5,150.82
+14,ALO,Aston Martin,10.0,12.0,Lapped,2024,Spanish,10,Race,True,9.0,11.4,0.14,22.39,551.26,342.24
+24,ZHO,Kick Sauber,15.0,13.0,Lapped,2024,Spanish,10,Race,True,14.667,15.0,0.14,23.13,424.55,264.12
+18,STR,Aston Martin,14.0,14.0,Lapped,2024,Spanish,10,Race,True,8.333,10.0,0.14,22.39,551.26,342.24
+3,RIC,RB,18.0,15.0,Lapped,2024,Spanish,10,Race,True,11.333,11.0,0.15,22.2,812.65,496.62
+77,BOT,Kick Sauber,12.0,16.0,Lapped,2024,Spanish,10,Race,True,13.667,14.0,0.14,23.13,424.55,264.12
+20,MAG,Haas F1 Team,16.0,17.0,Lapped,2024,Spanish,10,Race,True,11.333,14.6,0.11,24.33,27.5,150.82
+23,ALB,Williams,20.0,18.0,Lapped,2024,Spanish,10,Race,True,17.333,16.2,0.23,22.45,552.17,340.44
+22,TSU,RB,17.0,19.0,Lapped,2024,Spanish,10,Race,True,12.333,11.4,0.15,22.2,812.65,496.62
+2,SAR,Williams,19.0,20.0,Lapped,2024,Spanish,10,Race,True,18.333,15.8,0.23,22.45,552.17,340.44
+63,RUS,Mercedes,3.0,1.0,Finished,2024,Austrian,11,Race,True,3.667,4.2,0.11,22.96,546.02,338.12
+81,PIA,McLaren,7.0,2.0,Finished,2024,Austrian,11,Race,True,4.667,4.0,0.06,21.15,802.42,492.37
+55,SAI,Ferrari,4.0,3.0,Finished,2024,Austrian,11,Race,True,10.0,9.8,0.13,23.16,798.38,489.58
+44,HAM,Mercedes,5.0,4.0,Finished,2024,Austrian,11,Race,True,2.667,3.0,0.11,22.96,546.02,338.12
+1,VER,Red Bull Racing,1.0,5.0,Finished,2024,Austrian,11,Race,True,9.0,9.2,0.08,25.19,415.5,259.72
+27,HUL,Haas F1 Team,9.0,6.0,Finished,2024,Austrian,11,Race,True,13.333,14.2,0.11,21.69,26.99,26.12
+11,PER,Red Bull Racing,8.0,7.0,Finished,2024,Austrian,11,Race,True,4.667,6.6,0.08,25.19,415.5,259.72
+20,MAG,Haas F1 Team,12.0,8.0,Finished,2024,Austrian,11,Race,True,11.333,11.4,0.11,21.69,26.99,26.12
+3,RIC,RB,11.0,9.0,Finished,2024,Austrian,11,Race,True,16.0,13.6,0.15,21.82,810.06,496.51
+10,GAS,Alpine,13.0,10.0,Finished,2024,Austrian,11,Race,True,9.667,11.0,0.16,21.75,809.72,496.45
+16,LEC,Ferrari,6.0,11.0,Finished,2024,Austrian,11,Race,True,4.667,9.8,0.13,23.16,798.38,489.58
+31,OCO,Alpine,10.0,12.0,Finished,2024,Austrian,11,Race,True,9.667,9.6,0.16,21.75,809.72,496.45
+18,STR,Aston Martin,17.0,13.0,Lapped,2024,Austrian,11,Race,True,11.0,10.6,0.14,24.19,548.56,339.77
+22,TSU,RB,14.0,14.0,Lapped,2024,Austrian,11,Race,True,14.333,13.0,0.15,21.82,810.06,496.51
+23,ALB,Williams,16.0,15.0,Lapped,2024,Austrian,11,Race,True,19.333,18.0,0.23,23.95,548.73,340.3
+77,BOT,Kick Sauber,18.0,16.0,Lapped,2024,Austrian,11,Race,True,14.667,14.6,0.14,22.14,422.18,263.99
+24,ZHO,Kick Sauber,20.0,17.0,Lapped,2024,Austrian,11,Race,True,15.0,14.6,0.14,22.14,422.18,263.99
+14,ALO,Aston Martin,15.0,18.0,Lapped,2024,Austrian,11,Race,True,13.0,10.4,0.14,24.19,548.56,339.77
+2,SAR,Williams,19.0,19.0,Lapped,2024,Austrian,11,Race,True,17.667,18.0,0.23,23.95,548.73,340.3
+4,NOR,McLaren,2.0,20.0,Lapped,2024,Austrian,11,Race,True,3.667,3.6,0.06,21.15,802.42,492.37
+44,HAM,Mercedes,2.0,1.0,Finished,2024,British,12,Race,True,3.0,3.2,0.11,30.39,23.82,338.14
+1,VER,Red Bull Racing,4.0,2.0,Finished,2024,British,12,Race,True,6.667,7.8,0.08,29.4,24.54,260.33
+4,NOR,McLaren,3.0,3.0,Finished,2024,British,12,Race,True,9.667,7.2,0.06,29.51,22.34,491.64
+81,PIA,McLaren,5.0,4.0,Finished,2024,British,12,Race,True,8.333,6.8,0.06,29.51,22.34,491.64
+55,SAI,Ferrari,7.0,5.0,Finished,2024,British,12,Race,True,6.667,8.8,0.13,28.95,25.34,489.73
+27,HUL,Haas F1 Team,6.0,6.0,Finished,2024,British,12,Race,True,10.333,10.8,0.11,29.99,24.04,25.7
+18,STR,Aston Martin,8.0,7.0,Finished,2024,British,12,Race,True,15.0,12.8,0.14,29.4,23.66,340.07
+14,ALO,Aston Martin,10.0,8.0,Finished,2024,British,12,Race,True,12.667,12.8,0.14,29.4,23.66,340.07
+23,ALB,Williams,9.0,9.0,Finished,2024,British,12,Race,True,18.0,18.4,0.23,31.64,23.73,340.58
+22,TSU,RB,13.0,10.0,Finished,2024,British,12,Race,True,14.0,14.2,0.15,29.6,23.53,496.39
+2,SAR,Williams,12.0,11.0,Finished,2024,British,12,Race,True,14.333,16.2,0.23,31.64,23.73,340.58
+20,MAG,Haas F1 Team,17.0,12.0,Finished,2024,British,12,Race,True,6.667,9.6,0.11,29.99,24.04,25.7
+3,RIC,RB,15.0,13.0,Lapped,2024,British,12,Race,True,11.0,13.4,0.15,29.6,23.53,496.39
+16,LEC,Ferrari,11.0,14.0,Lapped,2024,British,12,Race,True,6.333,6.0,0.13,28.95,25.34,489.73
+77,BOT,Kick Sauber,16.0,15.0,Lapped,2024,British,12,Race,True,16.333,15.4,0.14,30.53,27.14,263.78
+31,OCO,Alpine,18.0,16.0,Lapped,2024,British,12,Race,True,10.667,10.2,0.16,28.79,23.11,496.28
+11,PER,Red Bull Racing,20.0,17.0,Lapped,2024,British,12,Race,True,4.667,4.6,0.08,29.4,24.54,260.33
+24,ZHO,Kick Sauber,14.0,18.0,Lapped,2024,British,12,Race,True,16.0,15.4,0.14,30.53,27.14,263.78
+63,RUS,Mercedes,1.0,19.0,Retired,2024,British,12,Race,False,2.0,2.6,0.11,30.39,23.82,338.14
+10,GAS,Alpine,19.0,20.0,Did not start,2024,British,12,Race,False,12.667,11.4,0.16,28.79,23.11,496.28
+81,PIA,McLaren,2.0,1.0,Finished,2024,Hungarian,13,Race,True,9.0,7.2,0.06,21.63,24.28,491.58
+4,NOR,McLaren,1.0,2.0,Finished,2024,Hungarian,13,Race,True,2.667,6.0,0.06,21.63,24.28,491.58
+44,HAM,Mercedes,5.0,3.0,Finished,2024,Hungarian,13,Race,True,8.0,5.8,0.11,21.48,25.36,338.28
+16,LEC,Ferrari,6.0,4.0,Finished,2024,Hungarian,13,Race,True,10.0,7.8,0.13,21.64,24.73,489.45
+1,VER,Red Bull Racing,3.0,5.0,Finished,2024,Hungarian,13,Race,True,8.667,7.8,0.08,21.49,25.46,260.22
+55,SAI,Ferrari,4.0,6.0,Finished,2024,Hungarian,13,Race,True,7.667,7.4,0.13,21.64,24.73,489.45
+11,PER,Red Bull Racing,16.0,7.0,Finished,2024,Hungarian,13,Race,True,8.0,7.2,0.08,21.49,25.46,260.22
+63,RUS,Mercedes,17.0,8.0,Finished,2024,Hungarian,13,Race,True,7.667,5.6,0.11,21.48,25.36,338.28
+22,TSU,RB,10.0,9.0,Finished,2024,Hungarian,13,Race,True,12.333,13.0,0.15,21.32,24.54,496.32
+18,STR,Aston Martin,8.0,10.0,Finished,2024,Hungarian,13,Race,True,11.0,12.0,0.14,22.54,25.33,339.86
+14,ALO,Aston Martin,7.0,11.0,Finished,2024,Hungarian,13,Race,True,8.333,11.2,0.14,22.54,25.33,339.86
+3,RIC,RB,9.0,12.0,Lapped,2024,Hungarian,13,Race,True,10.667,11.0,0.15,21.32,24.54,496.32
+27,HUL,Haas F1 Team,11.0,13.0,Lapped,2024,Hungarian,13,Race,True,8.667,9.8,0.11,22.33,25.34,26.53
+23,ALB,Williams,13.0,14.0,Lapped,2024,Hungarian,13,Race,True,13.0,14.8,0.23,22.13,26.01,340.35
+20,MAG,Haas F1 Team,15.0,15.0,Lapped,2024,Hungarian,13,Race,True,10.333,9.0,0.11,22.33,25.34,26.53
+77,BOT,Kick Sauber,12.0,16.0,Lapped,2024,Hungarian,13,Race,True,16.667,16.4,0.14,22.04,25.27,263.84
+2,SAR,Williams,14.0,17.0,Lapped,2024,Hungarian,13,Race,True,11.333,13.6,0.23,22.13,26.01,340.35
+31,OCO,Alpine,19.0,18.0,Lapped,2024,Hungarian,13,Race,True,16.0,13.6,0.16,21.47,24.48,495.94
+24,ZHO,Kick Sauber,18.0,19.0,Lapped,2024,Hungarian,13,Race,True,16.333,16.4,0.14,22.04,25.27,263.84
+10,GAS,Alpine,20.0,20.0,Retired,2024,Hungarian,13,Race,False,18.0,15.2,0.16,21.47,24.48,495.94
+44,HAM,Mercedes,3.0,1.0,Finished,2024,Belgian,14,Race,True,10.0,7.0,0.11,22.85,24.94,24.67
+81,PIA,McLaren,5.0,2.0,Finished,2024,Belgian,14,Race,True,2.333,6.0,0.06,23.07,24.1,23.63
+16,LEC,Ferrari,1.0,3.0,Finished,2024,Belgian,14,Race,True,8.0,8.0,0.13,23.18,24.58,25.32
+1,VER,Red Bull Racing,11.0,4.0,Finished,2024,Belgian,14,Race,True,9.667,7.6,0.08,22.79,25.36,24.9
+4,NOR,McLaren,4.0,5.0,Finished,2024,Belgian,14,Race,True,1.667,2.4,0.06,23.07,24.1,23.63
+55,SAI,Ferrari,7.0,6.0,Finished,2024,Belgian,14,Race,True,4.333,6.4,0.13,23.18,24.58,25.32
+11,PER,Red Bull Racing,2.0,7.0,Finished,2024,Belgian,14,Race,True,5.333,7.0,0.08,22.79,25.36,24.9
+14,ALO,Aston Martin,8.0,8.0,Finished,2024,Belgian,14,Race,True,9.667,10.8,0.14,23.0,25.38,24.58
+31,OCO,Alpine,9.0,9.0,Finished,2024,Belgian,14,Race,True,19.333,17.2,0.16,23.21,24.0,23.92
+3,RIC,RB,13.0,10.0,Finished,2024,Belgian,14,Race,True,11.333,11.6,0.15,22.77,24.25,24.3
+18,STR,Aston Martin,15.0,11.0,Finished,2024,Belgian,14,Race,True,9.667,8.8,0.14,23.0,25.38,24.58
+23,ALB,Williams,10.0,12.0,Finished,2024,Belgian,14,Race,True,14.0,14.0,0.23,23.3,25.91,24.99
+10,GAS,Alpine,12.0,13.0,Finished,2024,Belgian,14,Race,True,15.667,16.6,0.16,23.21,24.0,23.92
+20,MAG,Haas F1 Team,17.0,14.0,Finished,2024,Belgian,14,Race,True,13.333,10.8,0.11,23.49,24.67,24.89
+77,BOT,Kick Sauber,14.0,15.0,Finished,2024,Belgian,14,Race,True,17.667,17.0,0.14,23.14,24.9,26.8
+22,TSU,RB,20.0,16.0,Finished,2024,Belgian,14,Race,True,10.333,10.8,0.15,22.77,24.25,24.3
+2,SAR,Williams,18.0,17.0,Finished,2024,Belgian,14,Race,True,14.333,12.6,0.23,23.3,25.91,24.99
+27,HUL,Haas F1 Team,16.0,18.0,Finished,2024,Belgian,14,Race,True,14.0,12.0,0.11,23.49,24.67,24.89
+24,ZHO,Kick Sauber,19.0,19.0,Retired,2024,Belgian,14,Race,False,16.667,16.6,0.14,23.14,24.9,26.8
+63,RUS,Mercedes,6.0,20.0,Disqualified,2024,Belgian,14,Race,False,4.0,6.4,0.11,22.85,24.94,24.67
+4,NOR,McLaren,1.0,1.0,Finished,2024,Dutch,15,Race,True,3.0,2.8,0.06,21.3,24.74,23.51
+1,VER,Red Bull Racing,2.0,2.0,Finished,2024,Dutch,15,Race,True,6.0,8.0,0.08,21.87,24.56,24.13
+16,LEC,Ferrari,6.0,3.0,Finished,2024,Dutch,15,Race,True,5.0,6.6,0.13,20.75,24.59,23.8
+81,PIA,McLaren,3.0,4.0,Finished,2024,Dutch,15,Race,True,2.667,2.2,0.06,21.3,24.74,23.51
+55,SAI,Ferrari,10.0,5.0,Finished,2024,Dutch,15,Race,True,4.0,4.4,0.13,20.75,24.59,23.8
+11,PER,Red Bull Racing,5.0,6.0,Finished,2024,Dutch,15,Race,True,4.333,5.0,0.08,21.87,24.56,24.13
+63,RUS,Mercedes,4.0,7.0,Finished,2024,Dutch,15,Race,True,9.667,10.2,0.11,21.24,24.91,24.08
+44,HAM,Mercedes,14.0,8.0,Finished,2024,Dutch,15,Race,True,9.333,7.8,0.11,21.24,24.91,24.08
+10,GAS,Alpine,9.0,9.0,Lapped,2024,Dutch,15,Race,True,14.0,16.0,0.16,21.81,24.49,23.62
+14,ALO,Aston Martin,7.0,10.0,Lapped,2024,Dutch,15,Race,True,10.0,9.6,0.14,21.46,24.98,24.3
+27,HUL,Haas F1 Team,12.0,11.0,Lapped,2024,Dutch,15,Race,True,15.667,14.4,0.11,21.56,25.27,24.37
+3,RIC,RB,13.0,12.0,Lapped,2024,Dutch,15,Race,True,12.667,12.0,0.15,20.94,24.56,23.54
+18,STR,Aston Martin,8.0,13.0,Lapped,2024,Dutch,15,Race,True,9.667,10.0,0.14,21.46,24.98,24.3
+23,ALB,Williams,19.0,14.0,Lapped,2024,Dutch,15,Race,True,15.333,14.2,0.23,21.44,25.69,24.69
+31,OCO,Alpine,15.0,15.0,Lapped,2024,Dutch,15,Race,True,10.333,13.8,0.16,21.81,24.49,23.62
+2,SAR,Williams,18.0,16.0,Lapped,2024,Dutch,15,Race,True,14.333,14.8,0.23,21.44,25.69,24.69
+22,TSU,RB,11.0,17.0,Lapped,2024,Dutch,15,Race,True,12.667,11.8,0.15,20.94,24.56,23.54
+20,MAG,Haas F1 Team,20.0,18.0,Lapped,2024,Dutch,15,Race,True,14.333,14.2,0.11,21.56,25.27,24.37
+77,BOT,Kick Sauber,16.0,19.0,Lapped,2024,Dutch,15,Race,True,17.667,17.4,0.14,21.27,25.24,24.2
+24,ZHO,Kick Sauber,17.0,20.0,Lapped,2024,Dutch,15,Race,True,17.667,17.6,0.14,21.27,25.24,24.2
+16,LEC,Ferrari,4.0,1.0,Finished,2024,Italian,16,Race,True,4.667,4.6,0.13,24.37,21.86,23.54
+81,PIA,McLaren,2.0,2.0,Finished,2024,Italian,16,Race,True,3.333,2.8,0.06,24.39,22.0,23.33
+4,NOR,McLaren,1.0,3.0,Finished,2024,Italian,16,Race,True,2.333,2.8,0.06,24.39,22.0,23.33
+55,SAI,Ferrari,5.0,4.0,Finished,2024,Italian,16,Race,True,3.0,3.6,0.13,24.37,21.86,23.54
+44,HAM,Mercedes,6.0,5.0,Finished,2024,Italian,16,Race,True,11.667,8.8,0.11,26.99,21.86,23.78
+1,VER,Red Bull Racing,7.0,6.0,Finished,2024,Italian,16,Race,True,5.0,5.2,0.08,25.16,22.05,24.15
+63,RUS,Mercedes,3.0,7.0,Finished,2024,Italian,16,Race,True,6.667,8.2,0.11,26.99,21.86,23.78
+11,PER,Red Bull Racing,8.0,8.0,Finished,2024,Italian,16,Race,True,4.667,5.0,0.08,25.16,22.05,24.15
+23,ALB,Williams,9.0,9.0,Finished,2024,Italian,16,Race,True,15.667,15.2,0.23,24.99,22.29,24.49
+20,MAG,Haas F1 Team,13.0,10.0,Finished,2024,Italian,16,Race,True,15.667,15.2,0.11,33.69,22.46,23.81
+14,ALO,Aston Martin,11.0,11.0,Finished,2024,Italian,16,Race,True,11.333,10.6,0.14,24.8,22.33,24.12
+43,COL,Williams,18.0,12.0,Finished,2024,Italian,16,Race,True,13.0,13.6,0.23,24.99,22.29,24.49
+3,RIC,RB,12.0,13.0,Finished,2024,Italian,16,Race,True,15.0,13.4,0.15,30.39,21.68,23.29
+31,OCO,Alpine,15.0,14.0,Lapped,2024,Italian,16,Race,True,12.333,13.2,0.16,24.26,22.16,23.41
+10,GAS,Alpine,14.0,15.0,Lapped,2024,Italian,16,Race,True,12.667,12.0,0.16,24.26,22.16,23.41
+77,BOT,Kick Sauber,19.0,16.0,Lapped,2024,Italian,16,Race,True,19.333,18.4,0.14,25.86,22.15,23.82
+27,HUL,Haas F1 Team,10.0,17.0,Lapped,2024,Italian,16,Race,True,13.0,14.2,0.11,33.69,22.46,23.81
+24,ZHO,Kick Sauber,20.0,18.0,Lapped,2024,Italian,16,Race,True,18.333,17.8,0.14,25.86,22.15,23.82
+18,STR,Aston Martin,17.0,19.0,Lapped,2024,Italian,16,Race,True,11.333,10.6,0.14,24.8,22.33,24.12
+22,TSU,RB,16.0,20.0,Retired,2024,Italian,16,Race,False,14.0,13.6,0.15,30.39,21.68,23.29
+81,PIA,McLaren,2.0,1.0,Finished,2024,Azerbaijan,17,Race,True,3.0,3.0,0.06,19.86,22.92,23.98
+16,LEC,Ferrari,1.0,2.0,Finished,2024,Azerbaijan,17,Race,True,3.333,3.8,0.13,21.22,22.77,23.78
+63,RUS,Mercedes,5.0,3.0,Finished,2024,Azerbaijan,17,Race,True,6.667,9.4,0.11,20.69,23.69,24.59
+4,NOR,McLaren,15.0,4.0,Finished,2024,Azerbaijan,17,Race,True,2.0,2.2,0.06,19.86,22.92,23.98
+1,VER,Red Bull Racing,6.0,5.0,Finished,2024,Azerbaijan,17,Race,True,6.667,5.8,0.08,20.74,23.27,24.14
+14,ALO,Aston Martin,7.0,6.0,Finished,2024,Azerbaijan,17,Race,True,14.333,12.8,0.14,20.49,23.09,24.24
+23,ALB,Williams,9.0,7.0,Finished,2024,Azerbaijan,17,Race,True,12.333,13.6,0.23,20.41,23.24,24.7
+43,COL,Williams,8.0,8.0,Finished,2024,Azerbaijan,17,Race,True,9.333,11.6,0.23,20.41,23.24,24.7
+44,HAM,Mercedes,19.0,9.0,Finished,2024,Azerbaijan,17,Race,True,5.0,6.0,0.11,20.69,23.69,24.59
+50,BEA,Haas F1 Team,10.0,10.0,Finished,2024,Azerbaijan,17,Race,True,15.0,14.8,0.11,21.37,26.25,26.21
+27,HUL,Haas F1 Team,12.0,11.0,Finished,2024,Azerbaijan,17,Race,True,12.333,13.2,0.11,21.37,26.25,26.21
+10,GAS,Alpine,18.0,12.0,Finished,2024,Azerbaijan,17,Race,True,14.667,13.2,0.16,20.42,23.09,23.91
+3,RIC,RB,14.0,13.0,Finished,2024,Azerbaijan,17,Race,True,16.667,15.6,0.15,21.51,24.7,25.0
+24,ZHO,Kick Sauber,17.0,14.0,Finished,2024,Azerbaijan,17,Race,True,18.0,18.4,0.14,20.27,23.42,24.57
+31,OCO,Alpine,20.0,15.0,Lapped,2024,Azerbaijan,17,Race,True,13.667,13.0,0.16,20.42,23.09,23.91
+77,BOT,Kick Sauber,16.0,16.0,Lapped,2024,Azerbaijan,17,Race,True,16.0,17.4,0.14,20.27,23.42,24.57
+11,PER,Red Bull Racing,4.0,17.0,Retired,2024,Azerbaijan,17,Race,False,6.333,5.4,0.08,20.74,23.27,24.14
+55,SAI,Ferrari,3.0,18.0,Retired,2024,Azerbaijan,17,Race,False,2.333,3.0,0.13,21.22,22.77,23.78
+18,STR,Aston Martin,13.0,19.0,Retired,2024,Azerbaijan,17,Race,False,12.0,11.8,0.14,20.49,23.09,24.24
+22,TSU,RB,11.0,20.0,Retired,2024,Azerbaijan,17,Race,False,15.333,15.0,0.15,21.51,24.7,25.0
+4,NOR,McLaren,1.0,1.0,Finished,2024,Singapore,18,Race,True,2.667,2.8,0.06,29.04,21.85,22.05
+1,VER,Red Bull Racing,2.0,2.0,Finished,2024,Singapore,18,Race,True,10.0,8.4,0.08,29.38,22.59,22.41
+81,PIA,McLaren,5.0,3.0,Finished,2024,Singapore,18,Race,True,2.0,2.2,0.06,29.04,21.85,22.05
+63,RUS,Mercedes,4.0,4.0,Finished,2024,Singapore,18,Race,True,6.333,6.4,0.11,29.0,22.97,22.65
+16,LEC,Ferrari,9.0,5.0,Finished,2024,Singapore,18,Race,True,8.0,6.0,0.13,29.25,22.11,22.23
+44,HAM,Mercedes,3.0,6.0,Finished,2024,Singapore,18,Race,True,5.333,5.6,0.11,29.0,22.97,22.65
+55,SAI,Ferrari,10.0,7.0,Finished,2024,Singapore,18,Race,True,8.333,6.0,0.13,29.25,22.11,22.23
+14,ALO,Aston Martin,7.0,8.0,Lapped,2024,Singapore,18,Race,True,14.667,13.6,0.14,29.71,22.25,22.46
+27,HUL,Haas F1 Team,6.0,9.0,Lapped,2024,Singapore,18,Race,True,12.667,13.2,0.11,30.34,25.54,24.49
+11,PER,Red Bull Racing,13.0,10.0,Lapped,2024,Singapore,18,Race,True,8.0,7.6,0.08,29.38,22.59,22.41
+43,COL,Williams,12.0,11.0,Lapped,2024,Singapore,18,Race,True,9.0,10.4,0.23,29.12,22.28,22.45
+22,TSU,RB,8.0,12.0,Lapped,2024,Singapore,18,Race,True,17.667,16.6,0.15,29.75,24.28,23.39
+31,OCO,Alpine,15.0,13.0,Lapped,2024,Singapore,18,Race,True,14.0,14.2,0.16,30.67,22.16,22.23
+18,STR,Aston Martin,17.0,14.0,Lapped,2024,Singapore,18,Race,True,11.0,12.6,0.14,29.71,22.25,22.46
+24,ZHO,Kick Sauber,20.0,15.0,Lapped,2024,Singapore,18,Race,True,16.0,16.8,0.14,30.08,22.47,22.52
+77,BOT,Kick Sauber,19.0,16.0,Lapped,2024,Singapore,18,Race,True,15.0,15.8,0.14,30.08,22.47,22.52
+10,GAS,Alpine,18.0,17.0,Lapped,2024,Singapore,18,Race,True,13.333,13.8,0.16,30.67,22.16,22.23
+3,RIC,RB,16.0,18.0,Lapped,2024,Singapore,18,Race,True,15.0,15.6,0.15,29.75,24.28,23.39
+20,MAG,Haas F1 Team,14.0,19.0,Retired,2024,Singapore,18,Race,False,10.0,11.4,0.11,30.34,25.54,24.49
+23,ALB,Williams,11.0,20.0,Retired,2024,Singapore,18,Race,False,8.667,9.4,0.23,29.12,22.28,22.45
+16,LEC,Ferrari,4.0,1.0,Finished,2024,United States,19,Race,True,10.0,7.2,0.13,23.95,24.95,23.75
+55,SAI,Ferrari,3.0,2.0,Finished,2024,United States,19,Race,True,4.333,6.6,0.13,23.95,24.95,23.75
+1,VER,Red Bull Racing,2.0,3.0,Finished,2024,United States,19,Race,True,9.667,8.4,0.08,24.0,25.09,23.99
+4,NOR,McLaren,1.0,4.0,Finished,2024,United States,19,Race,True,2.667,2.4,0.06,24.19,24.43,23.53
+81,PIA,McLaren,5.0,5.0,Finished,2024,United States,19,Race,True,2.667,2.6,0.06,24.19,24.43,23.53
+63,RUS,Mercedes,20.0,6.0,Finished,2024,United States,19,Race,True,6.333,5.8,0.11,,25.56,24.15
+11,PER,Red Bull Racing,9.0,7.0,Finished,2024,United States,19,Race,True,5.0,7.4,0.08,24.0,25.09,23.99
+27,HUL,Haas F1 Team,11.0,8.0,Finished,2024,United States,19,Race,True,13.0,13.2,0.11,24.09,28.47,26.09
+30,LAW,RB,19.0,9.0,Finished,2024,United States,19,Race,True,16.667,16.6,0.15,24.18,27.22,25.07
+43,COL,Williams,15.0,10.0,Finished,2024,United States,19,Race,True,13.0,11.6,0.23,27.77,24.84,23.85
+20,MAG,Haas F1 Team,8.0,11.0,Finished,2024,United States,19,Race,True,12.0,11.4,0.11,24.09,28.47,26.09
+10,GAS,Alpine,6.0,12.0,Finished,2024,United States,19,Race,True,15.0,14.4,0.16,26.15,25.12,24.07
+14,ALO,Aston Martin,7.0,13.0,Lapped,2024,United States,19,Race,True,13.667,13.2,0.14,25.41,25.0,23.89
+22,TSU,RB,10.0,14.0,Lapped,2024,United States,19,Race,True,13.0,14.4,0.15,24.18,27.22,25.07
+18,STR,Aston Martin,13.0,15.0,Lapped,2024,United States,19,Race,True,11.667,12.0,0.14,25.41,25.0,23.89
+23,ALB,Williams,14.0,16.0,Lapped,2024,United States,19,Race,True,13.667,11.2,0.23,27.77,24.84,23.85
+77,BOT,Kick Sauber,16.0,17.0,Lapped,2024,United States,19,Race,True,15.667,15.8,0.14,24.91,25.4,24.12
+31,OCO,Alpine,12.0,18.0,Lapped,2024,United States,19,Race,True,14.0,13.8,0.16,26.15,25.12,24.07
+24,ZHO,Kick Sauber,18.0,19.0,Lapped,2024,United States,19,Race,True,16.0,15.6,0.14,24.91,25.4,24.12
+44,HAM,Mercedes,17.0,20.0,Retired,2024,United States,19,Race,False,5.333,5.6,0.11,,25.56,24.15
+55,SAI,Ferrari,1.0,1.0,Finished,2024,Mexico City,20,Race,True,3.333,6.6,0.13,22.63,24.81,23.91
+4,NOR,McLaren,3.0,2.0,Finished,2024,Mexico City,20,Race,True,4.0,3.4,0.06,21.94,24.36,23.76
+16,LEC,Ferrari,4.0,3.0,Finished,2024,Mexico City,20,Race,True,1.333,3.2,0.13,22.63,24.81,23.91
+44,HAM,Mercedes,6.0,4.0,Finished,2024,Mexico City,20,Race,True,10.667,9.0,0.11,22.55,,
+63,RUS,Mercedes,5.0,5.0,Finished,2024,Mexico City,20,Race,True,10.0,8.0,0.11,22.55,,
+1,VER,Red Bull Racing,2.0,6.0,Finished,2024,Mexico City,20,Race,True,6.667,7.8,0.08,28.85,24.71,24.23
+20,MAG,Haas F1 Team,7.0,7.0,Finished,2024,Mexico City,20,Race,True,12.667,11.6,0.11,23.31,25.27,26.21
+81,PIA,McLaren,17.0,8.0,Finished,2024,Mexico City,20,Race,True,3.667,3.0,0.06,21.94,24.36,23.76
+27,HUL,Haas F1 Team,10.0,9.0,Lapped,2024,Mexico City,20,Race,True,8.667,10.8,0.11,23.31,25.27,26.21
+10,GAS,Alpine,8.0,10.0,Lapped,2024,Mexico City,20,Race,True,15.667,15.0,0.16,23.25,25.75,24.66
+18,STR,Aston Martin,14.0,11.0,Lapped,2024,Mexico City,20,Race,True,14.0,13.8,0.14,22.56,25.2,24.37
+43,COL,Williams,16.0,12.0,Lapped,2024,Mexico City,20,Race,True,15.333,13.0,0.23,23.95,25.77,24.75
+31,OCO,Alpine,0.0,13.0,Lapped,2024,Mexico City,20,Race,True,13.333,14.0,0.16,23.25,25.75,24.66
+77,BOT,Kick Sauber,15.0,14.0,Lapped,2024,Mexico City,20,Race,True,17.333,16.6,0.14,22.76,25.09,24.48
+24,ZHO,Kick Sauber,19.0,15.0,Lapped,2024,Mexico City,20,Race,True,16.667,16.2,0.14,22.76,25.09,24.48
+30,LAW,RB,12.0,16.0,Lapped,2024,Mexico City,20,Race,True,13.667,14.6,0.15,26.32,25.15,25.35
+11,PER,Red Bull Racing,18.0,17.0,Lapped,2024,Mexico City,20,Race,True,5.333,5.6,0.08,28.85,24.71,24.23
+14,ALO,Aston Martin,13.0,18.0,Retired,2024,Mexico City,20,Race,False,13.0,12.2,0.14,22.56,25.2,24.37
+23,ALB,Williams,9.0,19.0,Retired,2024,Mexico City,20,Race,False,12.667,13.8,0.23,23.95,25.77,24.75
+22,TSU,RB,11.0,20.0,Retired,2024,Mexico City,20,Race,False,13.0,13.8,0.15,26.32,25.15,25.35
+1,VER,Red Bull Racing,17.0,1.0,Finished,2024,São Paulo,21,Race,True,10.0,8.6,0.08,953.69,27.41,25.63
+31,OCO,Alpine,4.0,2.0,Finished,2024,São Paulo,21,Race,True,13.667,14.0,0.16,1408.14,26.69,24.95
+10,GAS,Alpine,13.0,3.0,Finished,2024,São Paulo,21,Race,True,8.333,11.0,0.16,1408.14,26.69,24.95
+63,RUS,Mercedes,2.0,4.0,Finished,2024,São Paulo,21,Race,True,9.667,8.2,0.11,723.1,,
+16,LEC,Ferrari,6.0,5.0,Finished,2024,São Paulo,21,Race,True,2.0,2.8,0.13,723.9,25.28,24.28
+4,NOR,McLaren,1.0,6.0,Finished,2024,São Paulo,21,Race,True,5.0,4.4,0.06,721.57,25.06,23.88
+22,TSU,RB,3.0,7.0,Finished,2024,São Paulo,21,Race,True,16.667,15.4,0.15,955.77,26.75,26.43
+81,PIA,McLaren,8.0,8.0,Finished,2024,São Paulo,21,Race,True,5.333,5.0,0.06,721.57,25.06,23.88
+30,LAW,RB,5.0,9.0,Finished,2024,São Paulo,21,Race,True,14.333,13.2,0.15,955.77,26.75,26.43
+44,HAM,Mercedes,14.0,10.0,Finished,2024,São Paulo,21,Race,True,4.333,7.8,0.11,723.1,,
+11,PER,Red Bull Racing,12.0,11.0,Finished,2024,São Paulo,21,Race,True,8.0,6.8,0.08,953.69,27.41,25.63
+50,BEA,Haas F1 Team,15.0,12.0,Finished,2024,São Paulo,21,Race,True,9.0,10.8,0.11,314.81,25.91,26.56
+77,BOT,Kick Sauber,11.0,13.0,Finished,2024,São Paulo,21,Race,True,16.0,16.2,0.14,565.27,25.92,24.78
+14,ALO,Aston Martin,9.0,14.0,Finished,2024,São Paulo,21,Race,True,14.667,14.2,0.14,724.02,25.89,24.59
+24,ZHO,Kick Sauber,19.0,15.0,Finished,2024,São Paulo,21,Race,True,14.0,15.6,0.14,565.27,25.92,24.78
+55,SAI,Ferrari,20.0,16.0,Retired,2024,São Paulo,21,Race,False,3.0,2.4,0.13,723.9,25.28,24.28
+43,COL,Williams,16.0,17.0,Retired,2024,São Paulo,21,Race,False,15.667,15.4,0.23,-1797.28,26.95,25.25
+23,ALB,Williams,7.0,18.0,Did not start,2024,São Paulo,21,Race,False,16.0,14.8,0.23,-1797.28,26.95,25.25
+18,STR,Aston Martin,10.0,19.0,Did not start,2024,São Paulo,21,Race,False,14.333,14.2,0.14,724.02,25.89,24.59
+27,HUL,Haas F1 Team,18.0,20.0,Disqualified,2024,São Paulo,21,Race,False,9.333,9.4,0.11,314.81,25.91,26.56
+63,RUS,Mercedes,1.0,1.0,Finished,2024,Las Vegas,22,Race,True,6.333,8.6,0.11,21.11,,
+44,HAM,Mercedes,10.0,2.0,Finished,2024,Las Vegas,22,Race,True,5.0,4.8,0.11,21.11,,
+55,SAI,Ferrari,2.0,3.0,Finished,2024,Las Vegas,22,Race,True,8.0,5.4,0.13,21.21,256.83,164.19
+16,LEC,Ferrari,4.0,4.0,Finished,2024,Las Vegas,22,Race,True,8.0,5.6,0.13,21.21,256.83,164.19
+1,VER,Red Bull Racing,5.0,5.0,Finished,2024,Las Vegas,22,Race,True,9.667,8.4,0.08,21.42,335.51,211.33
+4,NOR,McLaren,6.0,6.0,Finished,2024,Las Vegas,22,Race,True,7.333,5.8,0.06,21.04,255.9,163.32
+81,PIA,McLaren,8.0,7.0,Finished,2024,Las Vegas,22,Race,True,6.667,6.0,0.06,21.04,255.9,163.32
+27,HUL,Haas F1 Team,9.0,8.0,Finished,2024,Las Vegas,22,Race,True,13.667,11.8,0.11,21.8,120.74,82.78
+22,TSU,RB,7.0,9.0,Finished,2024,Las Vegas,22,Race,True,12.0,13.2,0.15,21.09,335.42,211.51
+11,PER,Red Bull Racing,15.0,10.0,Finished,2024,Las Vegas,22,Race,True,5.667,8.0,0.08,21.42,335.51,211.33
+14,ALO,Aston Martin,16.0,11.0,Finished,2024,Las Vegas,22,Race,True,17.0,15.4,0.14,21.48,257.33,164.44
+20,MAG,Haas F1 Team,12.0,12.0,Finished,2024,Las Vegas,22,Race,True,13.333,11.2,0.11,21.8,120.74,82.78
+24,ZHO,Kick Sauber,13.0,13.0,Finished,2024,Las Vegas,22,Race,True,14.333,15.2,0.14,22.2,204.31,132.66
+43,COL,Williams,20.0,14.0,Finished,2024,Las Vegas,22,Race,True,18.0,16.4,0.23,21.49,-581.85,-339.21
+18,STR,Aston Martin,18.0,15.0,Finished,2024,Las Vegas,22,Race,True,14.667,14.6,0.14,21.48,257.33,164.44
+30,LAW,RB,14.0,16.0,Finished,2024,Las Vegas,22,Race,True,8.333,12.2,0.15,21.09,335.42,211.51
+31,OCO,Alpine,11.0,17.0,Lapped,2024,Las Vegas,22,Race,True,6.0,9.2,0.16,20.3,485.85,301.73
+77,BOT,Kick Sauber,19.0,18.0,Lapped,2024,Las Vegas,22,Race,True,13.667,14.0,0.14,22.2,204.31,132.66
+23,ALB,Williams,17.0,19.0,Retired,2024,Las Vegas,22,Race,False,16.333,16.0,0.23,21.49,-581.85,-339.21
+10,GAS,Alpine,3.0,20.0,Retired,2024,Las Vegas,22,Race,False,7.333,9.0,0.16,20.3,485.85,301.73
+1,VER,Red Bull Racing,2.0,1.0,Finished,2024,Qatar,23,Race,True,8.667,8.8,0.08,25.9,334.65,211.47
+16,LEC,Ferrari,5.0,2.0,Finished,2024,Qatar,23,Race,True,7.667,6.2,0.13,29.41,255.91,164.19
+81,PIA,McLaren,4.0,3.0,Finished,2024,Qatar,23,Race,True,7.0,7.0,0.06,28.33,254.85,163.56
+63,RUS,Mercedes,1.0,4.0,Finished,2024,Qatar,23,Race,True,4.333,4.4,0.11,28.52,255.59,
+10,GAS,Alpine,11.0,5.0,Finished,2024,Qatar,23,Race,True,13.333,11.0,0.16,27.35,483.9,301.7
+55,SAI,Ferrari,7.0,6.0,Finished,2024,Qatar,23,Race,True,3.0,6.0,0.13,29.41,255.91,164.19
+14,ALO,Aston Martin,8.0,7.0,Finished,2024,Qatar,23,Race,True,15.0,15.4,0.14,32.37,256.02,164.64
+24,ZHO,Kick Sauber,12.0,8.0,Finished,2024,Qatar,23,Race,True,15.333,14.8,0.14,28.99,203.41,133.04
+20,MAG,Haas F1 Team,10.0,9.0,Finished,2024,Qatar,23,Race,True,13.333,12.2,0.11,29.65,119.97,82.87
+4,NOR,McLaren,3.0,10.0,Finished,2024,Qatar,23,Race,True,5.333,6.0,0.06,28.33,254.85,163.56
+77,BOT,Kick Sauber,13.0,11.0,Finished,2024,Qatar,23,Race,True,13.0,13.4,0.14,28.99,203.41,133.04
+44,HAM,Mercedes,6.0,12.0,Finished,2024,Qatar,23,Race,True,2.333,4.2,0.11,28.52,255.59,
+22,TSU,RB,14.0,13.0,Finished,2024,Qatar,23,Race,True,11.333,12.2,0.15,30.77,334.39,211.42
+30,LAW,RB,17.0,14.0,Finished,2024,Qatar,23,Race,True,12.667,10.8,0.15,30.77,334.39,211.42
+23,ALB,Williams,16.0,15.0,Lapped,2024,Qatar,23,Race,True,17.0,17.4,0.23,32.01,-583.95,-338.99
+27,HUL,Haas F1 Team,18.0,16.0,Retired,2024,Qatar,23,Race,False,9.667,12.2,0.11,29.65,119.97,82.87
+11,PER,Red Bull Racing,9.0,17.0,Retired,2024,Qatar,23,Race,False,5.333,5.6,0.08,25.9,334.65,211.47
+18,STR,Aston Martin,15.0,18.0,Retired,2024,Qatar,23,Race,False,11.0,13.2,0.14,32.37,256.02,164.64
+43,COL,Williams,19.0,19.0,Retired,2024,Qatar,23,Race,False,16.0,16.6,0.23,32.01,-583.95,-338.99
+31,OCO,Alpine,20.0,20.0,Retired,2024,Qatar,23,Race,False,14.0,9.4,0.16,27.35,483.9,301.7
+4,NOR,McLaren,1.0,1.0,Finished,2024,Abu Dhabi,24,Race,True,6.667,6.8,0.06,25.93,256.98,163.41
+55,SAI,Ferrari,3.0,2.0,Finished,2024,Abu Dhabi,24,Race,True,4.0,6.2,0.13,21.66,258.17,164.22
+16,LEC,Ferrari,19.0,3.0,Finished,2024,Abu Dhabi,24,Race,True,3.333,3.4,0.13,21.66,258.17,164.22
+44,HAM,Mercedes,16.0,4.0,Finished,2024,Abu Dhabi,24,Race,True,6.0,5.8,0.11,21.54,257.58,
+63,RUS,Mercedes,6.0,5.0,Finished,2024,Abu Dhabi,24,Race,True,6.667,4.6,0.11,21.54,257.58,
+1,VER,Red Bull Racing,4.0,6.0,Finished,2024,Abu Dhabi,24,Race,True,9.333,8.8,0.08,32.74,333.67,210.77
+10,GAS,Alpine,5.0,7.0,Finished,2024,Abu Dhabi,24,Race,True,15.0,13.0,0.16,22.03,485.26,301.04
+27,HUL,Haas F1 Team,7.0,8.0,Finished,2024,Abu Dhabi,24,Race,True,12.333,13.0,0.11,53.7,122.09,82.73
+14,ALO,Aston Martin,8.0,9.0,Finished,2024,Abu Dhabi,24,Race,True,13.333,14.0,0.14,22.84,259.29,165.17
+81,PIA,McLaren,2.0,10.0,Finished,2024,Abu Dhabi,24,Race,True,4.667,5.4,0.06,25.93,256.98,163.41
+23,ALB,Williams,18.0,11.0,Lapped,2024,Abu Dhabi,24,Race,True,17.667,17.0,0.23,23.5,-581.26,-338.41
+22,TSU,RB,11.0,12.0,Lapped,2024,Abu Dhabi,24,Race,True,14.333,12.2,0.15,25.0,335.88,211.63
+24,ZHO,Kick Sauber,15.0,13.0,Lapped,2024,Abu Dhabi,24,Race,True,12.333,13.0,0.14,30.98,205.49,132.83
+18,STR,Aston Martin,13.0,14.0,Lapped,2024,Abu Dhabi,24,Race,True,11.333,12.0,0.14,22.84,259.29,165.17
+61,DOO,Alpine,17.0,15.0,Lapped,2024,Abu Dhabi,24,Race,True,10.667,13.8,0.16,22.03,485.26,301.04
+20,MAG,Haas F1 Team,14.0,16.0,Lapped,2024,Abu Dhabi,24,Race,True,11.0,10.6,0.11,53.7,122.09,82.73
+30,LAW,RB,12.0,17.0,Retired,2024,Abu Dhabi,24,Race,False,13.0,12.8,0.15,25.0,335.88,211.63
+77,BOT,Kick Sauber,9.0,18.0,Retired,2024,Abu Dhabi,24,Race,False,10.667,12.6,0.14,30.98,205.49,132.83
+43,COL,Williams,20.0,19.0,Retired,2024,Abu Dhabi,24,Race,False,15.0,15.6,0.23,23.5,-581.26,-338.41
+11,PER,Red Bull Racing,10.0,20.0,Retired,2024,Abu Dhabi,24,Race,False,8.0,7.8,0.08,32.74,333.67,210.77
+4,NOR,McLaren,1.0,1.0,Finished,2025,Australian,1,Race,True,,,0.06,15.2,,
+1,VER,Red Bull Racing,3.0,2.0,Finished,2025,Australian,1,Race,True,,,0.08,16.38,,
+63,RUS,Mercedes,4.0,3.0,Finished,2025,Australian,1,Race,True,,,0.11,16.69,,
+12,ANT,Mercedes,16.0,4.0,Finished,2025,Australian,1,Race,True,,,0.11,16.69,,
+23,ALB,Williams,6.0,5.0,Finished,2025,Australian,1,Race,True,,,0.23,16.76,,
+18,STR,Aston Martin,13.0,6.0,Finished,2025,Australian,1,Race,True,,,0.14,16.37,,
+27,HUL,Kick Sauber,17.0,7.0,Finished,2025,Australian,1,Race,True,,,0.14,18.23,,
+16,LEC,Ferrari,7.0,8.0,Finished,2025,Australian,1,Race,True,,,0.13,17.11,,
+81,PIA,McLaren,2.0,9.0,Finished,2025,Australian,1,Race,True,,,0.06,15.2,,
+44,HAM,Ferrari,8.0,10.0,Finished,2025,Australian,1,Race,True,,,0.13,17.11,,
+10,GAS,Alpine,9.0,11.0,Finished,2025,Australian,1,Race,True,,,0.16,16.98,,
+22,TSU,Racing Bulls,5.0,12.0,Finished,2025,Australian,1,Race,True,,,0.15,16.37,,
+31,OCO,Haas F1 Team,19.0,13.0,Finished,2025,Australian,1,Race,True,,,0.11,18.51,,
+87,BEA,Haas F1 Team,20.0,14.0,Finished,2025,Australian,1,Race,True,,,0.11,18.51,,
+30,LAW,Red Bull Racing,18.0,15.0,Retired,2025,Australian,1,Race,False,,,0.08,16.38,,
+5,BOR,Kick Sauber,15.0,16.0,Retired,2025,Australian,1,Race,False,,,0.14,18.23,,
+14,ALO,Aston Martin,12.0,17.0,Retired,2025,Australian,1,Race,False,,,0.14,16.37,,
+55,SAI,Williams,10.0,18.0,Retired,2025,Australian,1,Race,False,,,0.23,16.76,,
+7,DOO,Alpine,14.0,19.0,Retired,2025,Australian,1,Race,False,,,0.16,16.98,,
+6,HAD,Racing Bulls,11.0,20.0,Retired,2025,Australian,1,Race,False,,,0.15,16.37,,
+81,PIA,McLaren,1.0,1.0,Finished,2025,Chinese,2,Race,True,,,0.06,23.03,,
+4,NOR,McLaren,3.0,2.0,Finished,2025,Chinese,2,Race,True,3.667,,0.06,23.03,,
+63,RUS,Mercedes,2.0,3.0,Finished,2025,Chinese,2,Race,True,,,0.11,22.54,,
+1,VER,Red Bull Racing,4.0,4.0,Finished,2025,Chinese,2,Race,True,,,0.08,22.44,,
+31,OCO,Haas F1 Team,11.0,5.0,Finished,2025,Chinese,2,Race,True,,,0.11,22.96,,
+12,ANT,Mercedes,8.0,6.0,Finished,2025,Chinese,2,Race,True,3.333,,0.11,22.54,,
+23,ALB,Williams,10.0,7.0,Finished,2025,Chinese,2,Race,True,,,0.23,23.17,,
+87,BEA,Haas F1 Team,17.0,8.0,Finished,2025,Chinese,2,Race,True,10.667,,0.11,22.96,,
+18,STR,Aston Martin,14.0,9.0,Finished,2025,Chinese,2,Race,True,,,0.14,22.9,,
+55,SAI,Williams,15.0,10.0,Finished,2025,Chinese,2,Race,True,10.0,,0.23,23.17,,
+6,HAD,Racing Bulls,7.0,11.0,Finished,2025,Chinese,2,Race,True,,,0.15,25.61,,
+30,LAW,Red Bull Racing,20.0,12.0,Finished,2025,Chinese,2,Race,True,7.0,,0.08,22.44,,
+7,DOO,Alpine,18.0,13.0,Finished,2025,Chinese,2,Race,True,,,0.16,22.91,,
+5,BOR,Kick Sauber,19.0,14.0,Lapped,2025,Chinese,2,Race,True,,,0.14,23.07,,
+27,HUL,Kick Sauber,12.0,15.0,Lapped,2025,Chinese,2,Race,True,12.333,,0.14,23.07,,
+22,TSU,Racing Bulls,9.0,16.0,Lapped,2025,Chinese,2,Race,True,14.333,,0.15,25.61,,
+14,ALO,Aston Martin,13.0,17.0,Retired,2025,Chinese,2,Race,False,10.667,,0.14,22.9,,
+16,LEC,Ferrari,6.0,18.0,Disqualified,2025,Chinese,2,Race,False,,,0.13,22.34,,
+44,HAM,Ferrari,5.0,19.0,Disqualified,2025,Chinese,2,Race,False,12.0,,0.13,22.34,,
+10,GAS,Alpine,16.0,20.0,Disqualified,2025,Chinese,2,Race,False,14.333,,0.16,22.91,,
+1,VER,Red Bull Racing,1.0,1.0,Finished,2025,Japanese,3,Race,True,10.333,,0.08,24.33,,
+4,NOR,McLaren,2.0,2.0,Finished,2025,Japanese,3,Race,True,4.0,,0.06,23.07,,
+81,PIA,McLaren,3.0,3.0,Finished,2025,Japanese,3,Race,True,1.667,3.0,0.06,23.07,,
+16,LEC,Ferrari,4.0,4.0,Finished,2025,Japanese,3,Race,True,15.667,,0.13,23.12,,
+63,RUS,Mercedes,5.0,5.0,Finished,2025,Japanese,3,Race,True,4.333,,0.11,23.78,,
+12,ANT,Mercedes,6.0,6.0,Finished,2025,Japanese,3,Race,True,4.667,4.2,0.11,23.78,,
+44,HAM,Ferrari,8.0,7.0,Finished,2025,Japanese,3,Race,True,13.667,11.8,0.13,23.12,,
+6,HAD,Racing Bulls,7.0,8.0,Finished,2025,Japanese,3,Race,True,15.667,,0.15,23.36,,
+23,ALB,Williams,9.0,9.0,Finished,2025,Japanese,3,Race,True,11.667,,0.23,23.11,,
+87,BEA,Haas F1 Team,10.0,10.0,Finished,2025,Japanese,3,Race,True,9.0,,0.11,24.63,,
+14,ALO,Aston Martin,12.0,11.0,Finished,2025,Japanese,3,Race,True,14.333,,0.14,24.34,,
+22,TSU,Red Bull Racing,14.0,12.0,Finished,2025,Japanese,3,Race,True,5.667,6.8,0.08,24.33,,
+10,GAS,Alpine,11.0,13.0,Finished,2025,Japanese,3,Race,True,17.333,,0.16,24.59,,
+55,SAI,Williams,15.0,14.0,Finished,2025,Japanese,3,Race,True,8.667,9.8,0.23,23.11,,
+7,DOO,Alpine,19.0,15.0,Finished,2025,Japanese,3,Race,True,15.333,15.2,0.16,24.59,,
+27,HUL,Kick Sauber,16.0,16.0,Finished,2025,Japanese,3,Race,True,15.0,,0.14,23.49,,
+30,LAW,Racing Bulls,13.0,17.0,Finished,2025,Japanese,3,Race,True,11.667,13.4,0.15,23.36,,
+31,OCO,Haas F1 Team,18.0,18.0,Finished,2025,Japanese,3,Race,True,7.667,10.0,0.11,24.63,,
+5,BOR,Kick Sauber,17.0,19.0,Finished,2025,Japanese,3,Race,True,15.0,13.6,0.14,23.49,,
+18,STR,Aston Martin,20.0,20.0,Lapped,2025,Japanese,3,Race,True,12.333,12.0,0.14,24.34,,
+81,PIA,McLaren,1.0,1.0,Finished,2025,Bahrain,4,Race,True,2.333,3.4,0.06,24.53,20.43,
+63,RUS,Mercedes,3.0,2.0,Finished,2025,Bahrain,4,Race,True,5.667,4.8,0.11,24.26,21.0,
+4,NOR,McLaren,6.0,3.0,Finished,2025,Bahrain,4,Race,True,2.0,1.8,0.06,24.53,20.43,
+16,LEC,Ferrari,2.0,4.0,Finished,2025,Bahrain,4,Race,True,10.0,11.6,0.13,24.43,20.86,
+44,HAM,Ferrari,9.0,5.0,Finished,2025,Bahrain,4,Race,True,5.0,10.4,0.13,24.43,20.86,
+1,VER,Red Bull Racing,7.0,6.0,Finished,2025,Bahrain,4,Race,True,8.333,8.8,0.08,26.51,21.05,
+10,GAS,Alpine,4.0,7.0,Finished,2025,Bahrain,4,Race,True,16.0,16.0,0.16,24.97,21.49,
+31,OCO,Haas F1 Team,14.0,8.0,Finished,2025,Bahrain,4,Race,True,12.0,11.0,0.11,24.95,22.03,
+22,TSU,Red Bull Racing,10.0,9.0,Finished,2025,Bahrain,4,Race,True,6.333,7.0,0.08,26.51,21.05,
+87,BEA,Haas F1 Team,20.0,10.0,Finished,2025,Bahrain,4,Race,True,12.0,9.8,0.11,24.95,22.03,
+12,ANT,Mercedes,5.0,11.0,Finished,2025,Bahrain,4,Race,True,4.333,4.4,0.11,24.26,21.0,
+23,ALB,Williams,15.0,12.0,Finished,2025,Bahrain,4,Race,True,11.0,11.6,0.23,27.5,21.01,
+6,HAD,Racing Bulls,12.0,13.0,Finished,2025,Bahrain,4,Race,True,13.667,14.4,0.15,24.55,21.78,
+7,DOO,Alpine,11.0,14.0,Finished,2025,Bahrain,4,Race,True,11.667,13.6,0.16,24.97,21.49,
+14,ALO,Aston Martin,13.0,15.0,Finished,2025,Bahrain,4,Race,True,16.0,14.8,0.14,24.71,21.2,
+30,LAW,Racing Bulls,17.0,16.0,Finished,2025,Bahrain,4,Race,True,12.667,13.0,0.15,24.55,21.78,
+18,STR,Aston Martin,19.0,17.0,Finished,2025,Bahrain,4,Race,True,15.333,14.4,0.14,24.71,21.2,
+5,BOR,Kick Sauber,18.0,18.0,Finished,2025,Bahrain,4,Race,True,16.667,16.0,0.14,24.42,21.6,
+55,SAI,Williams,8.0,19.0,Retired,2025,Bahrain,4,Race,False,11.667,10.4,0.23,27.5,21.01,
+27,HUL,Kick Sauber,16.0,20.0,Disqualified,2025,Bahrain,4,Race,False,17.667,16.4,0.14,24.42,21.6,
+81,PIA,McLaren,2.0,1.0,Finished,2025,Saudi Arabian,5,Race,True,2.333,2.2,0.06,20.85,23.54,
+1,VER,Red Bull Racing,1.0,2.0,Finished,2025,Saudi Arabian,5,Race,True,9.0,8.0,0.08,26.05,24.43,
+16,LEC,Ferrari,4.0,3.0,Finished,2025,Saudi Arabian,5,Race,True,5.333,7.8,0.13,20.22,23.3,
+4,NOR,McLaren,10.0,4.0,Finished,2025,Saudi Arabian,5,Race,True,1.667,2.0,0.06,20.85,23.54,
+63,RUS,Mercedes,3.0,5.0,Finished,2025,Saudi Arabian,5,Race,True,6.333,6.0,0.11,20.35,23.53,
+12,ANT,Mercedes,5.0,6.0,Finished,2025,Saudi Arabian,5,Race,True,6.0,5.8,0.11,20.35,23.53,
+44,HAM,Ferrari,7.0,7.0,Finished,2025,Saudi Arabian,5,Race,True,4.0,4.6,0.13,20.22,23.3,
+55,SAI,Williams,6.0,8.0,Finished,2025,Saudi Arabian,5,Race,True,15.0,12.8,0.23,23.06,24.59,
+23,ALB,Williams,11.0,9.0,Finished,2025,Saudi Arabian,5,Race,True,13.0,12.4,0.23,23.06,24.59,
+6,HAD,Racing Bulls,14.0,10.0,Finished,2025,Saudi Arabian,5,Race,True,15.333,14.0,0.15,20.62,24.51,
+14,ALO,Aston Martin,13.0,11.0,Finished,2025,Saudi Arabian,5,Race,True,17.333,16.0,0.14,21.23,23.98,
+30,LAW,Racing Bulls,12.0,12.0,Finished,2025,Saudi Arabian,5,Race,True,13.0,12.8,0.15,20.62,24.51,
+87,BEA,Haas F1 Team,15.0,13.0,Finished,2025,Saudi Arabian,5,Race,True,12.0,10.8,0.11,21.75,24.18,
+31,OCO,Haas F1 Team,19.0,14.0,Finished,2025,Saudi Arabian,5,Race,True,10.333,11.8,0.11,21.75,24.18,
+27,HUL,Kick Sauber,18.0,15.0,Lapped,2025,Saudi Arabian,5,Race,True,19.0,17.6,0.14,21.17,23.66,
+18,STR,Aston Martin,16.0,16.0,Lapped,2025,Saudi Arabian,5,Race,True,14.333,14.8,0.14,21.23,23.98,
+7,DOO,Alpine,17.0,17.0,Lapped,2025,Saudi Arabian,5,Race,True,12.0,13.8,0.16,21.02,24.16,
+5,BOR,Kick Sauber,20.0,18.0,Lapped,2025,Saudi Arabian,5,Race,True,17.667,17.6,0.14,21.17,23.66,
+22,TSU,Red Bull Racing,8.0,19.0,Retired,2025,Saudi Arabian,5,Race,False,5.667,6.0,0.08,26.05,24.43,
+10,GAS,Alpine,9.0,20.0,Retired,2025,Saudi Arabian,5,Race,False,12.667,13.2,0.16,21.02,24.16,
+81,PIA,McLaren,4.0,1.0,Finished,2025,Miami,6,Race,True,2.667,2.4,0.06,22.05,22.82,21.34
+4,NOR,McLaren,2.0,2.0,Finished,2025,Miami,6,Race,True,2.0,2.0,0.06,22.05,22.82,21.34
+63,RUS,Mercedes,5.0,3.0,Finished,2025,Miami,6,Race,True,7.333,6.0,0.11,24.32,22.8,21.52
+1,VER,Red Bull Racing,1.0,4.0,Finished,2025,Miami,6,Race,True,10.0,9.6,0.08,22.51,25.63,23.14
+23,ALB,Williams,7.0,5.0,Finished,2025,Miami,6,Race,True,12.0,12.4,0.23,22.25,24.56,22.72
+12,ANT,Mercedes,3.0,6.0,Finished,2025,Miami,6,Race,True,4.667,5.4,0.11,24.32,22.8,21.52
+16,LEC,Ferrari,8.0,7.0,Finished,2025,Miami,6,Race,True,5.0,5.2,0.13,22.65,22.59,21.44
+44,HAM,Ferrari,12.0,8.0,Finished,2025,Miami,6,Race,True,5.667,5.2,0.13,22.65,22.59,21.44
+55,SAI,Williams,6.0,9.0,Finished,2025,Miami,6,Race,True,7.333,10.6,0.23,22.25,24.56,22.72
+22,TSU,Red Bull Racing,10.0,10.0,Finished,2025,Miami,6,Race,True,8.333,8.0,0.08,22.51,25.63,23.14
+6,HAD,Racing Bulls,11.0,11.0,Finished,2025,Miami,6,Race,True,12.667,13.6,0.15,22.29,22.84,22.1
+31,OCO,Haas F1 Team,9.0,12.0,Finished,2025,Miami,6,Race,True,12.333,12.6,0.11,23.07,23.78,22.56
+10,GAS,Alpine,20.0,13.0,Finished,2025,Miami,6,Race,True,17.0,14.6,0.16,22.09,23.53,22.09
+27,HUL,Kick Sauber,16.0,14.0,Lapped,2025,Miami,6,Race,True,17.667,18.0,0.14,22.18,23.03,22.08
+14,ALO,Aston Martin,17.0,15.0,Lapped,2025,Miami,6,Race,True,14.667,15.8,0.14,22.89,23.43,21.91
+18,STR,Aston Martin,18.0,16.0,Lapped,2025,Miami,6,Race,True,14.0,14.8,0.14,22.89,23.43,21.91
+30,LAW,Racing Bulls,15.0,17.0,Retired,2025,Miami,6,Race,False,11.0,12.4,0.15,22.29,22.84,22.1
+5,BOR,Kick Sauber,13.0,18.0,Retired,2025,Miami,6,Race,False,15.667,17.0,0.14,22.18,23.03,22.08
+87,BEA,Haas F1 Team,19.0,19.0,Retired,2025,Miami,6,Race,False,13.0,11.4,0.11,23.07,23.78,22.56
+7,DOO,Alpine,14.0,20.0,Retired,2025,Miami,6,Race,False,16.667,14.2,0.16,22.09,23.53,22.09
+1,VER,Red Bull Racing,2.0,1.0,Finished,2025,Emilia Romagna,7,Race,True,11.0,8.8,0.08,29.94,25.02,24.37
+4,NOR,McLaren,4.0,2.0,Finished,2025,Emilia Romagna,7,Race,True,2.333,2.2,0.06,30.67,22.48,22.71
+81,PIA,McLaren,1.0,3.0,Finished,2025,Emilia Romagna,7,Race,True,1.667,2.0,0.06,30.67,22.48,22.71
+44,HAM,Ferrari,12.0,4.0,Finished,2025,Emilia Romagna,7,Race,True,7.333,6.0,0.13,30.39,22.43,22.55
+23,ALB,Williams,7.0,5.0,Finished,2025,Emilia Romagna,7,Race,True,7.667,10.0,0.23,30.26,24.27,23.82
+16,LEC,Ferrari,11.0,6.0,Finished,2025,Emilia Romagna,7,Race,True,6.333,5.8,0.13,30.39,22.43,22.55
+63,RUS,Mercedes,3.0,7.0,Finished,2025,Emilia Romagna,7,Race,True,5.0,6.2,0.11,30.13,22.98,23.05
+55,SAI,Williams,6.0,8.0,Finished,2025,Emilia Romagna,7,Race,True,6.333,7.2,0.23,30.26,24.27,23.82
+6,HAD,Racing Bulls,9.0,9.0,Finished,2025,Emilia Romagna,7,Race,True,13.333,13.2,0.15,30.08,22.49,23.29
+22,TSU,Red Bull Racing,20.0,10.0,Finished,2025,Emilia Romagna,7,Race,True,5.0,7.2,0.08,29.94,25.02,24.37
+14,ALO,Aston Martin,5.0,11.0,Finished,2025,Emilia Romagna,7,Race,True,15.667,15.0,0.14,31.75,22.94,23.21
+27,HUL,Kick Sauber,17.0,12.0,Finished,2025,Emilia Romagna,7,Race,True,16.667,17.0,0.14,30.42,22.59,22.87
+10,GAS,Alpine,10.0,13.0,Finished,2025,Emilia Romagna,7,Race,True,17.667,16.8,0.16,31.21,22.69,23.12
+30,LAW,Racing Bulls,15.0,14.0,Finished,2025,Emilia Romagna,7,Race,True,12.333,11.8,0.15,30.08,22.49,23.29
+18,STR,Aston Martin,8.0,15.0,Finished,2025,Emilia Romagna,7,Race,True,14.0,13.8,0.14,31.75,22.94,23.21
+43,COL,Alpine,16.0,16.0,Finished,2025,Emilia Romagna,7,Race,True,15.333,16.6,0.16,31.21,22.69,23.12
+87,BEA,Haas F1 Team,19.0,17.0,Finished,2025,Emilia Romagna,7,Race,True,15.0,13.6,0.11,39.52,23.26,23.47
+5,BOR,Kick Sauber,14.0,18.0,Finished,2025,Emilia Romagna,7,Race,True,14.667,15.4,0.14,30.42,22.59,22.87
+12,ANT,Mercedes,13.0,19.0,Retired,2025,Emilia Romagna,7,Race,False,5.333,5.4,0.11,30.13,22.98,23.05
+31,OCO,Haas F1 Team,18.0,20.0,Retired,2025,Emilia Romagna,7,Race,False,16.0,15.0,0.11,39.52,23.26,23.47
+4,NOR,McLaren,1.0,1.0,Finished,2025,Monaco,8,Race,True,2.333,2.4,0.06,24.44,24.52,24.23
+16,LEC,Ferrari,2.0,2.0,Finished,2025,Monaco,8,Race,True,6.0,6.4,0.13,23.67,24.42,24.16
+81,PIA,McLaren,3.0,3.0,Finished,2025,Monaco,8,Race,True,2.0,1.8,0.06,24.44,24.52,24.23
+1,VER,Red Bull Racing,4.0,4.0,Finished,2025,Monaco,8,Race,True,7.0,8.8,0.08,24.03,26.17,25.87
+44,HAM,Ferrari,7.0,5.0,Finished,2025,Monaco,8,Race,True,4.0,5.4,0.13,23.67,24.42,24.16
+6,HAD,Racing Bulls,5.0,6.0,Lapped,2025,Monaco,8,Race,True,13.333,12.6,0.15,23.95,24.33,24.18
+31,OCO,Haas F1 Team,8.0,7.0,Lapped,2025,Monaco,8,Race,True,18.667,16.4,0.11,31.25,28.11,26.78
+30,LAW,Racing Bulls,9.0,8.0,Lapped,2025,Monaco,8,Race,True,9.667,11.4,0.15,23.95,24.33,24.18
+23,ALB,Williams,10.0,9.0,Lapped,2025,Monaco,8,Race,True,7.333,7.2,0.23,24.07,25.19,25.24
+55,SAI,Williams,11.0,10.0,Lapped,2025,Monaco,8,Race,True,7.333,7.2,0.23,24.07,25.19,25.24
+63,RUS,Mercedes,14.0,11.0,Lapped,2025,Monaco,8,Race,True,10.667,8.2,0.11,23.48,24.93,24.57
+87,BEA,Haas F1 Team,20.0,12.0,Lapped,2025,Monaco,8,Race,True,14.667,15.0,0.11,31.25,28.11,26.78
+43,COL,Alpine,18.0,13.0,Lapped,2025,Monaco,8,Race,True,16.333,16.4,0.16,24.45,24.77,24.78
+5,BOR,Kick Sauber,16.0,14.0,Lapped,2025,Monaco,8,Race,True,16.0,16.0,0.14,26.95,24.59,24.34
+18,STR,Aston Martin,19.0,15.0,Lapped,2025,Monaco,8,Race,True,14.0,14.6,0.14,25.1,25.29,24.98
+27,HUL,Kick Sauber,13.0,16.0,Lapped,2025,Monaco,8,Race,True,14.667,15.2,0.14,26.95,24.59,24.34
+22,TSU,Red Bull Racing,12.0,17.0,Lapped,2025,Monaco,8,Race,True,5.0,5.8,0.08,24.03,26.17,25.87
+12,ANT,Mercedes,15.0,18.0,Lapped,2025,Monaco,8,Race,True,12.333,9.2,0.11,23.48,24.93,24.57
+14,ALO,Aston Martin,6.0,19.0,Retired,2025,Monaco,8,Race,False,13.667,14.4,0.14,25.1,25.29,24.98
+10,GAS,Alpine,17.0,20.0,Retired,2025,Monaco,8,Race,False,14.0,15.0,0.16,24.45,24.77,24.78
+81,PIA,McLaren,1.0,1.0,Finished,2025,Spanish,9,Race,True,2.333,2.2,0.06,22.4,25.72,24.51
+4,NOR,McLaren,2.0,2.0,Finished,2025,Spanish,9,Race,True,1.667,2.0,0.06,22.4,25.72,24.51
+16,LEC,Ferrari,7.0,3.0,Finished,2025,Spanish,9,Race,True,4.333,5.0,0.13,23.0,25.57,24.27
+63,RUS,Mercedes,4.0,4.0,Finished,2025,Spanish,9,Race,True,16.0,12.2,0.11,22.51,25.98,24.51
+27,HUL,Kick Sauber,15.0,5.0,Finished,2025,Spanish,9,Race,True,16.0,15.6,0.14,22.26,26.52,25.03
+44,HAM,Ferrari,5.0,6.0,Finished,2025,Spanish,9,Race,True,3.333,4.0,0.13,23.0,25.57,24.27
+6,HAD,Racing Bulls,9.0,7.0,Finished,2025,Spanish,9,Race,True,9.333,10.8,0.15,21.95,25.44,24.3
+10,GAS,Alpine,8.0,8.0,Finished,2025,Spanish,9,Race,True,16.333,16.4,0.16,22.29,25.92,24.75
+14,ALO,Aston Martin,10.0,9.0,Finished,2025,Spanish,9,Race,True,16.333,15.2,0.14,22.49,26.58,25.14
+1,VER,Red Bull Racing,3.0,10.0,Finished,2025,Spanish,9,Race,True,10.333,8.4,0.08,22.02,25.49,25.81
+30,LAW,Racing Bulls,13.0,11.0,Finished,2025,Spanish,9,Race,True,7.0,8.8,0.15,21.95,25.44,24.3
+5,BOR,Kick Sauber,12.0,12.0,Finished,2025,Spanish,9,Race,True,11.667,13.0,0.14,22.26,26.52,25.03
+22,TSU,Red Bull Racing,19.0,13.0,Finished,2025,Spanish,9,Race,True,10.333,8.4,0.08,22.02,25.49,25.81
+55,SAI,Williams,17.0,14.0,Finished,2025,Spanish,9,Race,True,9.0,8.2,0.23,28.6,25.53,25.43
+43,COL,Alpine,18.0,15.0,Finished,2025,Spanish,9,Race,True,13.667,14.0,0.16,22.29,25.92,24.75
+31,OCO,Haas F1 Team,16.0,16.0,Finished,2025,Spanish,9,Race,True,13.0,15.0,0.11,22.4,31.28,28.11
+87,BEA,Haas F1 Team,14.0,17.0,Finished,2025,Spanish,9,Race,True,11.667,14.4,0.11,22.4,31.28,28.11
+12,ANT,Mercedes,6.0,18.0,Retired,2025,Spanish,9,Race,False,11.0,11.8,0.11,22.51,25.98,24.51
+23,ALB,Williams,11.0,19.0,Retired,2025,Spanish,9,Race,False,11.0,9.2,0.23,28.6,25.53,25.43
+63,RUS,Mercedes,1.0,1.0,Finished,2025,Canadian,10,Race,True,13.333,14.0,0.11,20.56,25.37,24.16
+1,VER,Red Bull Racing,2.0,2.0,Finished,2025,Canadian,10,Race,True,13.333,10.8,0.08,20.23,25.33,24.91
+12,ANT,Mercedes,4.0,3.0,Finished,2025,Canadian,10,Race,True,7.667,10.4,0.11,20.56,25.37,24.16
+81,PIA,McLaren,3.0,4.0,Finished,2025,Canadian,10,Race,True,2.0,2.0,0.06,22.26,25.84,24.08
+16,LEC,Ferrari,8.0,5.0,Finished,2025,Canadian,10,Race,True,4.667,4.4,0.13,20.38,25.69,23.99
+44,HAM,Ferrari,5.0,6.0,Finished,2025,Canadian,10,Race,True,4.667,4.2,0.13,20.38,25.69,23.99
+14,ALO,Aston Martin,6.0,7.0,Finished,2025,Canadian,10,Race,True,14.333,13.8,0.14,21.78,26.45,24.69
+27,HUL,Kick Sauber,11.0,8.0,Finished,2025,Canadian,10,Race,True,11.0,13.0,0.14,19.51,26.54,24.6
+31,OCO,Haas F1 Team,14.0,9.0,Lapped,2025,Canadian,10,Race,True,15.0,14.4,0.11,20.87,31.06,27.6
+55,SAI,Williams,16.0,10.0,Lapped,2025,Canadian,10,Race,True,14.333,12.0,0.23,20.34,27.64,25.65
+87,BEA,Haas F1 Team,13.0,11.0,Lapped,2025,Canadian,10,Race,True,14.0,12.2,0.11,20.87,31.06,27.6
+22,TSU,Red Bull Racing,18.0,12.0,Lapped,2025,Canadian,10,Race,True,8.333,9.2,0.08,20.23,25.33,24.91
+43,COL,Alpine,10.0,13.0,Lapped,2025,Canadian,10,Race,True,14.333,14.4,0.16,19.7,25.98,24.21
+5,BOR,Kick Sauber,15.0,14.0,Lapped,2025,Canadian,10,Race,True,8.333,11.0,0.14,19.51,26.54,24.6
+10,GAS,Alpine,20.0,15.0,Lapped,2025,Canadian,10,Race,True,12.0,13.8,0.16,19.7,25.98,24.21
+6,HAD,Racing Bulls,12.0,16.0,Lapped,2025,Canadian,10,Race,True,8.667,9.2,0.15,21.53,25.33,23.78
+18,STR,Aston Martin,17.0,17.0,Lapped,2025,Canadian,10,Race,True,11.667,13.0,0.14,21.78,26.45,24.69
+4,NOR,McLaren,7.0,18.0,Retired,2025,Canadian,10,Race,False,2.333,2.2,0.06,22.26,25.84,24.08
+30,LAW,Racing Bulls,19.0,19.0,Retired,2025,Canadian,10,Race,False,11.333,9.6,0.15,21.53,25.33,23.78
+23,ALB,Williams,9.0,20.0,Retired,2025,Canadian,10,Race,False,14.333,12.4,0.23,20.34,27.64,25.65
+4,NOR,McLaren,1.0,1.0,Finished,2025,Austrian,11,Race,True,8.0,5.6,0.06,21.77,23.03,24.36
+81,PIA,McLaren,3.0,2.0,Finished,2025,Austrian,11,Race,True,7.667,5.2,0.06,21.77,23.03,24.36
+16,LEC,Ferrari,2.0,3.0,Finished,2025,Austrian,11,Race,True,5.667,5.0,0.13,21.31,22.35,24.02
+44,HAM,Ferrari,4.0,4.0,Finished,2025,Austrian,11,Race,True,4.667,4.6,0.13,21.31,22.35,24.02
+63,RUS,Mercedes,5.0,5.0,Finished,2025,Austrian,11,Race,True,7.333,8.8,0.11,21.61,22.18,24.2
+30,LAW,Racing Bulls,6.0,6.0,Finished,2025,Austrian,11,Race,True,15.333,12.2,0.15,21.4,22.48,23.96
+14,ALO,Aston Martin,11.0,7.0,Lapped,2025,Austrian,11,Race,True,11.0,13.4,0.14,22.15,23.12,24.8
+5,BOR,Kick Sauber,8.0,8.0,Lapped,2025,Austrian,11,Race,True,11.333,11.0,0.14,21.26,22.91,24.26
+27,HUL,Kick Sauber,20.0,9.0,Lapped,2025,Austrian,11,Race,True,10.0,9.4,0.14,21.26,22.91,24.26
+31,OCO,Haas F1 Team,17.0,10.0,Lapped,2025,Austrian,11,Race,True,12.333,13.0,0.11,22.29,24.84,27.42
+87,BEA,Haas F1 Team,15.0,11.0,Lapped,2025,Austrian,11,Race,True,10.0,12.6,0.11,22.29,24.84,27.42
+6,HAD,Racing Bulls,13.0,12.0,Lapped,2025,Austrian,11,Race,True,13.667,11.8,0.15,21.4,22.48,23.96
+10,GAS,Alpine,10.0,13.0,Lapped,2025,Austrian,11,Race,True,14.333,14.2,0.16,22.08,22.15,23.95
+18,STR,Aston Martin,16.0,14.0,Lapped,2025,Austrian,11,Race,True,10.333,11.8,0.14,22.15,23.12,24.8
+43,COL,Alpine,14.0,15.0,Lapped,2025,Austrian,11,Race,True,13.667,12.8,0.16,22.08,22.15,23.95
+22,TSU,Red Bull Racing,18.0,16.0,Lapped,2025,Austrian,11,Race,True,9.0,10.8,0.08,28.18,22.09,23.75
+23,ALB,Williams,12.0,17.0,Retired,2025,Austrian,11,Race,False,16.333,14.6,0.23,21.28,24.34,25.1
+1,VER,Red Bull Racing,7.0,18.0,Retired,2025,Austrian,11,Race,False,10.0,10.6,0.08,28.18,22.09,23.75
+12,ANT,Mercedes,9.0,19.0,Retired,2025,Austrian,11,Race,False,3.0,6.2,0.11,21.61,22.18,24.2
+55,SAI,Williams,19.0,20.0,Did not start,2025,Austrian,11,Race,False,15.667,16.0,0.23,21.28,24.34,25.1
+4,NOR,McLaren,3.0,1.0,Finished,2025,British,12,Race,True,7.0,5.4,0.06,32.14,22.14,24.31
+81,PIA,McLaren,2.0,2.0,Finished,2025,British,12,Race,True,1.333,5.2,0.06,32.14,22.14,24.31
+27,HUL,Kick Sauber,19.0,3.0,Finished,2025,British,12,Race,True,10.333,10.2,0.14,29.93,21.01,24.08
+44,HAM,Ferrari,5.0,4.0,Finished,2025,British,12,Race,True,4.333,4.8,0.13,28.94,21.56,23.75
+1,VER,Red Bull Racing,1.0,5.0,Finished,2025,British,12,Race,True,15.333,12.2,0.08,31.63,23.48,24.88
+10,GAS,Alpine,8.0,6.0,Finished,2025,British,12,Race,True,14.333,14.2,0.16,28.63,21.36,23.95
+18,STR,Aston Martin,17.0,7.0,Finished,2025,British,12,Race,True,12.667,10.8,0.14,28.76,22.14,24.65
+23,ALB,Williams,13.0,8.0,Finished,2025,British,12,Race,True,19.0,17.2,0.23,29.16,23.41,24.91
+14,ALO,Aston Martin,7.0,9.0,Finished,2025,British,12,Race,True,9.333,10.4,0.14,28.76,22.14,24.65
+63,RUS,Mercedes,4.0,10.0,Finished,2025,British,12,Race,True,9.0,9.2,0.11,323.05,21.56,23.66
+87,BEA,Haas F1 Team,18.0,11.0,Finished,2025,British,12,Race,True,10.667,11.6,0.11,29.1,21.85,27.27
+55,SAI,Williams,9.0,12.0,Finished,2025,British,12,Race,True,15.0,15.0,0.23,29.16,23.41,24.91
+31,OCO,Haas F1 Team,14.0,13.0,Finished,2025,British,12,Race,True,10.667,10.4,0.11,29.1,21.85,27.27
+16,LEC,Ferrari,6.0,14.0,Finished,2025,British,12,Race,True,3.667,4.4,0.13,28.94,21.56,23.75
+22,TSU,Red Bull Racing,11.0,15.0,Lapped,2025,British,12,Race,True,13.0,10.6,0.08,31.63,23.48,24.88
+12,ANT,Mercedes,10.0,16.0,Retired,2025,British,12,Race,False,11.333,7.6,0.11,323.05,21.56,23.66
+6,HAD,Racing Bulls,12.0,17.0,Retired,2025,British,12,Race,False,12.333,12.8,0.15,28.63,21.63,23.78
+5,BOR,Kick Sauber,16.0,18.0,Retired,2025,British,12,Race,False,6.667,8.4,0.14,29.93,21.01,24.08
+30,LAW,Racing Bulls,15.0,19.0,Retired,2025,British,12,Race,False,11.667,14.0,0.15,28.63,21.63,23.78
+43,COL,Alpine,20.0,20.0,Did not start,2025,British,12,Race,False,11.333,12.4,0.16,28.63,21.36,23.95
+81,PIA,McLaren,2.0,1.0,Finished,2025,Belgian,13,Race,True,1.667,4.8,0.06,24.09,25.39,24.6
+4,NOR,McLaren,1.0,2.0,Finished,2025,Belgian,13,Race,True,1.333,1.4,0.06,24.09,25.39,24.6
+16,LEC,Ferrari,3.0,3.0,Finished,2025,Belgian,13,Race,True,7.333,6.2,0.13,23.51,23.54,23.46
+1,VER,Red Bull Racing,4.0,4.0,Finished,2025,Belgian,13,Race,True,12.667,13.2,0.08,24.63,26.68,25.22
+63,RUS,Mercedes,6.0,5.0,Finished,2025,Belgian,13,Race,True,15.0,10.6,0.11,23.45,121.74,82.24
+23,ALB,Williams,5.0,6.0,Finished,2025,Belgian,13,Race,True,13.333,15.4,0.23,25.03,23.59,24.69
+44,HAM,Ferrari,18.0,7.0,Finished,2025,Belgian,13,Race,True,7.0,5.6,0.13,23.51,23.54,23.46
+30,LAW,Racing Bulls,9.0,8.0,Finished,2025,Belgian,13,Race,True,16.0,14.6,0.15,23.44,23.85,23.49
+5,BOR,Kick Sauber,10.0,9.0,Finished,2025,Belgian,13,Race,True,10.0,10.4,0.14,23.56,23.57,23.98
+10,GAS,Alpine,13.0,10.0,Finished,2025,Belgian,13,Race,True,13.667,13.8,0.16,24.36,23.47,23.43
+87,BEA,Haas F1 Team,12.0,11.0,Finished,2025,Belgian,13,Race,True,11.667,11.2,0.11,24.17,24.09,25.18
+27,HUL,Kick Sauber,14.0,12.0,Finished,2025,Belgian,13,Race,True,10.0,9.4,0.14,23.56,23.57,23.98
+22,TSU,Red Bull Racing,7.0,13.0,Finished,2025,Belgian,13,Race,True,8.0,11.6,0.08,24.63,26.68,25.22
+18,STR,Aston Martin,16.0,14.0,Finished,2025,Belgian,13,Race,True,10.0,10.8,0.14,23.57,24.23,24.06
+31,OCO,Haas F1 Team,11.0,15.0,Finished,2025,Belgian,13,Race,True,11.667,11.2,0.11,24.17,24.09,25.18
+12,ANT,Mercedes,19.0,16.0,Finished,2025,Belgian,13,Race,True,10.333,11.0,0.11,23.45,121.74,82.24
+14,ALO,Aston Martin,20.0,17.0,Finished,2025,Belgian,13,Race,True,10.0,10.2,0.14,23.57,24.23,24.06
+55,SAI,Williams,17.0,18.0,Finished,2025,Belgian,13,Race,True,8.667,12.6,0.23,25.03,23.59,24.69
+43,COL,Alpine,15.0,19.0,Finished,2025,Belgian,13,Race,True,12.0,12.8,0.16,24.36,23.47,23.43
+6,HAD,Racing Bulls,8.0,20.0,Lapped,2025,Belgian,13,Race,True,14.667,12.4,0.15,23.44,23.85,23.49
+4,NOR,McLaren,3.0,1.0,Finished,2025,Hungarian,14,Race,True,1.667,1.6,0.06,21.01,26.0,24.53
+81,PIA,McLaren,2.0,2.0,Finished,2025,Hungarian,14,Race,True,1.333,1.4,0.06,21.01,26.0,24.53
+63,RUS,Mercedes,4.0,3.0,Finished,2025,Hungarian,14,Race,True,12.333,13.2,0.11,21.59,122.7,82.24
+16,LEC,Ferrari,1.0,4.0,Finished,2025,Hungarian,14,Race,True,8.0,6.4,0.13,21.19,24.59,23.43
+14,ALO,Aston Martin,5.0,5.0,Finished,2025,Hungarian,14,Race,True,13.333,12.2,0.14,21.91,24.83,23.75
+5,BOR,Kick Sauber,7.0,6.0,Finished,2025,Hungarian,14,Race,True,13.0,10.2,0.14,24.14,24.92,23.3
+18,STR,Aston Martin,6.0,7.0,Finished,2025,Hungarian,14,Race,True,12.0,10.4,0.14,21.91,24.83,23.75
+30,LAW,Racing Bulls,9.0,8.0,Finished,2025,Hungarian,14,Race,True,15.667,15.2,0.15,21.66,24.49,23.39
+1,VER,Red Bull Racing,8.0,9.0,Finished,2025,Hungarian,14,Race,True,10.667,11.0,0.08,21.34,28.15,25.34
+12,ANT,Mercedes,15.0,10.0,Lapped,2025,Hungarian,14,Race,True,8.0,10.0,0.11,21.59,122.7,82.24
+6,HAD,Racing Bulls,10.0,11.0,Lapped,2025,Hungarian,14,Race,True,12.0,14.4,0.15,21.66,24.49,23.39
+44,HAM,Ferrari,12.0,12.0,Lapped,2025,Hungarian,14,Race,True,4.667,6.4,0.13,21.19,24.59,23.43
+27,HUL,Kick Sauber,18.0,13.0,Lapped,2025,Hungarian,14,Race,True,9.0,9.6,0.14,24.14,24.92,23.3
+55,SAI,Williams,13.0,14.0,Lapped,2025,Hungarian,14,Race,True,12.0,12.8,0.23,21.84,25.16,24.88
+23,ALB,Williams,19.0,15.0,Lapped,2025,Hungarian,14,Race,True,12.667,11.6,0.23,21.84,25.16,24.88
+31,OCO,Haas F1 Team,17.0,16.0,Lapped,2025,Hungarian,14,Race,True,13.0,12.2,0.11,-1351.32,25.19,23.77
+22,TSU,Red Bull Racing,20.0,17.0,Lapped,2025,Hungarian,14,Race,True,8.667,9.2,0.08,21.34,28.15,25.34
+43,COL,Alpine,14.0,18.0,Lapped,2025,Hungarian,14,Race,True,16.333,14.0,0.16,26.01,25.02,23.41
+10,GAS,Alpine,16.0,19.0,Lapped,2025,Hungarian,14,Race,True,15.667,14.6,0.16,26.01,25.02,23.41
+87,BEA,Haas F1 Team,11.0,20.0,Retired,2025,Hungarian,14,Race,False,14.0,13.2,0.11,-1351.32,25.19,23.77
+81,PIA,McLaren,1.0,1.0,Finished,2025,Dutch,15,Race,True,1.667,1.6,0.06,19.73,25.75,24.25
+1,VER,Red Bull Racing,3.0,2.0,Finished,2025,Dutch,15,Race,True,13.0,11.6,0.08,18.44,25.87,25.2
+6,HAD,Racing Bulls,4.0,3.0,Finished,2025,Dutch,15,Race,True,13.0,13.2,0.15,18.81,24.58,23.33
+63,RUS,Mercedes,5.0,4.0,Finished,2025,Dutch,15,Race,True,9.667,10.0,0.11,18.53,122.7,82.05
+23,ALB,Williams,15.0,5.0,Finished,2025,Dutch,15,Race,True,15.667,13.0,0.23,22.24,25.34,23.53
+87,BEA,Haas F1 Team,20.0,6.0,Finished,2025,Dutch,15,Race,True,17.0,15.0,0.11,18.42,-432.68,-250.98
+18,STR,Aston Martin,19.0,7.0,Finished,2025,Dutch,15,Race,True,9.667,10.4,0.14,17.76,24.75,23.63
+14,ALO,Aston Martin,10.0,8.0,Finished,2025,Dutch,15,Race,True,6.333,10.0,0.14,17.76,24.75,23.63
+22,TSU,Red Bull Racing,12.0,9.0,Finished,2025,Dutch,15,Race,True,9.333,9.0,0.08,18.44,25.87,25.2
+31,OCO,Haas F1 Team,18.0,10.0,Finished,2025,Dutch,15,Race,True,14.0,13.6,0.11,18.42,-432.68,-250.98
+43,COL,Alpine,16.0,11.0,Finished,2025,Dutch,15,Race,True,18.667,17.2,0.16,18.24,26.33,24.16
+30,LAW,Racing Bulls,8.0,12.0,Finished,2025,Dutch,15,Race,True,7.333,10.0,0.15,18.81,24.58,23.33
+55,SAI,Williams,9.0,13.0,Finished,2025,Dutch,15,Race,True,11.333,11.6,0.23,22.24,25.34,23.53
+27,HUL,Kick Sauber,17.0,14.0,Finished,2025,Dutch,15,Race,True,10.333,11.6,0.14,17.77,25.88,23.68
+5,BOR,Kick Sauber,13.0,15.0,Finished,2025,Dutch,15,Race,True,11.0,10.8,0.14,17.77,25.88,23.68
+12,ANT,Mercedes,11.0,16.0,Finished,2025,Dutch,15,Race,True,5.667,7.6,0.11,18.53,122.7,82.05
+10,GAS,Alpine,14.0,17.0,Finished,2025,Dutch,15,Race,True,16.0,15.4,0.16,18.24,26.33,24.16
+4,NOR,McLaren,2.0,18.0,Retired,2025,Dutch,15,Race,False,1.333,1.4,0.06,19.73,25.75,24.25
+16,LEC,Ferrari,6.0,19.0,Retired,2025,Dutch,15,Race,False,7.667,8.0,0.13,17.15,24.55,23.07
+44,HAM,Ferrari,7.0,20.0,Retired,2025,Dutch,15,Race,False,11.667,9.0,0.13,17.15,24.55,23.07
+1,VER,Red Bull Racing,1.0,1.0,Finished,2025,Italian,16,Race,True,9.333,10.0,0.08,24.35,21.47,24.84
+4,NOR,McLaren,2.0,2.0,Finished,2025,Italian,16,Race,True,7.0,4.8,0.06,25.45,21.61,23.75
+81,PIA,McLaren,3.0,3.0,Finished,2025,Italian,16,Race,True,7.0,4.8,0.06,25.45,21.61,23.75
+16,LEC,Ferrari,4.0,4.0,Finished,2025,Italian,16,Race,True,17.0,12.4,0.13,24.13,20.62,22.42
+63,RUS,Mercedes,5.0,5.0,Finished,2025,Italian,16,Race,True,10.0,9.8,0.11,25.03,21.19,81.65
+44,HAM,Ferrari,10.0,6.0,Finished,2025,Italian,16,Race,True,14.333,11.8,0.13,24.13,20.62,22.42
+23,ALB,Williams,14.0,7.0,Finished,2025,Italian,16,Race,True,11.0,13.0,0.23,24.79,23.04,23.91
+5,BOR,Kick Sauber,7.0,8.0,Finished,2025,Italian,16,Race,True,14.0,12.0,0.14,26.08,21.82,23.33
+12,ANT,Mercedes,6.0,9.0,Finished,2025,Italian,16,Race,True,8.333,7.6,0.11,25.03,21.19,81.65
+6,HAD,Racing Bulls,19.0,10.0,Finished,2025,Italian,16,Race,True,8.667,10.8,0.15,24.17,21.3,22.79
+55,SAI,Williams,13.0,11.0,Finished,2025,Italian,16,Race,True,8.333,10.8,0.23,24.79,23.04,23.91
+87,BEA,Haas F1 Team,11.0,12.0,Finished,2025,Italian,16,Race,True,12.0,13.4,0.11,27.92,-436.24,-251.47
+22,TSU,Red Bull Racing,9.0,13.0,Finished,2025,Italian,16,Race,True,4.0,7.6,0.08,24.35,21.47,24.84
+30,LAW,Racing Bulls,18.0,14.0,Finished,2025,Italian,16,Race,True,8.333,8.8,0.15,24.17,21.3,22.79
+31,OCO,Haas F1 Team,15.0,15.0,Lapped,2025,Italian,16,Race,True,9.333,12.8,0.11,27.92,-436.24,-251.47
+10,GAS,Alpine,20.0,16.0,Lapped,2025,Italian,16,Race,True,15.667,16.8,0.16,25.02,22.87,23.86
+43,COL,Alpine,17.0,17.0,Lapped,2025,Italian,16,Race,True,14.667,16.2,0.16,25.02,22.87,23.86
+18,STR,Aston Martin,16.0,18.0,Lapped,2025,Italian,16,Race,True,7.333,8.8,0.14,31.87,21.08,22.83
+14,ALO,Aston Martin,8.0,19.0,Retired,2025,Italian,16,Race,False,11.0,9.0,0.14,31.87,21.08,22.83
+27,HUL,Kick Sauber,12.0,20.0,Did not start,2025,Italian,16,Race,False,12.333,11.2,0.14,26.08,21.82,23.33
+1,VER,Red Bull Racing,1.0,1.0,Finished,2025,Azerbaijan,17,Race,True,7.667,8.4,0.08,20.27,21.38,24.08
+63,RUS,Mercedes,5.0,2.0,Finished,2025,Azerbaijan,17,Race,True,10.0,8.8,0.11,20.28,21.72,82.33
+55,SAI,Williams,2.0,3.0,Finished,2025,Azerbaijan,17,Race,True,10.333,10.2,0.23,20.62,22.96,24.61
+12,ANT,Mercedes,4.0,4.0,Finished,2025,Azerbaijan,17,Race,True,5.333,7.2,0.11,20.28,21.72,82.33
+30,LAW,Racing Bulls,3.0,5.0,Finished,2025,Azerbaijan,17,Race,True,12.0,10.0,0.15,20.25,21.55,23.34
+22,TSU,Red Bull Racing,6.0,6.0,Finished,2025,Azerbaijan,17,Race,True,5.0,5.2,0.08,20.27,21.38,24.08
+4,NOR,McLaren,7.0,7.0,Finished,2025,Azerbaijan,17,Race,True,7.667,5.2,0.06,21.93,22.06,24.48
+44,HAM,Ferrari,12.0,8.0,Finished,2025,Azerbaijan,17,Race,True,10.0,12.2,0.13,20.32,20.82,22.98
+16,LEC,Ferrari,10.0,9.0,Finished,2025,Azerbaijan,17,Race,True,6.0,11.4,0.13,20.32,20.82,22.98
+6,HAD,Racing Bulls,8.0,10.0,Finished,2025,Azerbaijan,17,Race,True,9.667,8.8,0.15,20.25,21.55,23.34
+5,BOR,Kick Sauber,13.0,11.0,Finished,2025,Azerbaijan,17,Race,True,14.333,14.0,0.14,20.4,22.66,24.3
+87,BEA,Haas F1 Team,15.0,12.0,Finished,2025,Azerbaijan,17,Race,True,12.333,12.6,0.11,20.94,-434.99,-250.34
+23,ALB,Williams,19.0,13.0,Finished,2025,Azerbaijan,17,Race,True,7.0,7.8,0.23,20.62,22.96,24.61
+31,OCO,Haas F1 Team,20.0,14.0,Finished,2025,Azerbaijan,17,Race,True,13.0,11.0,0.11,20.94,-434.99,-250.34
+14,ALO,Aston Martin,11.0,15.0,Finished,2025,Azerbaijan,17,Race,True,15.0,11.8,0.14,23.73,23.85,24.77
+27,HUL,Kick Sauber,17.0,16.0,Finished,2025,Azerbaijan,17,Race,True,13.0,13.6,0.14,20.4,22.66,24.3
+18,STR,Aston Martin,14.0,17.0,Finished,2025,Azerbaijan,17,Race,True,17.333,13.4,0.14,23.73,23.85,24.77
+10,GAS,Alpine,18.0,18.0,Lapped,2025,Azerbaijan,17,Race,True,16.667,16.0,0.16,21.41,23.09,24.45
+43,COL,Alpine,16.0,19.0,Lapped,2025,Azerbaijan,17,Race,True,17.0,15.8,0.16,21.41,23.09,24.45
+81,PIA,McLaren,9.0,20.0,Retired,2025,Azerbaijan,17,Race,False,4.0,6.2,0.06,21.93,22.06,24.48
+63,RUS,Mercedes,1.0,1.0,Finished,2025,Singapore,18,Race,True,5.0,7.2,0.11,23.86,21.28,21.78
+1,VER,Red Bull Racing,2.0,2.0,Finished,2025,Singapore,18,Race,True,6.667,6.0,0.08,24.28,21.02,21.81
+4,NOR,McLaren,5.0,3.0,Finished,2025,Singapore,18,Race,True,10.0,10.0,0.06,24.94,22.37,22.44
+81,PIA,McLaren,3.0,4.0,Finished,2025,Singapore,18,Race,True,10.0,7.0,0.06,24.94,22.37,22.44
+12,ANT,Mercedes,4.0,5.0,Finished,2025,Singapore,18,Race,True,2.333,4.2,0.11,23.86,21.28,21.78
+16,LEC,Ferrari,7.0,6.0,Finished,2025,Singapore,18,Race,True,7.667,9.4,0.13,23.94,20.53,21.26
+14,ALO,Aston Martin,10.0,7.0,Finished,2025,Singapore,18,Race,True,17.0,15.4,0.14,27.27,24.45,23.77
+44,HAM,Ferrari,6.0,8.0,Finished,2025,Singapore,18,Race,True,7.667,6.6,0.13,23.94,20.53,21.26
+87,BEA,Haas F1 Team,9.0,9.0,Finished,2025,Singapore,18,Race,True,13.667,12.6,0.11,24.63,22.43,-251.97
+55,SAI,Williams,18.0,10.0,Lapped,2025,Singapore,18,Race,True,9.0,9.4,0.23,24.88,22.55,22.9
+6,HAD,Racing Bulls,8.0,11.0,Lapped,2025,Singapore,18,Race,True,9.667,10.2,0.15,24.0,21.08,21.67
+22,TSU,Red Bull Racing,13.0,12.0,Lapped,2025,Singapore,18,Race,True,3.0,4.6,0.08,24.28,21.02,21.81
+18,STR,Aston Martin,15.0,13.0,Lapped,2025,Singapore,18,Race,True,13.0,15.2,0.14,27.27,24.45,23.77
+23,ALB,Williams,20.0,14.0,Lapped,2025,Singapore,18,Race,True,8.667,8.8,0.23,24.88,22.55,22.9
+30,LAW,Racing Bulls,12.0,15.0,Lapped,2025,Singapore,18,Race,True,8.667,10.0,0.15,24.0,21.08,21.67
+43,COL,Alpine,16.0,16.0,Lapped,2025,Singapore,18,Race,True,18.0,17.4,0.16,24.89,21.56,23.01
+5,BOR,Kick Sauber,14.0,17.0,Lapped,2025,Singapore,18,Race,True,15.667,14.0,0.14,29.62,21.42,22.39
+31,OCO,Haas F1 Team,17.0,18.0,Lapped,2025,Singapore,18,Race,True,11.667,12.4,0.11,24.63,22.43,-251.97
+10,GAS,Alpine,19.0,19.0,Lapped,2025,Singapore,18,Race,True,17.667,17.2,0.16,24.89,21.56,23.01
+27,HUL,Kick Sauber,11.0,20.0,Lapped,2025,Singapore,18,Race,True,14.667,14.4,0.14,29.62,21.42,22.39
+1,VER,Red Bull Racing,1.0,1.0,Finished,2025,United States,19,Race,True,6.667,6.8,0.08,23.94,22.97,21.74
+4,NOR,McLaren,2.0,2.0,Finished,2025,United States,19,Race,True,9.0,7.4,0.06,23.99,24.11,22.61
+16,LEC,Ferrari,3.0,3.0,Finished,2025,United States,19,Race,True,7.667,7.4,0.13,23.8,22.8,21.35
+44,HAM,Ferrari,5.0,4.0,Finished,2025,United States,19,Race,True,5.667,6.8,0.13,23.8,22.8,21.35
+81,PIA,McLaren,6.0,5.0,Finished,2025,United States,19,Race,True,3.0,7.2,0.06,23.99,24.11,22.61
+63,RUS,Mercedes,4.0,6.0,Finished,2025,United States,19,Race,True,3.333,4.2,0.11,23.69,23.06,21.86
+22,TSU,Red Bull Racing,13.0,7.0,Finished,2025,United States,19,Race,True,5.0,4.4,0.08,23.94,22.97,21.74
+27,HUL,Kick Sauber,11.0,8.0,Finished,2025,United States,19,Race,True,17.667,16.8,0.14,24.45,25.37,23.6
+87,BEA,Haas F1 Team,8.0,9.0,Finished,2025,United States,19,Race,True,13.667,13.6,0.11,24.4,24.5,-251.88
+14,ALO,Aston Martin,10.0,10.0,Finished,2025,United States,19,Race,True,12.333,14.2,0.14,24.08,27.62,24.51
+30,LAW,Racing Bulls,12.0,11.0,Finished,2025,United States,19,Race,True,12.0,11.0,0.15,23.45,22.81,21.78
+18,STR,Aston Martin,19.0,12.0,Finished,2025,United States,19,Race,True,10.0,12.4,0.14,24.08,27.62,24.51
+12,ANT,Mercedes,7.0,13.0,Finished,2025,United States,19,Race,True,4.0,3.6,0.11,23.69,23.06,21.86
+23,ALB,Williams,18.0,14.0,Finished,2025,United States,19,Race,True,12.333,10.2,0.23,24.0,23.43,22.87
+31,OCO,Haas F1 Team,17.0,15.0,Finished,2025,United States,19,Race,True,12.0,12.4,0.11,24.4,24.5,-251.88
+6,HAD,Racing Bulls,20.0,16.0,Finished,2025,United States,19,Race,True,12.333,10.4,0.15,23.45,22.81,21.78
+43,COL,Alpine,15.0,17.0,Lapped,2025,United States,19,Race,True,18.0,17.8,0.16,25.15,23.77,23.11
+5,BOR,Kick Sauber,16.0,18.0,Lapped,2025,United States,19,Race,True,15.0,14.4,0.14,24.45,25.37,23.6
+10,GAS,Alpine,14.0,19.0,Lapped,2025,United States,19,Race,True,17.333,17.8,0.16,25.15,23.77,23.11
+55,SAI,Williams,9.0,20.0,Retired,2025,United States,19,Race,False,12.667,10.8,0.23,24.0,23.43,22.87
+4,NOR,McLaren,1.0,1.0,Finished,2025,Mexico City,20,Race,True,3.667,6.8,0.06,22.64,23.62,23.21
+16,LEC,Ferrari,2.0,2.0,Finished,2025,Mexico City,20,Race,True,5.0,6.0,0.13,26.4,22.69,21.87
+1,VER,Red Bull Racing,5.0,3.0,Finished,2025,Mexico City,20,Race,True,6.667,5.6,0.08,27.23,22.83,22.26
+87,BEA,Haas F1 Team,9.0,4.0,Finished,2025,Mexico City,20,Race,True,14.0,13.0,0.11,22.64,23.32,23.26
+81,PIA,McLaren,7.0,5.0,Finished,2025,Mexico City,20,Race,True,2.667,3.0,0.06,22.64,23.62,23.21
+12,ANT,Mercedes,6.0,6.0,Finished,2025,Mexico City,20,Race,True,8.0,5.8,0.11,22.97,22.61,22.28
+63,RUS,Mercedes,4.0,7.0,Finished,2025,Mexico City,20,Race,True,8.333,6.2,0.11,22.97,22.61,22.28
+44,HAM,Ferrari,3.0,8.0,Finished,2025,Mexico City,20,Race,True,3.0,4.6,0.13,26.4,22.69,21.87
+31,OCO,Haas F1 Team,11.0,9.0,Finished,2025,Mexico City,20,Race,True,9.333,11.0,0.11,22.64,23.32,23.26
+5,BOR,Kick Sauber,16.0,10.0,Finished,2025,Mexico City,20,Race,True,15.333,15.8,0.14,22.29,24.82,23.66
+22,TSU,Red Bull Racing,10.0,11.0,Finished,2025,Mexico City,20,Race,True,3.667,5.0,0.08,27.23,22.83,22.26
+23,ALB,Williams,17.0,12.0,Lapped,2025,Mexico City,20,Race,True,16.0,14.2,0.23,23.45,23.17,23.31
+6,HAD,Racing Bulls,8.0,13.0,Lapped,2025,Mexico City,20,Race,True,14.0,12.6,0.15,28.23,22.57,22.14
+18,STR,Aston Martin,19.0,14.0,Lapped,2025,Mexico City,20,Race,True,11.667,11.8,0.14,24.4,25.03,24.94
+10,GAS,Alpine,18.0,15.0,Lapped,2025,Mexico City,20,Race,True,18.333,18.0,0.16,22.79,23.82,22.94
+43,COL,Alpine,20.0,16.0,Lapped,2025,Mexico City,20,Race,True,17.0,17.2,0.16,22.79,23.82,22.94
+55,SAI,Williams,12.0,17.0,Retired,2025,Mexico City,20,Race,False,15.333,14.0,0.23,23.45,23.17,23.31
+14,ALO,Aston Martin,14.0,18.0,Retired,2025,Mexico City,20,Race,False,12.0,11.2,0.14,24.4,25.03,24.94
+27,HUL,Kick Sauber,13.0,19.0,Retired,2025,Mexico City,20,Race,False,12.0,14.6,0.14,22.29,24.82,23.66
+30,LAW,Racing Bulls,15.0,20.0,Retired,2025,Mexico City,20,Race,False,13.333,13.2,0.15,28.23,22.57,22.14
+4,NOR,McLaren,1.0,1.0,Finished,2025,São Paulo,21,Race,True,3.667,3.4,0.06,26.15,23.86,23.79
+12,ANT,Mercedes,2.0,2.0,Finished,2025,São Paulo,21,Race,True,8.667,7.4,0.11,23.28,23.51,23.17
+1,VER,Red Bull Racing,19.0,3.0,Finished,2025,São Paulo,21,Race,True,7.0,6.8,0.08,26.84,25.15,24.01
+63,RUS,Mercedes,6.0,4.0,Finished,2025,São Paulo,21,Race,True,5.0,6.8,0.11,23.28,23.51,23.17
+81,PIA,McLaren,4.0,5.0,Finished,2025,São Paulo,21,Race,True,2.333,2.8,0.06,26.15,23.86,23.79
+87,BEA,Haas F1 Team,8.0,6.0,Finished,2025,São Paulo,21,Race,True,9.333,11.0,0.11,24.11,23.89,24.11
+30,LAW,Racing Bulls,7.0,7.0,Finished,2025,São Paulo,21,Race,True,16.333,15.0,0.15,23.23,25.23,24.02
+6,HAD,Racing Bulls,5.0,8.0,Finished,2025,São Paulo,21,Race,True,13.333,13.4,0.15,23.23,25.23,24.02
+27,HUL,Kick Sauber,10.0,9.0,Finished,2025,São Paulo,21,Race,True,15.667,15.0,0.14,22.97,25.45,24.57
+10,GAS,Alpine,9.0,10.0,Finished,2025,São Paulo,21,Race,True,16.667,17.2,0.16,24.25,24.28,23.85
+23,ALB,Williams,12.0,11.0,Finished,2025,São Paulo,21,Race,True,16.333,15.4,0.23,23.86,24.11,23.55
+31,OCO,Haas F1 Team,20.0,12.0,Finished,2025,São Paulo,21,Race,True,6.333,8.6,0.11,24.11,23.89,24.11
+55,SAI,Williams,15.0,13.0,Finished,2025,São Paulo,21,Race,True,13.333,14.8,0.23,23.86,24.11,23.55
+14,ALO,Aston Martin,11.0,14.0,Finished,2025,São Paulo,21,Race,True,14.667,13.4,0.14,23.64,25.25,26.27
+43,COL,Alpine,16.0,15.0,Finished,2025,São Paulo,21,Race,True,13.667,15.4,0.16,24.25,24.28,23.85
+18,STR,Aston Martin,14.0,16.0,Finished,2025,São Paulo,21,Race,True,15.333,13.6,0.14,23.64,25.25,26.27
+22,TSU,Red Bull Racing,17.0,17.0,Finished,2025,São Paulo,21,Race,True,5.667,5.0,0.08,26.84,25.15,24.01
+44,HAM,Ferrari,13.0,18.0,Retired,2025,São Paulo,21,Race,False,4.667,5.0,0.13,31.48,24.71,23.72
+16,LEC,Ferrari,3.0,19.0,Retired,2025,São Paulo,21,Race,False,9.333,7.0,0.13,31.48,24.71,23.72
+5,BOR,Kick Sauber,18.0,20.0,Retired,2025,São Paulo,21,Race,False,12.667,12.8,0.14,22.97,25.45,24.57
+1,VER,Red Bull Racing,2.0,1.0,Finished,2025,Las Vegas,22,Race,True,10.333,8.2,0.08,21.28,26.0,24.51
+63,RUS,Mercedes,4.0,2.0,Finished,2025,Las Vegas,22,Race,True,4.333,6.4,0.11,21.49,23.31,22.82
+12,ANT,Mercedes,17.0,3.0,Finished,2025,Las Vegas,22,Race,True,2.667,4.2,0.11,21.49,23.31,22.82
+16,LEC,Ferrari,9.0,4.0,Finished,2025,Las Vegas,22,Race,True,15.0,10.2,0.13,21.49,27.23,25.19
+55,SAI,Williams,3.0,5.0,Finished,2025,Las Vegas,22,Race,True,13.667,14.6,0.23,26.02,23.77,23.36
+6,HAD,Racing Bulls,8.0,6.0,Finished,2025,Las Vegas,22,Race,True,11.667,12.8,0.15,25.2,24.97,23.83
+27,HUL,Kick Sauber,11.0,7.0,Finished,2025,Las Vegas,22,Race,True,16.0,15.2,0.14,27.8,23.24,23.95
+44,HAM,Ferrari,19.0,8.0,Finished,2025,Las Vegas,22,Race,True,13.667,10.2,0.13,21.49,27.23,25.19
+31,OCO,Haas F1 Team,13.0,9.0,Finished,2025,Las Vegas,22,Race,True,9.0,9.2,0.11,22.03,23.72,23.34
+87,BEA,Haas F1 Team,14.0,10.0,Finished,2025,Las Vegas,22,Race,True,9.0,8.0,0.11,22.03,23.72,23.34
+14,ALO,Aston Martin,7.0,11.0,Finished,2025,Las Vegas,22,Race,True,16.0,14.8,0.14,21.04,24.04,24.62
+22,TSU,Red Bull Racing,20.0,12.0,Finished,2025,Las Vegas,22,Race,True,7.0,7.0,0.08,21.28,26.0,24.51
+10,GAS,Alpine,10.0,13.0,Finished,2025,Las Vegas,22,Race,True,13.667,15.0,0.16,23.35,24.06,23.7
+30,LAW,Racing Bulls,6.0,14.0,Lapped,2025,Las Vegas,22,Race,True,7.0,10.8,0.15,25.2,24.97,23.83
+43,COL,Alpine,15.0,15.0,Lapped,2025,Las Vegas,22,Race,True,12.667,13.8,0.16,23.35,24.06,23.7
+23,ALB,Williams,16.0,16.0,Retired,2025,Las Vegas,22,Race,False,9.667,11.6,0.23,26.02,23.77,23.36
+5,BOR,Kick Sauber,18.0,17.0,Retired,2025,Las Vegas,22,Race,False,12.0,13.0,0.14,27.8,23.24,23.95
+18,STR,Aston Martin,12.0,18.0,Retired,2025,Las Vegas,22,Race,False,13.667,14.6,0.14,21.04,24.04,24.62
+4,NOR,McLaren,1.0,19.0,Disqualified,2025,Las Vegas,22,Race,False,3.667,3.4,0.06,21.25,24.26,23.93
+81,PIA,McLaren,5.0,20.0,Disqualified,2025,Las Vegas,22,Race,False,8.333,6.2,0.06,21.25,24.26,23.93
+1,VER,Red Bull Racing,3.0,1.0,Finished,2025,Qatar,23,Race,True,10.0,8.8,0.08,28.86,25.12,24.71
+81,PIA,McLaren,1.0,2.0,Finished,2025,Qatar,23,Race,True,14.667,10.0,0.06,28.3,23.35,23.79
+55,SAI,Williams,7.0,3.0,Finished,2025,Qatar,23,Race,True,11.333,12.4,0.23,28.66,24.44,24.44
+4,NOR,McLaren,2.0,4.0,Finished,2025,Qatar,23,Race,True,13.667,9.4,0.06,28.3,23.35,23.79
+12,ANT,Mercedes,5.0,5.0,Finished,2025,Qatar,23,Race,True,3.0,3.6,0.11,30.61,22.58,23.06
+63,RUS,Mercedes,4.0,6.0,Finished,2025,Qatar,23,Race,True,3.333,3.2,0.11,30.61,22.58,23.06
+14,ALO,Aston Martin,8.0,7.0,Finished,2025,Qatar,23,Race,True,15.0,15.4,0.14,29.83,23.03,24.09
+16,LEC,Ferrari,10.0,8.0,Finished,2025,Qatar,23,Race,True,10.333,11.4,0.13,29.92,26.46,25.42
+30,LAW,Racing Bulls,12.0,9.0,Finished,2025,Qatar,23,Race,True,9.333,11.0,0.15,28.45,25.55,24.82
+22,TSU,Red Bull Racing,15.0,10.0,Finished,2025,Qatar,23,Race,True,4.667,6.8,0.08,28.86,25.12,24.71
+23,ALB,Williams,14.0,11.0,Finished,2025,Qatar,23,Race,True,8.0,9.6,0.23,28.66,24.44,24.44
+44,HAM,Ferrari,17.0,12.0,Finished,2025,Qatar,23,Race,True,6.667,11.4,0.13,29.92,26.46,25.42
+5,BOR,Kick Sauber,19.0,13.0,Finished,2025,Qatar,23,Race,True,14.667,14.4,0.14,28.27,24.35,25.43
+43,COL,Alpine,20.0,14.0,Lapped,2025,Qatar,23,Race,True,14.333,13.8,0.16,30.13,23.46,24.09
+31,OCO,Haas F1 Team,16.0,15.0,Lapped,2025,Qatar,23,Race,True,10.333,9.2,0.11,35.11,22.93,23.56
+10,GAS,Alpine,9.0,16.0,Lapped,2025,Qatar,23,Race,True,14.0,13.4,0.16,30.13,23.46,24.09
+18,STR,Aston Martin,18.0,17.0,Retired,2025,Qatar,23,Race,False,12.0,13.2,0.14,29.83,23.03,24.09
+6,HAD,Racing Bulls,6.0,18.0,Retired,2025,Qatar,23,Race,False,9.667,8.8,0.15,28.45,25.55,24.82
+87,BEA,Haas F1 Team,13.0,19.0,Retired,2025,Qatar,23,Race,False,11.333,10.4,0.11,35.11,22.93,23.56
+27,HUL,Kick Sauber,11.0,20.0,Retired,2025,Qatar,23,Race,False,12.333,13.2,0.14,28.27,24.35,25.43
+1,VER,Red Bull Racing,1.0,1.0,Finished,2025,Abu Dhabi,24,Race,True,7.667,8.2,0.08,24.31,25.66,25.63
+81,PIA,McLaren,3.0,2.0,Finished,2025,Abu Dhabi,24,Race,True,8.667,10.0,0.06,21.42,25.23,24.47
+4,NOR,McLaren,2.0,3.0,Finished,2025,Abu Dhabi,24,Race,True,2.667,9.4,0.06,21.42,25.23,24.47
+16,LEC,Ferrari,5.0,4.0,Finished,2025,Abu Dhabi,24,Race,True,9.333,10.2,0.13,21.46,27.63,26.62
+63,RUS,Mercedes,4.0,5.0,Finished,2025,Abu Dhabi,24,Race,True,4.667,4.0,0.11,22.43,25.13,24.41
+14,ALO,Aston Martin,6.0,6.0,Finished,2025,Abu Dhabi,24,Race,True,14.0,13.8,0.14,22.46,24.84,24.6
+31,OCO,Haas F1 Team,8.0,7.0,Finished,2025,Abu Dhabi,24,Race,True,14.667,13.0,0.11,22.24,27.08,25.66
+44,HAM,Ferrari,16.0,8.0,Finished,2025,Abu Dhabi,24,Race,True,8.0,7.2,0.13,21.46,27.63,26.62
+27,HUL,Kick Sauber,18.0,9.0,Finished,2025,Abu Dhabi,24,Race,True,16.667,15.4,0.14,21.69,26.35,25.16
+18,STR,Aston Martin,15.0,10.0,Finished,2025,Abu Dhabi,24,Race,True,10.0,11.8,0.14,22.46,24.84,24.6
+5,BOR,Kick Sauber,7.0,11.0,Finished,2025,Abu Dhabi,24,Race,True,14.0,13.2,0.14,21.69,26.35,25.16
+87,BEA,Haas F1 Team,11.0,12.0,Finished,2025,Abu Dhabi,24,Race,True,13.667,12.0,0.11,22.24,27.08,25.66
+55,SAI,Williams,12.0,13.0,Finished,2025,Abu Dhabi,24,Race,True,10.0,9.6,0.23,21.63,26.18,25.2
+22,TSU,Red Bull Racing,10.0,14.0,Finished,2025,Abu Dhabi,24,Race,True,4.0,5.0,0.08,24.31,25.66,25.63
+12,ANT,Mercedes,14.0,15.0,Finished,2025,Abu Dhabi,24,Race,True,5.333,4.2,0.11,22.43,25.13,24.41
+23,ALB,Williams,17.0,16.0,Finished,2025,Abu Dhabi,24,Race,True,9.0,9.6,0.23,21.63,26.18,25.2
+6,HAD,Racing Bulls,9.0,17.0,Lapped,2025,Abu Dhabi,24,Race,True,13.667,11.0,0.15,21.92,25.63,25.71
+30,LAW,Racing Bulls,13.0,18.0,Lapped,2025,Abu Dhabi,24,Race,True,14.667,12.8,0.15,21.92,25.63,25.71
+10,GAS,Alpine,19.0,19.0,Lapped,2025,Abu Dhabi,24,Race,True,15.0,14.6,0.16,22.41,25.91,25.13
+43,COL,Alpine,20.0,20.0,Lapped,2025,Abu Dhabi,24,Race,True,16.333,15.4,0.16,22.41,25.91,25.13

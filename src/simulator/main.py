@@ -3,6 +3,8 @@ from sim.season import Season
 from services.loader import load_teams, load_drivers, load_circuits
 
 DATA_DIR = Path(__file__).parent / "data"
+MODELS_DATA_DIR = Path(__file__).parent.parent / "models" / "data" / "driver_predicted_position.csv"
+
 
 def print_menu():
     lines = []
@@ -21,7 +23,7 @@ def print_menu():
 def main():  
     teams_by_id = load_teams(DATA_DIR / "teams.json")
     teams = list(teams_by_id.values())
-    drivers = load_drivers(DATA_DIR / "drivers.json", teams_by_id)
+    drivers = load_drivers(DATA_DIR / "drivers.json", MODELS_DATA_DIR, teams_by_id)
     circuits = load_circuits(DATA_DIR / "circuits_2025.json")
     round = 0
 
