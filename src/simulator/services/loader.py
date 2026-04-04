@@ -14,7 +14,7 @@ def load_teams(path: str | Path) -> dict[str, Team]:
     team_df = team_df[team_df['Year'] == 2025]
     team_df = team_df.sort_values('RoundNumber').groupby('TeamName').last().reset_index()
     
-    dnf_lookup = team_df.set_index('TeamName')['TeamDNFRateLast5'].to_dict()
+    dnf_lookup = team_df.set_index('TeamName')['TeamDNFRate'].to_dict()
     
     return {t["id"]: Team(id=t["id"], name=t["name"], dnf_rate=dnf_lookup.get(t["csv_name"], 0.05)) for t in data}
 

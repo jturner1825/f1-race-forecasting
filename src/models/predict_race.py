@@ -15,8 +15,8 @@ def predict_race():
     model_df[['SafetyCar', 'VirtualSafetyCar', 'RedFlag']] = model_df[['SafetyCar', 'VirtualSafetyCar', 'RedFlag']].astype(int)
     
     # Prepare driver & team features
-    driver_features = model_df.drop(columns=['Abbreviation', 'Year', 'RoundNumber', 'Event', 'Position', 'AvgTeamFinishLast3', 'AvgTeamFinishLast5', 'TeamDNFRateLast5', 'AvgTeamPitTime', 'AvgTeamPitTimeLast3', 'AvgTeamPitTimeLast5'])
-    team_features = model_df[['AvgTeamFinishLast3', 'TeamDNFRateLast5', 'Corners', 'TrackLength', 'TotalLaps', 'TrackTemp', 'AirTemp', 'Rainfall', 'SafetyCar', 'VirtualSafetyCar', 'RedFlag']]
+    driver_features = model_df.drop(columns=['Abbreviation', 'Year', 'RoundNumber', 'Event', 'Position', 'AvgTeamFinishLast3', 'AvgTeamFinishLast5', 'TeamDNFRate', 'AvgTeamPitTime', 'AvgTeamPitTimeLast3', 'AvgTeamPitTimeLast5'])
+    team_features = model_df[['AvgTeamFinishLast3', 'TeamDNFRate', 'Corners', 'TrackLength', 'TotalLaps', 'TrackTemp', 'AirTemp', 'Rainfall', 'SafetyCar', 'VirtualSafetyCar', 'RedFlag']]
 
     # Generate predictions
     driver_pred = driver_model.predict(driver_features)

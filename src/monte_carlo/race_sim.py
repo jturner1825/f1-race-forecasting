@@ -1,4 +1,7 @@
 import random
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parents[1] / "simulator"))
 
 POINTS_TABLE = {1: 25, 2: 18, 3: 15, 4: 12, 5: 10, 6: 8, 7: 6, 8: 4, 9: 2, 10: 1}
 INCIDENT_THRESHOLDS = [
@@ -7,8 +10,7 @@ INCIDENT_THRESHOLDS = [
     (0.80, 0.4),  # VSC
 ]
 
-
-def simulate_race(drivers, k=0.3):
+def simulate_race(drivers: list, k=0.3):
     # Step 1: Determine race incidents
     roll = random.random()
     for threshold, incident_k in INCIDENT_THRESHOLDS:
@@ -53,3 +55,17 @@ def simulate_race(drivers, k=0.3):
                         'Points': 0})
             
     return results
+
+if __name__ == "__main__":
+    from services.loader import load_teams, load_drivers
+    from pathlib import Path
+
+    DATA_DIR = Path(__file__).parents[1] / "simulator" / "data"
+    RATINGS_CSV = Path(__file__).parents[1] / "models" / "data" / "driver_predicted_position.csv"
+
+    teams_by_id = load_teams(DATA_DIR / "teams.json")
+    drivers = load_drivers(DATA_DIR / "drivers.json", RATINGS_CSV, teams_by_id)
+
+    results = simulate_race(drivers)
+    for r in results:
+        print(f"{r['Position']}: {r['Driver'].name} (DNF: {r['DNF']}, Points: {r['Points']})")

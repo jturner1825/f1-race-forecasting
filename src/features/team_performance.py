@@ -10,8 +10,8 @@ def calc_team_finish_features(results_df: pd.DataFrame) -> pd.DataFrame:
     # Group by TeamName & calculate finishing position in previous 5 races
     results_df['AvgTeamFinishLast5'] = results_df.groupby(['TeamName', 'Year'])['Position'].transform(lambda x: x.shift(1).rolling(5).mean())
     
-    # Group by TeamName & calculate DNF Rate in previous 5 races
-    results_df['TeamDNFRateLast5'] = results_df.groupby(['TeamName', 'Year'])['Finished'].transform(lambda x: (~x).shift(1).rolling(5).mean()).round(2)
+    # Group by TeamName & calculate Team DNF rate
+    results_df['TeamDNFRate'] = results_df.groupby(['TeamName'])['Finished'].transform(lambda x: (~x).mean()).round(2)
     
     return results_df
 
