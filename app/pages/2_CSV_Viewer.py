@@ -5,15 +5,18 @@ import pandas as pd
 FEATURES_DIR = Path(__file__).parents[2] / 'data' / 'features'
 
 CSV_DESCRIPTIONS = {
-    "Driver_form.csv": """Per-driver rolling form metrics including average finishing 
+    "driver_features.csv": """Per-driver rolling form metrics including average finishing 
                         position, DNF rate, average lap time, and pit stop times over 
                         the last 3 and 5 races.""",
-    "Team_form.csv": """Per-team rolling form metrics including average finishing position, 
+    "team_features.csv": """Per-team rolling form metrics including average finishing position, 
                         DNF rate, and average lap time over the last 3 and 5 races.""",
-    "Race_context.csv": """Combined race context features including each driver's qualifying 
+    "race_features.csv": """Combined race context features including each driver's qualifying 
                         delta to pole position, circuit characteristics (track length, 
                         corners, total laps), and session conditions (track temp, air temp, 
-                        rainfall. safety car deployments)."""
+                        rainfall. safety car deployments).""",
+    "model_dataset.csv": """The final dataset used for training the regression model, which 
+                        includes all the features from the feature files merged together, 
+                        along with the target variable 'AvgTeamFinishLast5'."""
 }
 
 csv_files = list(FEATURES_DIR.glob("*.csv"))

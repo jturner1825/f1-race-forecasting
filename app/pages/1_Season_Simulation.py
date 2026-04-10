@@ -9,6 +9,7 @@ from services.loader import load_teams, load_drivers, load_circuits # type: igno
 from sim.season import Season  # type: ignore
 
 DATA_DIR = Path(__file__).parents[2] / 'src' / 'simulator' / 'data'
+RATINGS_CSV = Path(__file__).parents[2] / "src" / "models" / "data" / "driver_predicted_position.csv"
 
 TEAM_COLORS = {
     "Mercedes": "#00D7B6",
@@ -23,10 +24,9 @@ TEAM_COLORS = {
     "Haas": "#9C9FA2",
 }
 
-
 teams_by_id = load_teams(DATA_DIR / "teams.json")
 teams = list(teams_by_id.values())
-drivers = load_drivers(DATA_DIR / "drivers.json", teams_by_id)
+drivers = load_drivers(DATA_DIR / "drivers.json", RATINGS_CSV, teams_by_id)
 circuits = load_circuits(DATA_DIR / "circuits_2025.json")
 
 if "season" not in st.session_state:

@@ -32,17 +32,17 @@ def aggregate_races(race_results: list, N: int):
 
     # Convert counts to probabilities
     probabilities = pd.DataFrame.from_dict(race_counts, orient='index')
-    probabilities['win_prob'] = round(probabilities['wins'] / N, 2)
-    probabilities['podium_prob'] = round(probabilities['podiums'] / N, 2)
-    probabilities['points_prob'] = round(probabilities['points_finishes'] / N, 2)
+    probabilities['win_prob'] = round(probabilities['wins'] / N, 3)
+    probabilities['podium_prob'] = round(probabilities['podiums'] / N, 3)
+    probabilities['points_prob'] = round(probabilities['points_finishes'] / N, 3)
     probabilities['Avg_Position'] = round(probabilities['Avg_Position'] / N, 1)
     
     probabilities = probabilities.sort_values('win_prob', ascending=False)
      
     # Format DataFrame for race display
-    probabilities['Win %'] = probabilities['win_prob'].apply(lambda x: f"{x:.0%}")
-    probabilities['Podium %'] = probabilities['podium_prob'].apply(lambda x: f"{x:.0%}")
-    probabilities['Points %'] = probabilities['points_prob'].apply(lambda x: f"{x:.0%}")
+    probabilities['Win %'] = probabilities['win_prob'].apply(lambda x: f"{x:.1%}")
+    probabilities['Podium %'] = probabilities['podium_prob'].apply(lambda x: f"{x:.1%}")
+    probabilities['Points %'] = probabilities['points_prob'].apply(lambda x: f"{x:.1%}")
     probabilities['Avg_Position'] = probabilities['Avg_Position'].apply(lambda x: f"{x:.1f}")
 
     probabilities.drop(columns=['wins', 'podiums', 'points_finishes'], inplace=True)
@@ -60,10 +60,10 @@ def aggregate_season(season_results: list, N: int):
         season_counts[key] = season_counts.get(key, 0) + 1  
 
     championship_prob = pd.DataFrame.from_dict(season_counts, orient='index')
-    championship_prob['championship_prob'] = round(championship_prob[0] / N, 2)
+    championship_prob['championship_prob'] = round(championship_prob[0] / N, 3)
     championship_prob = championship_prob.sort_values('championship_prob', ascending=False)
     
-    championship_prob['Championship %'] = championship_prob['championship_prob'].apply(lambda x: f"{x:.0%}")
+    championship_prob['Championship %'] = championship_prob['championship_prob'].apply(lambda x: f"{x:.1%}")
     championship_prob = championship_prob.reset_index().rename(columns={'index': 'Driver'})
     
     return championship_prob[['Driver', 'Championship %']]
@@ -82,10 +82,10 @@ def aggregate_constructor_championship(drivers: list, season_results: list, N: i
         constructor_points[winning_constructor] = constructor_points.get(winning_constructor, 0) + 1
 
     constructor_df = pd.DataFrame.from_dict(constructor_points, orient='index')
-    constructor_df['constructor_prob'] = round(constructor_df[0] / N, 2)
+    constructor_df['constructor_prob'] = round(constructor_df[0] / N, 3)
     constructor_df = constructor_df.sort_values('constructor_prob', ascending=False)
     
-    constructor_df['Constructor Championship %'] = constructor_df['constructor_prob'].apply(lambda x: f"{x:.0%}")
+    constructor_df['Constructor Championship %'] = constructor_df['constructor_prob'].apply(lambda x: f"{x:.1%}")
     constructor_df = constructor_df.reset_index().rename(columns={'index': 'Team'})
 
     return constructor_df[['Team', 'Constructor Championship %']]
@@ -118,27 +118,43 @@ def position_distribution(drivers: list, race_results: list, N: int):
     
     return position_dist_df
 
+def run_aggregations(drivers: list, teams: list, N: int):
+    race_results = []
+    season_results = []
+    for _ in range(N):
+        race_results.append(simulate_race(drivers))
+        season_results.append(simulate_season(drivers))
+    
+    aggregrated_races = aggregate_races(race_results, N)
+    aggregrated_season = aggregate_season(season_results, N)
+    aggregrated_constructor = aggregate_constructor_championship(drivers, season_results, N)
+    team_dnf_rates = aggregate_teams(teams)
+    position_dist = position_distribution(drivers, race_results, N)
+    
+    aggregations = {
+        'race': aggregrated_races,
+        'season': aggregrated_season,
+        'constructor': aggregrated_constructor,
+        'team_dnf': team_dnf_rates,
+        'position_dist': position_dist
+    }
+    
+    return aggregations
     
 if __name__ == "__main__":
     teams_by_id = load_teams(DATA_DIR / "teams.json")
     drivers = load_drivers(DATA_DIR / "drivers.json", RATINGS_CSV, teams_by_id)
 
     N = 10000
-    race_results = []
-    season_results = []
-    for _ in range(N):
-        race_results.append(simulate_race(drivers))
-        season_results.append(simulate_season(drivers))
-
-    print("Race Win / Podium / Points Probabilities:\n")
-    print(aggregate_races(race_results, N).to_markdown(index=False))
-    print("\nSeason Championship Probabilities:\n")
-    print(aggregate_season(season_results, N).to_markdown(index=False))
-    print("\nConstructor Championship Probabilities:\n")
-    print(aggregate_constructor_championship(drivers, season_results, N).to_markdown(index=False))
-    print("\nTeam DNF Rates:\n")
-    print(aggregate_teams(list(teams_by_id.values())).to_markdown(index=False))
-    print("\nPosition Distribution:\n")
-    print(position_distribution(drivers, race_results, N).to_markdown(index=False))
     
-
+    results = run_aggregations(drivers, list(teams_by_id.values()), N)
+    print("Race Probabilities:")
+    print(results['race'])
+    print("\nSeason Probabilities:")    
+    print(results['season'])
+    print("\nConstructor Championship Probabilities:")
+    print(results['constructor'])
+    print("\nTeam DNF Rates:")
+    print(results['team_dnf'])
+    print("\nPosition Distribution:")
+    print(results['position_dist'])
