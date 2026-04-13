@@ -166,6 +166,9 @@ if 'results' in st.session_state:
 else:
     st.info("Run the Monte Carlo simulation to see the race outcome distribution.")
 
-with st.container(border=True):
-    st.markdown("**Raw Race Outcome Probabilities**")
-    st.dataframe(race_df, use_container_width=True, hide_index=True)
+if 'results' in st.session_state:
+    with st.container(border=True):
+        st.markdown("**Raw Race Outcome Probabilities**")
+        st.dataframe(race_df, use_container_width=True, hide_index=True)
+else:
+    st.info('Run the Monte Carlo Simulation to see the raw race outcome probabilities.')
