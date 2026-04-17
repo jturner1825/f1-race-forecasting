@@ -2,7 +2,7 @@
   { "id": "NOR", "name": "Norris",     "rating": 90, "team_id": "mclaren" },
   { "id": "VER", "name": "Verstappen", "rating": 96, "team_id": "red_bull" },
   { "id": "PIA", "name": "Piastri",    "rating": 89, "team_id": "mclaren" },
-  { "id": "RUS", "name": "Russel",     "rating": 86, "team_id": "mercedes" },
+  { "id": "RUS", "name": "Russell",     "rating": 86, "team_id": "mercedes" },
   { "id": "LEC", "name": "Leclerc",    "rating": 86, "team_id": "ferrari" },
   { "id": "HAM", "name": "Hamilton",   "rating": 82, "team_id": "ferrari" },
   { "id": "ANT", "name": "Antonelli",  "rating": 79, "team_id": "mercedes" },
