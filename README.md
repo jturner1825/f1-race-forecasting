@@ -6,14 +6,13 @@ This project builds a full analytics pipeline for motorsport data, including:
 
 - Historical data ingestion from the FastF1 API  
 - Feature engineering for driver and team performance  
-- Machine learning models for predicting race outcomes  
+- Machine learning models for predicting race outcomes 
 - Monte Carlo simulations to estimate race and season probabilities  
 
 The system uses historical race data to generate **probabilistic forecasts** for:
 
 - Race winners  
 - Podium finishes  
-- Points finishes  
 - Expected finishing position  
 - Championship standings over a full season  
 
@@ -40,14 +39,13 @@ This repository is designed to be extensible and will later support **database-b
 - pandas  
 - numpy  
 - scikit-learn  
-- matplotlib / seaborn  
+- Streamlit
 - Monte Carlo simulation  
 
 Planned future additions:
 
 - Oracle Database integration  
-- XGBoost / Gradient Boosting models  
-- Visualization dashboards  
+- XGBoost / Gradient Boosting models
 
 ---
 
@@ -59,19 +57,26 @@ The repository is organized as a modular analytics pipeline.
 f1-race-forecasting/
 │
 ├── data/
-|   ├── cache/
+│   ├── cache/
 │   ├── raw/
 │   ├── processed/
-|   └── features/
+│   └── features/
 │
+├── notebooks/
+│   ├── finish_position_regressor.ipynb
+│   └── team_consistency_regressor.ipynb
 │
 ├── src/
-│   ├── ingest/
-│   ├── processing/
+│   ├── common/
 │   ├── features/
+│   ├── ingest/
 │   ├── models/
-│   ├── simulation/
-│   └── common/
+│   ├── monte_carlo/
+│   ├── processing/
+│   └── simulatator/
+│
+├── main.py
+└── requirements.txt
 ```
 
 Each module handles a specific part of the pipeline.
@@ -119,13 +124,14 @@ Data sources include:
 
 Raw data is stored locally in the `data/raw/` directory for reproducibility.
 
-Example ingestion scripts:
+Ingestion scripts:
 
 ```
 src/ingest/fetch_schedule.py
 src/ingest/fetch_session_data.py
 src/ingest/fetch_laps.py
 src/ingest/fetch_results.py
+src/ingest/fetch_circuit_info.py
 ```
 
 ---
@@ -134,26 +140,27 @@ src/ingest/fetch_results.py
 
 The model uses engineered features that describe driver and team performance.
 
-Example features include:
+Features include:
 
 ### Driver Form
 
 - Average finishing position over the last N races  
-- Points scored in recent races  
 - DNF rate  
-- Teammate comparison metrics  
+- Average lap time over the last N races
+- Average pit time over the last N races
 
 ### Team Performance
 
-- Constructor average points over recent races  
-- Reliability metrics  
-- Qualifying performance trends  
+- Average team finishing position over the last N races
+- Team DNF rate
+- Average team pit time over the last N races
+
 
 ### Race Context
 
 - Grid position  
 - Qualifying delta to pole  
-- Circuit characteristics  
+- Circuit information
 - Weather conditions (when available)  
 
 Feature construction scripts are located in:
@@ -168,27 +175,37 @@ src/features/
 
 Initial models are implemented using **scikit-learn**.
 
-Example prediction targets:
+Two models, both Random Forest Regressors trainer on 2023-2024 data, tested on 2025:
 
-### Points Finish Classification
 
-Predict whether a driver finishes **inside the points (top 10)**.
+### 1. Finish Position Regressor
+(finish_position_regressor.ipynb)
 
-```
-target = 1 if finish_position <= 10 else 0
-```
+* Target: driver finishing position (1-20)
+* Features: driver form metrics + race context (21 features)
+* Results: MAE 2.93, RMSE 3.96, R² 0.51
+* Saved as: finish_position_model.pkl
 
-### Finish Position Regression
+### 2. Team Consistency Regressor
+(team_consistency_regressor.ipynb)
 
-Predict expected finishing position.
+* Target: AvgTeamFinishLast5 (team's rolling 5-race avg finishing position)
+* Features: team performance metrics + circuit/session conditions (11 features)
+* Results: MAE 1.25, RMSE 1.59, R² 0.84
+* Saved as: team_consistency_model.pkl
 
-Models are trained using historical race data and evaluated using chronological train/test splits.
+## Inference (src/models/predict_race.py) combines both:
 
-Training scripts:
+* Driver prediction weighted at 70%, team prediction at 30%
+* Outputs a **rating** per driver, averaged across all rounds -> driver_predicted_position.csv
+
+Model scripts:
 
 ```
 notebooks/finish_position_regressor.ipynb
 notebooks/team_consisteny_regressor.ipynb
+
+predict_race.py
 ```
 
 ---
@@ -201,23 +218,28 @@ Each race is simulated thousands of times to estimate outcome probabilities.
 
 Simulation factors include:
 
-- Model-predicted driver performance  
-- Grid position advantage  
+- Model-predicted driver performance 
 - Random race variability  
 - Reliability / DNF probability  
-- Team performance adjustments  
+- Race incident simulation (Red Flag, Safety Car, VSC)  
 
 Example simulation outputs:
 
 - Win probability  
 - Podium probability  
 - Points probability  
-- Expected finishing order  
+- Average finishing position
+- Position distribution across all simulations
+- Driver championship probability
+- Constructor championship probability
+- Team DNF rates
 
 Simulation modules:
 
 ```
-src/simulation/
+src/monte_carlo/race_sim.py
+src/monte_carlo/season_sim.py
+src/monte_carlo/aggregator.py
 ```
 
 ---
@@ -226,18 +248,13 @@ src/simulation/
 
 The simulator can extend race forecasts into **full-season projections**.
 
-For each race weekend:
-
-1. Generate race predictions  
-2. Simulate the race thousands of times  
-3. Update driver and constructor standings  
-4. Estimate championship probabilities  
+For each simulation run, all 24 rounds of the season are simulated sequentially. Points are accumulated per driver across every race, and the driver/constructor with the most points at the end is recorded as the champion. This is repeated N times to estimate championship probabilities.
+ 
 
 Outputs include:
 
-- Driver Championship odds  
-- Constructor Championship odds  
-- Projected season points totals  
+- Driver Championship probability  
+- Constructor Championship probability  
 
 ---
 
@@ -245,7 +262,7 @@ Outputs include:
 
 Example race prediction output:
 
-| Driver | Win % | Podium % | Points % | Avg Finish |
+| Driver | Win % | Podium % | Points % | Avg_Position |
 |------|------|------|------|------|
 | Verstappen | 45% | 82% | 97% | 2.1 |
 | Leclerc | 22% | 61% | 93% | 3.8 |
@@ -288,14 +305,6 @@ Integration of additional features from telemetry data:
 - sector performance  
 - long-run pace  
 - tire degradation  
-
-### Visualization
-
-Possible additions:
-
-- race prediction dashboards  
-- championship probability charts  
-- driver/team performance visualizations  
 
 ---
 
