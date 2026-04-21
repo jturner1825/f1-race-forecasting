@@ -1,7 +1,8 @@
 import fastf1
 import pandas as pd
+import subprocess
 
-from src.common.setup_directories import setup_directories, setup_cache, RAW_DIR, PROCESSED_DIR, FEATURES_DIR, START_YEAR, END_YEAR
+from src.common.setup_directories import setup_directories, setup_cache, RAW_DIR, PROCESSED_DIR, FEATURES_DIR, MODELS_DIR, START_YEAR, END_YEAR
 from src.ingest.fetch_schedule import fetch_schedule
 from src.ingest.fetch_laps import fetch_laps
 from src.ingest.fetch_results import fetch_session_results
@@ -13,7 +14,7 @@ from src.processing.clean_session_data import clean_session_data
 from src.features.driver_form import build_driver_form
 from src.features.team_performance import build_team_performance
 from src.features.race_context import build_race_context
-
+from src.models.predict_race import predict_race
 
 def run_ingest():
     for year in range(START_YEAR, END_YEAR + 1):
@@ -28,14 +29,12 @@ def run_ingest():
 
     fetch_circuit_info_all()
 
-
 def fetch_circuit_info_all():
     schedule = fastf1.get_event_schedule(END_YEAR)
     schedule = schedule[~schedule['EventName'].str.contains('Test')]
     for round_number in schedule['RoundNumber']:
         fetch_circuit_info(END_YEAR, round_number)
     print('Circuit info ingest complete.')
-
 
 def run_processing():
     laps_df = pd.read_csv(RAW_DIR / 'Race_laps.csv')
@@ -52,7 +51,6 @@ def run_processing():
 
     print('Processing complete.')
 
-
 def run_features():
     results_df = pd.read_csv(PROCESSED_DIR / 'Race_results_cleaned.csv')
     laps_df = pd.read_csv(PROCESSED_DIR / 'Race_laps_cleaned.csv')
@@ -67,12 +65,39 @@ def run_features():
     race_context_df.to_csv(FEATURES_DIR / 'race_features.csv', index=False)
 
     print('Feature engineering complete.')
-
+    
+def run_models():
+    prediction_df = round(predict_race().sort_values(by='rating'), 2)
+    prediction_df.to_csv(MODELS_DIR / 'driver_predicted_position.csv', index=False)
+    
+    print('Predictions Complete!')
+    
+def run_app():
+    subprocess.run(["streamlit", "run", "app/Home.py"])
 
 if __name__ == "__main__":
     setup_directories()
     setup_cache()
 
-    run_ingest()
-    run_processing()
-    run_features()
+    if not (RAW_DIR / 'Race_laps.csv').exists():
+        run_ingest()
+    else:
+        print('Raw data already exists, skipping ingest.')
+
+    if not (PROCESSED_DIR / 'Race_laps_cleaned.csv').exists():
+        run_processing()
+    else:
+        print('Processed data already exists, skipping processing.')
+
+    if not (FEATURES_DIR / 'driver_features.csv').exists():
+        run_features()
+    else:
+        print('Features already exist, skipping feature engineering.')
+
+
+    if not (MODELS_DIR / 'driver_predicted_position.csv').exists():
+        run_models()
+    else:
+        print('Predictions already exist, skipping model inference.')
+
+    run_app()
