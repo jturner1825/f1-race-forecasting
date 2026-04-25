@@ -5,6 +5,7 @@ import pandas as pd
 import base64
 import plotly.express as px
 
+sys.path.append(str(Path(__file__).parents[2]))
 sys.path.append(str(Path(__file__).parents[2] / 'src' / 'simulator'))
 sys.path.append(str(Path(__file__).parents[2] / 'src' / 'monte_carlo'))
 

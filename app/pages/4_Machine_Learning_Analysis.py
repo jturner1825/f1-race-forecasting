@@ -5,6 +5,11 @@ import pandas as pd
 import joblib 
 from pathlib import Path
 from src.common.setup_directories import FEATURES_DIR, MODELS_DIR
+import sys
+from pathlib import Path
+
+sys.path.append(str(Path(__file__).parents[2]))
+
 
 @st.cache_resource
 def load_models():
