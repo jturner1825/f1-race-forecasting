@@ -40,7 +40,7 @@ This repository is designed to be extensible and will later support **database-b
 - numpy  
 - scikit-learn  
 - Streamlit
-- Monte Carlo simulation  
+- Plotly  
 
 Planned future additions:
 
@@ -55,6 +55,14 @@ The repository is organized as a modular analytics pipeline.
 
 ```
 f1-race-forecasting/
+│
+├── app/
+│   ├── Home.py
+│   └── pages/
+│       ├── 1_Season_Simulation.py
+│       ├── 2_CSV_Viewer.py
+│       ├── 3_Monte_Carlo_Analysis.py
+│       └── 4_Machine_Learning_Analysis.py
 │
 ├── data/
 │   ├── cache/
@@ -73,7 +81,7 @@ f1-race-forecasting/
 │   ├── models/
 │   ├── monte_carlo/
 │   ├── processing/
-│   └── simulatator/
+│   └── simulator/
 │
 ├── main.py
 └── requirements.txt
@@ -98,7 +106,7 @@ Data cleaning & normalization
      ↓
 Feature engineering
      ↓
-Machine learning model training
+Machine learning model inference
      ↓
 Race prediction
      ↓
@@ -118,9 +126,8 @@ Data sources include:
 - Race results  
 - Qualifying results  
 - Lap times  
-- Sector times  
-- Tire stints  
-- Session metadata  
+- Session metadata (safety car, red flags, weather)
+- Circuit information  
 
 Raw data is stored locally in the `data/raw/` directory for reproducibility.
 
@@ -175,7 +182,7 @@ src/features/
 
 Initial models are implemented using **scikit-learn**.
 
-Two models, both Random Forest Regressors trainer on 2023-2024 data, tested on 2025:
+Two models, both Random Forest Regressors trained on 2023-2024 data. Metrics below are from held-out test sets evaluated in the training notebooks:
 
 
 ### 1. Finish Position Regressor
@@ -203,9 +210,9 @@ Model scripts:
 
 ```
 notebooks/finish_position_regressor.ipynb
-notebooks/team_consisteny_regressor.ipynb
+notebooks/team_consistency_regressor.ipynb
 
-predict_race.py
+src/models/predict_race.py
 ```
 
 ---
@@ -325,38 +332,46 @@ pip install -r requirements.txt
 
 ---
 
-# Running the Pipeline
+# Running the Project
 
-Example workflow:
-
-### 1. Collect FastF1 data
+The entire pipeline is automated through a single entry point:
 
 ```
+python main.py
+```
+
+This will automatically run each stage in order, skipping any stage whose output already exists:
+
+1. **Data ingestion** — fetches FastF1 race, lap, session, and circuit data into `data/raw/`
+2. **Data processing** — cleans and normalizes raw data into `data/processed/`
+3. **Feature engineering** — builds driver, team, and race context features into `data/features/`
+4. **Model inference** — generates driver predicted positions using trained models
+5. **Launch Streamlit app** — opens the dashboard at `http://localhost:8501`
+
+### Running individual pipeline stages
+
+If you want to run a specific stage manually:
+
+```
+# Ingest
 python src/ingest/fetch_session_data.py
-```
 
-### 2. Build features
+# Processing
+python src/processing/clean_results.py
 
-```
-python src/features/build_race_features.py
-```
+# Feature engineering
+python src/features/build_features.py
 
-### 3. Train models
-
-```
-python src/models/train_points_classifier.py
-```
-
-### 4. Predict race outcomes
-
-```
+# Model inference
 python src/models/predict_race.py
 ```
 
-### 5. Run race simulation
+### Streamlit app only
+
+To launch the UI without re-running the pipeline:
 
 ```
-python src/simulation/race_simulator.py
+streamlit run app/Home.py
 ```
 
 ---
@@ -364,19 +379,18 @@ python src/simulation/race_simulator.py
 # Repository Structure
 
 ```
+app/               # Streamlit dashboard pages
 data/
-|
-├── raw/
-├── features/
-└── processed/
+├── raw/           # FastF1 raw data
+├── features/      # Engineered feature CSVs
+└── processed/     # Cleaned data
 
 src/
-│
 ├── ingest/        # FastF1 data ingestion
 ├── processing/    # Data cleaning
 ├── features/      # Feature engineering
-├── models/        # ML training & prediction
-├── simulation/    # Race and season simulation
+├── models/        # ML inference
+├── monte_carlo/   # Race and season simulation
 └── common/        # Shared utilities
 ```
 
